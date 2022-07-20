@@ -5,5 +5,10 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 
 ## The Team 
 
+### Staff
+
+
+
 ## Find us
 
+You can find us at LMU Munich, Akademiestraße 7, 80799 Munich. 
