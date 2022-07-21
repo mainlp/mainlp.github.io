@@ -12,6 +12,7 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 - Barbara Plank, Prof. Dr. and Chair for AI and Computational Linguistics
 - Sabine Greser, secretariat
 - Verena Blaschke, PhD student (starts 08/2022)
+- Joris Baan, affiliated PhD student (started 10/2021)
 - Elisa Bassignana, affiliated PhD student  (started 11/2020)
 - Mike Zhang, affiliated PhD student (started 09/2020)
 - Max Müller-Eberstein, affiliated PhD student  (started 09/2020)
