@@ -17,6 +17,12 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 - Mike Zhang, affiliated PhD student (started 09/2020)
 - Max Müller-Eberstein, affiliated PhD student  (started 09/2020)
 
+### Affiliated researchers and Co-supervisors
+
+- Rob van de Goot, ITU
+- Raquel Fernandez, University of Amsterdam
+
+
 ### Open positions
 
 - [IT SysAdmin/Technician](https://job-portal.lmu.de/jobposting/bef17f226d9d8ef5f52a6bbb77762d1cf9870b6a0) *application deadline: Sep 4, 2022*
