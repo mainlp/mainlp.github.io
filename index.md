@@ -25,9 +25,12 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 
 ### Open positions
 
+Come join us at CIS/LMU Munich:
+
 - [IT SysAdmin/Technician](https://job-portal.lmu.de/jobposting/bef17f226d9d8ef5f52a6bbb77762d1cf9870b6a0) *application deadline: Sep 4, 2022*
-- PhD opening (ERC Consolidator grant project) and research assistants opening - more info incl. application deadline will follow soon, contact Prof. Barbara Plank if you are interested 
-- We are (still!) looking for Postdocs and PhDs! See our [general open call](https://www.cis.lmu.de/web/jobs.html) [as of July 2022, the starting dates are now from circa Nov 2022 onwards]
+- [PhD and Postdoc openings at CIS](https://www.cis.lmu.de/web/jobs2022.html) *application deadline: Sep 8, 2022*
+- [Two tenure-track lecturers in Computational Linguistics and NLP at CIS](https://www.cis.lmu.de/web/arpositions2022.html) *application deadline: Sep 30, 2022*
+
 
 ## Find us
 
