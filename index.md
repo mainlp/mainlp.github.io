@@ -19,6 +19,7 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 
 ### Affiliated researchers and Co-supervisors
 
+- Maria Barrett, ITU
 - Rob van de Goot, ITU
 - Raquel Fernandez, University of Amsterdam
 
@@ -27,8 +28,7 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 
 Come join us at CIS/LMU Munich:
 
-- [IT SysAdmin/Technician](https://job-portal.lmu.de/jobposting/bef17f226d9d8ef5f52a6bbb77762d1cf9870b6a0) *application deadline: Sep 4, 2022*
-- [PhD and Postdoc openings at CIS](https://www.cis.lmu.de/web/jobs2022.html) *application deadline: Sep 8, 2022*
+- [PhD and Postdoc openings at CIS](https://www.cis.lmu.de/web/jobs2022.html) *application deadline: Sep 8, 2022 (open until filled)*
 - [Two tenure-track lecturers in Computational Linguistics and NLP at CIS](https://www.cis.lmu.de/web/arpositions2022.html) *application deadline: Sep 30, 2022*
 
 
