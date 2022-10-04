@@ -9,13 +9,15 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 
 ### Staff
 
-- Barbara Plank, Prof. Dr. and Chair for AI and Computational Linguistics
+- [Barbara Plank](https://bplank.github.io/), Prof. Dr. and Chair for AI and Computational Linguistics
 - Sabine Greser, secretariat
-- [Verena Blaschke](https://scholar.google.com/citations?user=ld-aOGMAAAAJ), PhD student (08/2022-)
-- [Joris Baan](https://jorisbaan.nl/), affiliated PhD student (10/2021-)
-- [Elisa Bassignana](https://elisabassignana.github.io/), affiliated PhD student  (11/2020-)
-- [Mike Zhang](https://jjzha.github.io/), affiliated PhD student (09/2020-)
-- [Max Müller-Eberstein](https://personads.me/), affiliated PhD student  (09/2020-)
+- [Robert Litschko](https://rlitschk.github.io/), Postdoc (2022-)
+- [Katya Artemove](https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ), Postdoc (2022-)
+- [Verena Blaschke](https://scholar.google.com/citations?user=ld-aOGMAAAAJ), PhD student (2022-)
+- [Joris Baan](https://jorisbaan.nl/), affiliated PhD student (2021-)
+- [Elisa Bassignana](https://elisabassignana.github.io/), affiliated PhD student  (2020-)
+- [Mike Zhang](https://jjzha.github.io/), affiliated PhD student (2020-)
+- [Max Müller-Eberstein](https://personads.me/), affiliated PhD student  (2020-)
 
 ### Affiliated researchers or/and Co-supervisors
 
