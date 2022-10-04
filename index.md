@@ -12,7 +12,7 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 - [Barbara Plank](https://bplank.github.io/), Prof. Dr. and Chair for AI and Computational Linguistics
 - Sabine Greser, secretariat
 - [Robert Litschko](https://rlitschk.github.io/), Postdoc (2022-)
-- [Katya Artemove](https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ), Postdoc (2022-)
+- [Katya Artemova](https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ), Postdoc (2022-)
 - [Verena Blaschke](https://scholar.google.com/citations?user=ld-aOGMAAAAJ), PhD student (2022-)
 - [Joris Baan](https://jorisbaan.nl/), affiliated PhD student (2021-)
 - [Elisa Bassignana](https://elisabassignana.github.io/), affiliated PhD student  (2020-)
@@ -28,7 +28,7 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 
 ### Open positions
 
-Come join us at CIS/LMU Munich:
+Join us at CIS/LMU Munich:
 
 - [PhD and Postdoc openings at CIS](https://www.cis.lmu.de/web/jobs2022.html) *application deadline: Sep 8, 2022 (open until filled)*
 - [Two tenure-track lecturers in Computational Linguistics and NLP at CIS](https://www.cis.lmu.de/web/arpositions2022.html) *application deadline: Sep 30, 2022*
