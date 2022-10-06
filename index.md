@@ -13,7 +13,7 @@ We are the MaiNLP research lab at [CIS](https://www.cis.lmu.de/) LMU Munich (Mun
 - Sabine Greser, secretariat
 - [Robert Litschko](https://rlitschk.github.io/), Postdoc (2022-)
 - [Katya Artemova](https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ), Postdoc (2022-)
-- [Verena Blaschke](https://scholar.google.com/citations?user=ld-aOGMAAAAJ), PhD student (2022-)
+- [Verena Blaschke](https://verenablaschke.github.io/), PhD student (2022-)
 - [Joris Baan](https://jorisbaan.nl/), affiliated PhD student (2021-)
 - [Elisa Bassignana](https://elisabassignana.github.io/), affiliated PhD student  (2020-)
 - [Mike Zhang](https://jjzha.github.io/), affiliated PhD student (2020-)
