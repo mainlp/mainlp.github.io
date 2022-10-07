@@ -1,0 +1,97 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+
+  h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 66px;
+  }
+}
+
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 56px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  max-width: $max-content-width;
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+
+.desc {
+  font-style: italic;
+}
+
+.avatar {
+  border-radius: 50%;
+  margin-bottom: -10px;
+}
+
+.card {
+  -webkit-box-shadow: 0 0 0 0;
+  box-shadow: 0 0 0 0;
+}
+
+.hoverable:hover {
+  -webkit-box-shadow: 0 0 0 0;
+  box-shadow: 0 0 0 0;
+}
+
+h2.card-title {
+  font-size: 1rem;
+}
+
+// via Academic theme for Hugo:
+ul.network-icon {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-title {
+  color: var(--global-divider-color);
+}
+
+.card .card-body .card-text {
+  font-weight: 300;
+  color: var(--global-text-color);
+  font-size: .85rem;
+}
+
+.card-title {
+  margin-bottom: 0rem;
+}
+
+.email {
+  font-weight: 300;
+  font-size: .85rem;
+}
+
+.hidden {
+  max-height: 0;
+  overflow: hidden;
+}
+
+.hidden.open {
+  max-height: 100em;
+  transition: all .15s ease;
+}
