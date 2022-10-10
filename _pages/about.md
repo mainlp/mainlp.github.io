@@ -21,6 +21,7 @@ staff:
     - name: Barbara Plank
       description: Prof. Dr. and Chair for AI and Computational Linguistics
       website: https://bplank.github.io/
+      picture: barbara.jpg
     - name: Sabine Greser
       description: Secretary
     - name: Robert Litschko
@@ -29,6 +30,7 @@ staff:
     - name: Katya Artemova
       description: Postdoc (2022–)
       website: https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ
+      picture: katya.jpg
     - name: Verena Blaschke
       description: PhD student (2022–)
       website: https://verenablaschke.github.io/
@@ -36,24 +38,30 @@ staff:
     - name: Joris Baan
       description: Affiliated PhD student (2021–)
       website: https://jorisbaan.nl/
+      picture: joris.jpg
     - name: Elisa Bassignana
       description: Affiliated PhD student (2020–)
       website: https://elisabassignana.github.io/
+      picture: elisa.jpg
     - name: Mike Zhang
       description: Affiliated PhD student (2020–)
       website: https://jjzha.github.io/
+      picture: mike.jpg
     - name: Max Müller-Eberstein
       description: Affiliated PhD student (2020–)
       website: https://personads.me/
+      picture: max.jpg
 affiliated:
   title: Affiliated researchers and/or co-supervisors
   people:
     - name: Maria Barrett
       description: Postdoc at ITU
       website: https://mariabarrett.github.io/
+      picture: maria.jpg
     - name: Rob van der Goot
       description: Assistant professor at ITU
       website: https://robvanderg.github.io/
+      picture: rob.jpg
     - name: Raquel Fernández
       description: Professor at UvA
       website: https://staff.fnwi.uva.nl/r.fernandezrovira/
@@ -63,8 +71,6 @@ Welcome!
 We are the Munich AI & NLP (MaiNLP) research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/) at LMU Munich. 
 We carry out research in Natural Language Processing, an interdisciplinary subdiscipline of Artificial Intelligence at the interface of computer science, linguistics and cognitive science. 
 In broad terms, our aim is to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
-
-*\[Website currently under construction\]*
 
 <div class="projects">
   {%- for group in page.groups -%}
@@ -90,10 +96,10 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
             <div class="card-text">
               <!-- <p style="margin-bottom: 0rem;">{{person.description}}</p> -->
               {{person.description}}
-            <ul class="network-icon" aria-hidden="true">
-              <!-- {% if person.website -%}
+            <!-- <ul class="network-icon" aria-hidden="true">
+              {% if person.website -%}
                 <li><a href="{{person.website}}"><i class="fas fa-globe"></i></a></li>
-              {%- endif -%} -->
+              {%- endif -%}
               {% if person.email -%}
                 <li><a role="button" class="email" style="color: var(--global-theme-color)"><i class="fas fa-envelope"></i></a></li>
               {%- endif -%}
@@ -111,7 +117,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
               <div class="email hidden">
                 <p>{{ person.email }}</p>
               </div>
-            {%- endif -%}
+            {%- endif -%} -->
               </div>
             </div>
           </article>
@@ -121,4 +127,11 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   {%- endfor -%}
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">Open positions</a>
+
+  <h2 class="category">Find us!</h2>
+  We're located at Akademiestraße 7, 80799 Munich, Germany.<br/>
+
+  <a href="https://twitter.com/MaiNLPlab"><i class="fab fa-twitter"></i> MaiNLPlab</a><br/>
+  <a href="https://twitter.com/CisLMU"><i class="fab fa-twitter"></i> CisLMU</a>
+
 </div>

@@ -11,8 +11,11 @@ You can find us at:<br/>
 
 Lehrstuhl für Künstliche Intelligenz und Computerlinguistik<br/>
 Akademiestraße 7<br/>
-80799 Munich
+80799 Munich<br/>
+Germany
 
 ---
 
-Contact: Sabine Greser (secretary), greser AT cis.lmu.de
+Contact:<br/>
+
+Sabine Greser (secretary), greser AT cis.lmu.de
