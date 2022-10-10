@@ -77,7 +77,6 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <h2 class="category">{{page.[group].title}}</h2>
     <div class="grid">
       {%- for person in page.[group].people -%}
-        <div class="container">
           <article class="grid-item card">
             {% if person.picture -%}
               <img class="avatar" src="/assets/img/{{person.picture}}" alt="Portrait ({{person.name}})" width="auto" height="auto">
@@ -94,9 +93,9 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
               {%- endif -%}
             </h2>
             <div class="card-text">
-              <!-- <p style="margin-bottom: 0rem;">{{person.description}}</p> -->
               {{person.description}}
-            <!-- <ul class="network-icon" aria-hidden="true">
+              <!-- <p style="margin-bottom: 0rem;">{{person.description}}</p> 
+              <ul class="network-icon" aria-hidden="true">
               {% if person.website -%}
                 <li><a href="{{person.website}}"><i class="fas fa-globe"></i></a></li>
               {%- endif -%}
@@ -121,7 +120,6 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
               </div>
             </div>
           </article>
-        </div>
       {%- endfor -%}
     </div>
   {%- endfor -%}

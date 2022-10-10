@@ -40,6 +40,9 @@ body.sticky-bottom-footer {
 .avatar {
   border-radius: 50%;
   margin-bottom: -10px;
+  object-fit: cover;
+  width: 150px;
+  height: 150px;
 }
 
 .card {
