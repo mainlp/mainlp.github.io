@@ -65,6 +65,7 @@ affiliated:
     - name: Raquel Fernández
       description: Professor at UvA
       website: https://staff.fnwi.uva.nl/r.fernandezrovira/
+      picture: raquel.png
 ---
 
 Welcome!
