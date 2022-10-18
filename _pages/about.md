@@ -27,6 +27,7 @@ staff:
     - name: Robert Litschko
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
+      picture: robert.png
     - name: Katya Artemova
       description: Postdoc (2022–)
       website: https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ
