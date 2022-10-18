@@ -126,11 +126,12 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     </div>
   {%- endfor -%}
   <h2 class="category">You?</h2>
-  Join us! <a href="/jobs">Open positions</a>
+  Join us! <a href="/jobs">→Open positions</a>
 
   <h2 class="category">Find us!</h2>
   We're located at Akademiestraße 7, 80799 Munich, Germany.<br/>
 
+  <a href="https://github.com/mainlp"><i class="fab fa-github"></i> MaiNLP</a><br/>
   <a href="https://twitter.com/MaiNLPlab"><i class="fab fa-twitter"></i> MaiNLPlab</a><br/>
   <a href="https://twitter.com/CisLMU"><i class="fab fa-twitter"></i> CisLMU</a>
 
