@@ -18,4 +18,4 @@ Germany
 
 Contact:<br/>
 
-Sabine Greser (secretary), greser AT cis.lmu.de
+You can reach our secretary (Sabine Greser) via sekrki AT cis.lmu.de

@@ -24,6 +24,9 @@ staff:
       picture: barbara.jpg
     - name: Sabine Greser
       description: Secretary
+    - name: Leon Weber
+      description: Postdoc (2022–)
+      website: https://leonweber.me/
     - name: Robert Litschko
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
