@@ -23,7 +23,7 @@ staff:
       website: https://bplank.github.io/
       picture: barbara.jpg
     - name: Sabine Greser
-      description: Secretary
+      description: Assistant
       picture: sabine.jpg
     - name: Leon Weber
       description: Postdoc (2022–)

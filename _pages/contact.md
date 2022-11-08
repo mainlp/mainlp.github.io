@@ -16,6 +16,4 @@ Germany
 
 ---
 
-Contact:<br/>
-
-You can reach our secretary (Sabine Greser) via sekrki AT cis.lmu.de
+Email: sekrki AT cis.lmu.de
