@@ -37,6 +37,9 @@ staff:
       description: Postdoc (2022–)
       website: https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ
       picture: katya.jpg
+    - name: Xinpeng Wang
+      description: PhD student (2022–)
+      website: https://xinpeng-wang.github.io/
     - name: Verena Blaschke
       description: PhD student (2022–)
       website: https://verenablaschke.github.io/
