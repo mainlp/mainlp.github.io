@@ -40,6 +40,7 @@ staff:
     - name: Xinpeng Wang
       description: PhD student (2022–)
       website: https://xinpeng-wang.github.io/
+      picture: xinpeng.jpg
     - name: Verena Blaschke
       description: PhD student (2022–)
       website: https://verenablaschke.github.io/
