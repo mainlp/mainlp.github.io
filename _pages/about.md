@@ -141,8 +141,10 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   Thanks to / Our research is supported by:
   <ul>
     <li>European Research Council (ERC)</li>
+    <li>Danmarks Frie Forskningsfond (DFF)</li>
+    <li>Freistaat Bayern</li>
+    <li>Bayerisches Forschungsinstitut für Digitale Transformation</li>
     <li>Munich Center for Machine Learning (MCML)</li>
-    <li>Danmarks Frie Forskningsfond (DFF)</li>	
   </ul>
   
   <h2 class="category">Find us!</h2>
