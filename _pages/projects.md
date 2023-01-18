@@ -137,7 +137,8 @@ questions in English. Project can be extended to multlingual/transfer learning. 
 - *Evaluation of language and vision models*. Analysis of image captioning or visual question answering models.  References: [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/)
 
 
-Check back on projects related to language and vision, learning from fortuitious data incl. human data etc. For inspiration, see also [Plank, 2016.](https://arxiv.org/abs/1608.07836)
+Check back on projects related to language and vision, learning from fortuitious data incl. human data and human-in-the loop learning. 
+For inspiration, see also [Plank, 2016.](https://arxiv.org/abs/1608.07836)
 
 
    
