@@ -137,6 +137,14 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
 
+  <h2 class="category">Funding</h2>
+  Thanks to / Our research is supported by:
+  <ul>
+    <li>European Research Council (ERC)</li>
+    <li>Munich Center for Machine Learning (MCML)</li>
+    <li>Danmarks Frie Forskningsfond (DFF)</li>	
+  </ul>
+  
   <h2 class="category">Find us!</h2>
   We're located at Akademiestraße 7, 80799 Munich, Germany.<br/>
 
