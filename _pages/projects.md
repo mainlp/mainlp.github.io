@@ -125,7 +125,7 @@ Start with the CNN/DM dataset. Project can be extended to other genres and langu
 
 - *Understanding Indirect Answers.* Indirect answers are replies to polar questions without explicit use
 of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect answers are natural in human dialogue, but very difficult for a conversational AI system. Build an NLP model that improves automatic understanding of indirect
-questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaar et al., 2021](https://aclanthology.org/2021.codi-main.1/)
+questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)
 
 
 ### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision
