@@ -14,7 +14,7 @@ Content:
 
 At MaiNLP we aim to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
 
- <img class="avatar" src="/assets/img/max_ling_var.jpg" alt="Linguistic variation and NLP. Credits: Max Mueller-Eberstein" width="auto" height="500px">
+ <a href="https://twitter.com/NLPnorth/status/1613906442955919362"><img class="avatar" src="/assets/img/max_ling_var.jpg" alt="Linguistic variation and NLP. Credits: Max Mueller-Eberstein" width="500px" height="auto" /></a>
 
 
 <h2 class="category"><a name="ongoingproj">On-going research projects</a></h2>
