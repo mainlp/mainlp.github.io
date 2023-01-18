@@ -12,6 +12,11 @@ Content:
 * [Research projects](#ongoingproj)
 * [Thesis projects](#thesisproj)
 
+At MaiNLP we aim to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
+
+ <img class="avatar" src="/assets/img/max_ling_var.jpg" alt="Linguistic variation and NLP. Credits: Max Mueller-Eberstein" width="400px" height="auto">
+
+
 <h2 class="category"><a name="ongoingproj">On-going research projects</a></h2>
 
 The following lists selected on-going research projects at MaiNLP, including selected publications:
@@ -58,6 +63,7 @@ Interested in PhD, Postdoc or student assistants jobs?  <a href="/jobs">→Open 
 <br>
 <br>
 
+
 <h2 class="category"><a name="thesisproj">Thesis projects</a></h2>
 
 Interested in doing your MSc or BSc thesis with us? We offer several BSc and MSc thesis topics at MaiNLP.
@@ -67,6 +73,8 @@ Currently, the following research vectors characterize broad topics in which we 
 Unless otherwise specified, all projects can be either at the MSc or BSc level. The exact scope of the project will be determined in a meeting before the start of the project. 
 
 Regularly <b>check back for updates</b> on thesis project suggestions. 
+
+
 
 ### V1: Low-resource, Multilingual NLP, NLP for Dialects, NLP for the Long Tail
 
