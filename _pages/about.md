@@ -76,6 +76,10 @@ affiliated:
       description: Professor at UvA
       website: https://staff.fnwi.uva.nl/r.fernandezrovira/
       picture: raquel.png
+    - name: Wilker Aziz
+      description: Assistant Professor at UvA
+      website: https://wilkeraziz.github.io/
+      picture: wilker.png
 ---
 
 Welcome!
