@@ -55,6 +55,9 @@ Selected publications:
 
 Interested in PhD, Postdoc or student assistants jobs?  <a href="/jobs">→Open positions</a>
 
+<br>
+<br>
+
 <h2 class="category"><a name="thesisproj">Thesis projects</a></h2>
 
 Interested in doing your MSc or BSc thesis with us? We offer several BSc and MSc thesis topics at MaiNLP.
@@ -63,7 +66,7 @@ Currently, the following research vectors characterize broad topics in which we 
 
 Unless otherwise specified, all projects can be either at the MSc or BSc level. The exact scope of the project will be determined in a meeting before the start of the project. 
 
-Regularly check back from more thesis project.
+Regularly <b>check back for updates</b> on thesis project suggestions. 
 
 ### V1: Low-resource, Multilingual NLP, NLP for Dialects, NLP for the Long Tail
 
