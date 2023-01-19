@@ -72,7 +72,7 @@ Currently, the following research vectors characterize broad topics in which we 
 
 Unless otherwise specified, all projects can be either at the MSc or BSc level. The exact scope of the project will be determined in a meeting before the start of the project. 
 
-*Important note for summer semester 2023*: We do not supervise industrial MSc/BSc thesis project (Industrieabschlussarbeiten) this semester. We cannot supervise students with "Hauptfach Informatik" this semester. 
+*Important note for summer semester 2023*: We do not supervise industrial MSc/BSc thesis project (Industrieabschlussarbeiten) this semester. 
 
 Regularly <b>check back for updates</b> on thesis project suggestions. 
 
@@ -147,7 +147,7 @@ For inspiration, see also [Plank, 2016.](https://arxiv.org/abs/1608.07836)
 
 ### How to apply for a BSc and MSc thesis project
 
-**Important information for CIS LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date. Deadlines for 2023: 
+**Important information for LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date. Deadlines for 2023: 
 * MSc students apply before **February 24, 2023**
 * BSc students apply before **March 6, 2023**
 
