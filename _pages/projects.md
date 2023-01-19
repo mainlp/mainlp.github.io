@@ -68,9 +68,11 @@ Interested in PhD, Postdoc or student assistants jobs?  <a href="/jobs">→Open 
 
 Interested in doing your MSc or BSc thesis with us? We offer several BSc and MSc thesis topics at MaiNLP.
  
-Currently, the following research vectors characterize broad topics in which we offer MSc and BSc thesis projects. We provide a (non-exhaustive) list of  research projects within each vector. We are also interested to supervise projects related to the [Research projects](#ongoingproj) indicated above. We recommend to check out the suggested/selected publications.
+Currently, the following research vectors characterize broad topics in which we offer MSc and BSc thesis projects. We provide a (non-exhaustive) list of  research projects within each vector. We are also interested to supervise projects related to the [Research projects](#ongoingproj) indicated above. You are welcome to send us your own project proposal. We recommend to check out the suggested/selected publications to get inspired.
 
 Unless otherwise specified, all projects can be either at the MSc or BSc level. The exact scope of the project will be determined in a meeting before the start of the project. 
+
+*Important update*: We do not supervise industrial MSc/BSc thesis project (Industrieabschlussarbeiten) this semester.
 
 Regularly <b>check back for updates</b> on thesis project suggestions. 
 
