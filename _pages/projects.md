@@ -76,7 +76,7 @@ Regularly <b>check back for updates</b> on thesis project suggestions.
 
 
 
-### V1: Low-resource, Multilingual NLP, NLP for Dialects, NLP for the Long Tail
+### V1: Learning from Limited Data (Low-resource, NLP for Dialects, Multilinguality)
 
 #### Selected research projects 
 
@@ -98,7 +98,7 @@ Evaluation: Quantitative metric used by the relevant dataset(s) / Qualitative an
 - *German dialects in Wikipedia*. German dialects have unique representation in Wikipedia: there are Wiki’s written in Bavarian, Low Saxon, and several other dialects. At the first glance, these Wiki’s may look like a straightforward translation from German, but it is not the case. In this project we aim to study, what are the theme differences between these Wikipedia and if there are any biases towards cultural and geographical phenomena. Last, but not least, the edit history allows us to explore how the Wikipedia authors deal with the lack of standardized orthography and how they develop spelling rules on their own.
 
 
-### V2: High-precision Information Extraction in Targeted Domains
+### V2: High-Quality Information Extraction in Targeted Domains
 
 #### Selected research projects
 
