@@ -132,7 +132,7 @@ questions in English. Project can be extended to multlingual/transfer learning. 
 
 ### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision
 
-#### Selected research projects
+#### Selected research projects (Mostly at the MSc level)
 
 - *Prediction of Human Label Variation.* Human annotators notoriously disagree when labeling objects. This human label variation remains an understudied problem. Can we detect data that triggers high disagreement? References: [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570), and [Zhou et al. 2022](https://aclanthology.org/2022.findings-acl.79.pdf)
 
