@@ -156,7 +156,7 @@ To apply, please send your application material with subject "[BSc (or MSc) thes
 It should contain a single pdf with the following information: 
 - CV, your study program, full grade transcript
 - Level: BSc or MSc thesis project
-- Which theme or concrete project interests you the most (optional: we are open to project proposals related to the research vectors or on-going research projects above)
+- Which theme or concrete project interests you the most (optional: we are open to project proposals related to the research vectors or on-going research projects above). If you are interested in multiple, list your preferences for up to two (ranked list: first priority, second priority)
 - Languages you speak 
 - Your favorite project so far, and why 
 - Your knowledge and interest in data annotation, data analysis and machine learning/deep learning (including which toolkits you are familiar with)
