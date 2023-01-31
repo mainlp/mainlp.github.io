@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
-groups: [staff, admin, affiliated, alumni]
+groups: [staff, admin, affiliated]
 staff:
   title: Staff
   people:
@@ -83,11 +83,7 @@ affiliated:
       description: Assistant Professor at UvA
       website: https://wilkeraziz.github.io/
       picture: wilker.png
-alumni:
-  title: Alumni 
-  people:
-    - name: Anna Barwig
-      description: student assistant (2022-2023)
+
 ---
 
 Welcome!
