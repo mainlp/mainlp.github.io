@@ -85,6 +85,7 @@ affiliated:
       picture: wilker.png
 alumni:
   title: Alumni 
+  people:
     - name: Anna Barwig
       description: student assistant (2022-2023)
 ---
