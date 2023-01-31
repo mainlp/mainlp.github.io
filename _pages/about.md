@@ -142,6 +142,16 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
       {%- endfor -%}
     </div>
   {%- endfor -%}
+  <h2 class="category">Support staff and student assistants</h2>
+   <ul>
+    <li>You? <a href="/jobs">→Open positions</a></li>
+  </ul>
+  
+  <h2 class="category">Alumni</h2>
+  <ul>
+    <li>Anna Barwig, student assistant (2022-2023)</li>
+  </ul>
+  
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
 
