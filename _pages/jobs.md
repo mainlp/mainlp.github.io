@@ -13,5 +13,5 @@ Join us at MaiNLP @ LMU Munich / CIS:
 - [PhD and Postdoc openings at CIS (general call)](https://www.cis.lmu.de/web/jobs2022.html) *open until filled*
 - [PhD position, KLIMA-MEMES project](content/PhD-Klima-memes.pdf) (topics: climate change, memes, affect, language and vision, social media) *application deadline: February 12, 2023*
 - [Student assistants / Studentische Hilfskräfte](content/Studentische_Hilfskraft.pdf) *application deadline: February 3, 2023 (open until filled)*
-- Soon up: Student assistants / Studentische Hilfskräfte for teaching support *application to appear soon, if you are interested email Prof. Plank*
+- Soon up: Student assistants / Studentische Hilfskräfte for teaching support in the summer and winter semester *application to appear soon, if you are interested email Prof. Plank*
 
