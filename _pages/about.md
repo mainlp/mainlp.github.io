@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
-groups: [staff, affiliated]
+groups: [staff, admin, affiliated]
 staff:
   title: Staff
   people:
@@ -22,9 +22,6 @@ staff:
       description: Prof. Dr. and Chair for AI and Computational Linguistics
       website: https://bplank.github.io/
       picture: barbara.jpg
-    - name: Sabine Greser
-      description: Assistant
-      picture: sabine.jpg
     - name: Leon Weber
       description: Postdoc (2022–)
       website: https://leonweber.me/
@@ -61,6 +58,12 @@ staff:
       description: Affiliated PhD student (2020–)
       website: https://personads.me/
       picture: max.jpg
+admin:
+  title: Administrative Staff
+  people:
+    - name: Sabine Greser
+      description: Assistant
+      picture: sabine.jpg
 affiliated:
   title: Affiliated researchers and/or co-supervisors
   people:
