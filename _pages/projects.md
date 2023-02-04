@@ -26,8 +26,8 @@ The following lists selected on-going research projects at MaiNLP, including sel
 Intelligent machines that understand natural language texts are the Holy Grail of Artificial Intelligence. If achieved, they can automatically extract useful information from big messy text collections. Many challenges must be overcome first. To alleviate the scarcity of resources and broaden the scope to Danish and other small languages, we will unify two strands of research, transfer learning and weak supervision, with the aim to design cross-domain and cross-lingual algorithms that extract information more robustly under minimal guidance. In this project we work on two concrete applications: cross-lingual syntactic parsing (and representation learning on the linguistic manifold) and cross-domain information extraction.
 
 Selected publications:
-- [Müller-Eberstein, van der Goot, Plank, 2021. Genre as Weak Supervision for Cross-lingual Dependency Parsing. In EMNLP.](https://aclanthology.org/2021.emnlp-main.393/)
-- [Müller-Eberstein, van der Goot, Plank, 2022. Spectral Probing. In EMNLP.](https://arxiv.org/abs/2210.11860)
+- [Müller-Eberstein, van der Goot & Plank, 2021. Genre as Weak Supervision for Cross-lingual Dependency Parsing. In EMNLP.](https://aclanthology.org/2021.emnlp-main.393/)
+- [Müller-Eberstein, van der Goot & Plank, 2022. Spectral Probing. In EMNLP.](https://arxiv.org/abs/2210.11860)
 - [Bassignana & Plank, 2022. CrossRE: A Cross-Domain Dataset for Relation Extraction. In EMNLP Findings.](https://arxiv.org/abs/2210.09345)
 - [Bassignana & Plank, 2022. What Do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification. In ACL SRW.](https://aclanthology.org/2022.acl-srw.7/)
 
@@ -36,8 +36,8 @@ Selected publications:
 Job markets are about to undergo profound changes in the years to come. The skills required to perform most jobs will shift significantly. This is due to a series of interrelated developments in technology, migration and digitization. As skills change, we are facing increasing needs for quicker and better hiring to better match people to jobs. Big multilingual job vacancy data are emerging on a variety and multitude of platforms. Such big data can provide insights on labor market skill set demands. This project is centered around computational job market analysis, to reliably perform high-precision information extraction on targeted domain data.
 
 Selected publications:
-- [Zhang, Jensen, Sonniks, Plank, 2022. SkillSpan: Hard and Soft Skill Extraction from English Job Postings. In NAACL.](https://aclanthology.org/2022.naacl-main.366/)
-- [Zhang, Jensen, Plank, 2021. Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning. In LREC.](https://aclanthology.org/2022.lrec-1.46/)
+- [Zhang, Jensen, Sonniks & Plank, 2022. SkillSpan: Hard and Soft Skill Extraction from English Job Postings. In NAACL.](https://aclanthology.org/2022.naacl-main.366/)
+- [Zhang, Jensen & Plank 2021. Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning. In LREC.](https://aclanthology.org/2022.lrec-1.46/)
  
 
 ### <a name="ercdialect">ERC Consolidator grant DIALECT: Natural Language Understanding for non-standard languages and dialects</a>
@@ -53,7 +53,7 @@ By integrating dialectal variation into models able to learn from scarce data an
 Selected publications:
 - [Plank, 2016. What to do about non-standard (or non-canonical) language in NLP. In KONVENS.](https://arxiv.org/abs/1608.07836)
 - [Plank, 2022. The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation. In EMNLP.](https://arxiv.org/abs/2211.02570)
-- [Baan, Aziz, Plank, Fernandez.  Stop Measuring Calibration When Humans Disagree. In EMNLP.](https://arxiv.org/abs/2210.16133)
+- [Baan, Aziz, Plank & Fernandez 2022.  Stop Measuring Calibration When Humans Disagree. In EMNLP.](https://arxiv.org/abs/2210.16133)
 
 
 ### Applications for PhD, Postdoc and student assistant positions
