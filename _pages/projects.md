@@ -76,40 +76,60 @@ Unless otherwise specified, all projects can be either at the MSc or BSc level. 
 
 Regularly <b>check back for updates</b> on thesis project suggestions. 
 
+News:
+- 2023, Feb 6: :sparkles: more thesis projects posted, MSc/BSc level indicators added
 
 
-### V1: Learning from Limited Data (Low-resource, NLP for Dialects, Multilinguality)
+
+### V1: Learning from Limited Data (Low-resource, NLP for Dialects, Multilinguality, Transfer)
 
 #### Selected research projects 
 
-- *Slot and Intent Detection for Low Resource Language Variants.* Digital assistants are becoming wide-spread, yet current technology covers only a limited set of languages.  How can we best do zero-shot transfer to low-resource language variants without standard orthography? [Reference: van der Goot et al., 2021](https://aclanthology.org/2021.naacl-main.197.pdf) Topics: Transfer Learning, Cross-linguality, Possibility to extend to a new low-resource language or dialect (Do you speak a language or dialect not yet covered, e.g. Bavarian, Austrian, Low Saxon or others?)
+- *Slot and Intent Detection for Low Resource Language Variants.* Digital assistants are becoming wide-spread, yet current technology covers only a limited set of languages.  How can we best do zero-shot transfer to low-resource language variants without standard orthography? [Reference: van der Goot et al., 2021](https://aclanthology.org/2021.naacl-main.197.pdf) and [VarDial 2023 SID4LR](https://sites.google.com/view/vardial-2023/shared-tasks). Create a new evaluation dataset of a low-resource language variant you speak, and investigate how to best transfer to it. Topics: Transfer Learning, Cross-linguality, Dataset annotation (Particularly suited for students interested in covering their own language or dialect not yet covered by existing systems including local dialects, e.g. Bavarian, Austrian, Low Saxon or others). Level: MSc.
 
-- *Adopting Information Retrieval Models for Rare Terms.* Neural ranking models have shown impressive results on general retrieval benchmarks, however, domain specific retrieval and representing rare terms are still an open challenge (Thakur et al., 2021). In this thesis, the goal is to explore strategies for rewriting queries and documents with the help of text simplification models or external resources such as WordNet or Wikipedia in order to improve their performance in domain transfer. [Reference: Thakur et al., 2021. BEIR: A Heterogeneous Benchmark for Zero-shot Evaluation of Information Retrieval Models]. 
+- *Adopting Information Retrieval Models for Rare Terms.* Neural ranking models have shown impressive results on general retrieval benchmarks, however, domain specific retrieval and representing rare terms are still an open challenge [(Thakur et al., 2021)](https://arxiv.org/abs/2104.08663). In this thesis, the goal is to explore strategies for rewriting queries and documents with the help of text simplification models or external resources such as WordNet or Wikipedia in order to improve their performance in domain transfer. Level: MSc.
 
-- *Dialect identification.*  How can we robustly distinguish between closely-related dialects?  German dialect identification across genres. (Data collection, modeling). For students interested in creation of a gold standard and classification. Reference (for Italian and Swiss German): [Aepli et al., 2022](https://aclanthology.org/2022.vardial-1.1.pdf), [Aepli and Hollenstein, 2014](https://noe-eva.github.io/publication/noah2015/)
+- *Dialect identification on social media.*  How can we robustly distinguish between closely-related dialects on social media like Twitter? For students interested in creation of a gold standard and classification. Reference (for Italian and Swiss German): [Aepli et al., 2022](https://aclanthology.org/2022.vardial-1.1.pdf), [Aepli and Hollenstein, 2014](https://noe-eva.github.io/publication/noah2015/) Level: BSc.
 
-- *Geolocation of Linguistic Variation in Italy* (BSc level). (Reference: [GeoLingIt](https://sites.google.com/view/geolingit/)). For students interested in linguistic variation. Participation shared task.
+- *Germanic Dialect identification across genres.*  How can we robustly distinguish between closely-related Germanic dialects across text types?  German wikipedias exist, but how well does a model trained on Wikipedia transfer to another text type like social media? For students interested in transfer learning and creation of a gold standard for dialect text classification. Reference: [Siewert et al., 2020](https://aclanthology.org/2020.vardial-1.3.pdf) and references above, [Aepli et al., 2022](https://aclanthology.org/2022.vardial-1.1.pdf), [Aepli and Hollenstein, 2014](https://noe-eva.github.io/publication/noah2015/). Level: MSc (preferred) or BSc.
 
-- *NLP methods for Folk Songs Lyrics.*  Folk music is an essential element of any culture. This project seeks to apply NLP techniques to study folk music of the German-speaking countries with a special focus on song lyrics written in dialect. You will start with building a pipeline for large-scale lyrics collection. Next, you will conduct a comprehensive analysis of song lyrics including (but not limited to): discovering most popular lyrical themes, studying rhymes and the figurative speech used in lyrics.
+- *Geolocation of Linguistic Variation in Italy.* (Reference: [GeoLingIt](https://sites.google.com/view/geolingit/)). For students interested in linguistic variation, particularly in Italian language varieties. Participation in a shared task and research paper writing. Level: MSc.
 
-- *Code-switching usage in German social media.* Code-switching is a language phenomenon that occurs when a multilingual speaker alternates multiple languages in a single utterance. This project studies when and why people mix high-standard German with its dialects when writing on social media. The ultimate goal is to explore contexts and grammar structures in which code-switching is mostly used. To this end, a pipeline for user-generated data collection and labeling should be developed along with learnable approaches to code-switching detection.
+- *NLP methods for Folk Songs Lyrics.*  Folk music is an essential element of any culture. This project seeks to apply NLP techniques to study folk music of the German-speaking countries with a special focus on song lyrics written in dialect. You will start with building a pipeline for large-scale lyrics collection. Next, you will conduct a comprehensive analysis of song lyrics including (but not limited to): discovering most popular lyrical themes, studying rhymes and the figurative speech used in lyrics. Level: BSc or MSc.
 
-- *Cross-model Alignment.* How similarly is linguistic information represented across models? Data: Any linguistically-motived dataset, ideally multilingual (e.g., multilingual syntactic parsing Universal Dependencies by Nivre et al., 2020) + a diverse selection of pre-trained language models. Method: Encode the same raw data + probe for linguistically-motivated tasks. Compare embeddings and probes for the same data across models.
-Evaluation: Quantitative metric used by the relevant dataset(s) / Qualitative analysis. [See references of MultiVaLUe project](#multivalue)
+- *Code-switching usage in German social media.* Code-switching is a language phenomenon that occurs when a multilingual speaker alternates multiple languages in a single utterance. This project studies when and why people mix high-standard German with its dialects when writing on social media. The ultimate goal is to explore contexts and grammar structures in which code-switching is mostly used. To this end, a pipeline for user-generated data collection and labeling should be developed along with learnable approaches to code-switching detection. Level: BSc or MSc.
 
-- *German dialects in Wikipedia*. German dialects have unique representation in Wikipedia: there are Wiki’s written in Bavarian, Low Saxon, and several other dialects. At the first glance, these Wiki’s may look like a straightforward translation from German, but it is not the case. In this project we aim to study, what are the theme differences between these Wikipedia and if there are any biases towards cultural and geographical phenomena. Last, but not least, the edit history allows us to explore how the Wikipedia authors deal with the lack of standardized orthography and how they develop spelling rules on their own.
+- *Probing large multlingual language models for cross-model alignment.* How similarly is linguistic information represented across models? Data: Any linguistically-motived dataset, ideally multilingual (e.g., multilingual syntactic parsing Universal Dependencies by Nivre et al., 2020) + a diverse selection of pre-trained language models. Method: Encode the same raw data + probe for linguistically-motivated tasks. Compare embeddings and probes for the same data across models.
+Evaluation: Quantitative metric used by the relevant dataset(s) / Qualitative analysis. [See references of MultiVaLUe project](#multivalue) Level: MSc.
+
+- *German dialects in Wikipedia.* German dialects have unique representations in Wikipedia: there are Wiki’s written in Bavarian, Low Saxon, and several other dialects. At the first glance, these Wiki’s may look like a straightforward translation from German, but it is not the case. In this project we aim to study, what are the theme differences between these Wikipedia and if there are any biases towards cultural and geographical phenomena. Last, but not least, the edit history allows us to explore how the Wikipedia authors deal with the lack of standardized orthography and how they develop spelling rules on their own. Level: BSc or MSc.
+
+- *Large Language Models for low-resource NLP revisited.* At the moment, large language models (LLMs) are all the hype, but do we actually need them for low-resource tasks? In this project, the student compares LLM fine-tuning with computationally cheaper ways of training a model for a low-resource language variety and a NLP task (any classification task or a sequence labeling task). Level: BSc or MSc.
+
+- *Lexicon-based data synthesis for low-resource NLP.*  Systematically make use of those digital dialect dictionaries. This project starts out as a preliminary study on what kinds of usable dictionaries we can find, and then we look at how useful it is to use them to generate faux-dialectal training data.  Level: BSc or MSc.
+
+- *Learning Task Representations.* We are often interested in transferring NLP/IR models to datasets for which we have little or no label annotations available. In such a zero-shot setting its possible to transfer a model from a single related task or a set of related tasks. Representing tasks and measuring task similarity is an open challenge and active research field, the goal of this thesis is to explore approaches for deriving task representations and evaluating their effectiveness in a multi-task setting. Level: MSc.
+
+- *Machine Translation Error Propagation on Cross-lingual Retrieval.* 
+Machine Translation (MT) is frequently used to bridge the gap in cross-lingual information retrieval (CLIR). MT models typically used to translate training data or to translate queries at test time. Recent work has focused on hallucinations of MT models, referring to the phenomenon where translations are, e.g., completely unrelated to the input text. The goal of this thesis is to systematically and broadly analyze different types of MT error propagation with respect to different languages and their impact on CLIR. (proficiency in multiple languages is desired for students who would like to do this project). Level: BSc or MSc.
 
 
 ### V2: High-Quality Information Extraction in Targeted Domains
 
 #### Selected research projects
 
-- *Cross-domain Relation extraction.* Extracting structured information such as bornIn(person, location) is central for knowledge base population. Yet current extraction technology is limited to a few text domains and semantic relations. How can we adapt relation extractors to generalize better across different text domains or different relation sets? [See references of MultiVaLUe project](#multivalue)
+- *Cross-domain Relation extraction.* Extracting structured information such as bornIn(person, location) is central for knowledge base population. Yet current extraction technology is limited to a few text domains and semantic relations. How can we adapt relation extractors to generalize better across different text domains or different relation sets? [See references of MultiVaLUe project](#multivalue) Level: BSc or MSc.
 
-- *Computational Job Market Analysis.* Extraction of skills from job postings, multlinguality. We are particularly interested in extending this work to German and other languages.  [See references of MultiSkill project](#multiskill)
+- *Computational Job Market Analysis.* Extraction of skills from job postings, multlinguality. We are particularly interested in extending this work to German and other languages.  [See references of MultiSkill project](#multiskill) Level: BSc or MSc.
  
 - *Information extraction for finding arguments for pain-awareness of other species.* The fact that non-human animals can feel pain is a strong factor in our ethical and legal considerations involving them. However, it is yet not fully understood which species can perceive pain. Birch et al. (2021) have developed a framework of 8 criteria that suggest sentience of pain in other species, that has recently been used by the UK government to adjust animal welfare regulations. To make a case that a specific species can feel pain, researchers have to go through the literature by hand and find studies that investigate one or more of the 8 criteria (Gibbons et al., 2022). The goal of this project is to develop an information extraction method that supports this process by extracting study information on these 8 criteria automatically. The project would consist of deriving a small evaluation corpus from Gibbons et al., 2022 and then evaluate few-shot learning methods for information extraction on the corpus. [References: Birch, Jonathan, et al. “Review of the evidence of sentience in cephalopod molluscs and decapod crustaceans.” (2021),
-M Gibbons, et al. “Can insects feel pain? A review of the neural and behavioural evidence” (2022) Advances in Insect Physiology 63, 155-229]. 
+M Gibbons, et al. “Can insects feel pain? A review of the neural and behavioural evidence” (2022) Advances in Insect Physiology 63, 155-229].  Level: BSc or MSc (preferred). Level: BSc or MSc.
+
+- *Adapt NER Tools to novel entities with gazetteers.* 
+Named Entity Recognition (NER) tools are trained on a corpus and then deployed as static resources. When novel entities emerge after deployment, then such tools have problems detecting them (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9014470/). For instance, the state-of-the-art biomedical NER tool HunFlair (https://academic.oup.com/bioinformatics/article/37/17/2792/6122692) has difficulties in reliably detecting concepts related to COVID, because it was trained before the pandemic. In this project, we will develop a novel NER method that allows to easily integrate knowledge emerging entities after training. Level: BSc or MSc.
+
+- *Automated Evaluation of Biomedical Relation Extraction Models.*
+It is an open question how useful information extraction models are for Biological research. The gold standard evaluation is to ask experts for their manual assessment, which is costly and limited to small-scale case studies. However, biological relations have the unique advantage that researchers verify them in biochemical experiments and store the results in large databases. In this project, we will exploit these databases to conduct the first large-scale comparison of different state-of-the-art relation extraction models in terms of usefulness for biological research.  Level: BSc or MSc.
 
  
 ### V3: Natural Language Understanding, Semantic & Pragmatics
@@ -123,24 +143,36 @@ Reference summary:
 [Fernando Alonso] steps up comeback preparations in {McLaren} simulator
 What linguistic phenomena contribute to the prominence of entities in a document? For example, would coreference chain and discourse relation help? Are summarization strategies the same across different genres and languages?
 Build an NLP model that predicts the prominent entities in a document and evaluate accordingly based on reference summaries.
-Start with the CNN/DM dataset. Project can be extended to other genres and languages.
+Start with the CNN/DM dataset. Project can be extended to other genres and languages. Level: BSc or MSc.
 
 - *Understanding Indirect Answers.* Indirect answers are replies to polar questions without explicit use
 of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect answers are natural in human dialogue, but very difficult for a conversational AI system. Build an NLP model that improves automatic understanding of indirect
-questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)
+questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)  Level: BSc or MSc.
 
 
 ### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision
 
-#### Selected research projects (Mostly at the MSc level)
+General references for this section:
+References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/), [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570)
 
-- *Prediction of Human Label Variation.* Human annotators notoriously disagree when labeling objects. This human label variation remains an understudied problem. Can we detect data that triggers high disagreement? References: [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570), and [Zhou et al. 2022](https://aclanthology.org/2022.findings-acl.79.pdf)
+#### Selected research projects 
 
-- *Evaluation of language and vision models*. Analysis of image captioning or visual question answering models.  References: [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/)
+- *Prediction of Human Label Variation.* Human annotators notoriously disagree when labeling objects. This human label variation remains an understudied problem. Can we detect data that triggers high disagreement? And on the contrary, can we detect instances that are easy and reliably labeled? References: [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570), [Zhou et al. 2022](https://aclanthology.org/2022.findings-acl.79.pdf) and [Siddiqui et al., 2022](https://arxiv.org/pdf/2209.10015.pdf).  Level: MSc.
+
+- *In-context learning from human disagreement on subjective tasks.* 
+Aggregating annotations via majority vote could lead to ignoring the opinions of minority groups, especially on subjective tasks. Learning from individual annotators shows a better result on subjective classification tasks such as hate speech detection and emotion detection than from the majority vote (Davani et al., 2022). In this project, we want to investigate the potential of learning from individual annotators in an in-context learning setting. How can the model learn from the disagreement between annotators by instruction tuning and prompting? How do we design such instructions?
+References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Schick et al., 2021](https://arxiv.org/abs/2001.07676) and [Mishra et al., 2022](https://aclanthology.org/2022.acl-long.244.pdf). Level: BSc.
 
 
-Check back on projects related to language and vision, learning from fortuitious data incl. human data and human-in-the loop learning. 
-For inspiration, see also [Plank, 2016.](https://arxiv.org/abs/1608.07836)
+- *Evaluation of language and vision models*. Analysis of image captioning or visual question answering models.  References: [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/) Level: MSc.
+
+- *Active learning for Vision Question Answering with Large Pretrained Models.*
+There were several attempts on active learning for VQA [1],[2]. However, these models are small in size and were trained from scratch. Large Pre-trained Models have achieved great success in unimodality (language or vision) and multimodality (vision-language) settings [3]. This project aims to deploy SOTA foundation models in the active learning framework for VQA tasks. A starting point could be re-implementing some VQA active learning works such as [1].
+References:
+[Deep Bayesian Active Learning for Multiple Correct Outputs](https://arxiv.org/abs/1912.01119) [1]
+[Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://aclanthology.org/2021.acl-long.564.pdf) [2]
+[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) [3]
+
 
 
    
