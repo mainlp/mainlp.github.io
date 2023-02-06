@@ -152,7 +152,7 @@ questions in English. Project can be extended to multlingual/transfer learning. 
 
 ### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision
 
-General references for this section:
+Some general references for this section:
 References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/), [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570)
 
 #### Selected research projects 
@@ -163,8 +163,6 @@ References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank,
 Aggregating annotations via majority vote could lead to ignoring the opinions of minority groups, especially on subjective tasks. Learning from individual annotators shows a better result on subjective classification tasks such as hate speech detection and emotion detection than from the majority vote (Davani et al., 2022). In this project, we want to investigate the potential of learning from individual annotators in an in-context learning setting. How can the model learn from the disagreement between annotators by instruction tuning and prompting? How do we design such instructions?
 References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Schick et al., 2021](https://arxiv.org/abs/2001.07676) and [Mishra et al., 2022](https://aclanthology.org/2022.acl-long.244.pdf). Level: BSc.
 
-
-- *Evaluation of language and vision models*. Analysis of image captioning or visual question answering models.  References: [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/) Level: MSc.
 
 - *Active learning for Vision Question Answering with Large Pretrained Models.*
 There were several attempts on active learning for VQA [1],[2]. However, these models are small in size and were trained from scratch. Large Pre-trained Models have achieved great success in unimodality (language or vision) and multimodality (vision-language) settings [3]. This project aims to deploy SOTA foundation models in the active learning framework for VQA tasks. A starting point could be re-implementing some VQA active learning works such as [1].
