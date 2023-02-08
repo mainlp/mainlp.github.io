@@ -161,7 +161,7 @@ References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank,
 
 - *In-context learning from human disagreement on subjective tasks.* 
 Aggregating annotations via majority vote could lead to ignoring the opinions of minority groups, especially on subjective tasks. Learning from individual annotators shows a better result on subjective classification tasks such as hate speech detection and emotion detection than from the majority vote (Davani et al., 2022). In this project, we want to investigate the potential of learning from individual annotators in an in-context learning setting. How can the model learn from the disagreement between annotators by instruction tuning and prompting? How do we design such instructions?
-References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Schick et al., 2021](https://arxiv.org/abs/2001.07676) and [Mishra et al., 2022](https://aclanthology.org/2022.acl-long.244.pdf). Level: BSc.
+References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Schick et al., 2021](https://arxiv.org/abs/2001.07676) and [Mishra et al., 2022](https://aclanthology.org/2022.acl-long.244.pdf). Level: MSc.
 
 
 - *Active learning for Vision Question Answering with Large Pretrained Models.*
