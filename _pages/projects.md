@@ -150,10 +150,10 @@ of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home
 questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)  Level: BSc or MSc.
 
 
-### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision
+### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision (mostly MSc level)
 
 Some general references for this section:
-References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/), [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570)
+References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/), [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570) 
 
 #### Selected research projects 
 
@@ -169,7 +169,7 @@ There were several attempts on active learning for VQA [1],[2]. However, these m
 References:
 [Deep Bayesian Active Learning for Multiple Correct Outputs](https://arxiv.org/abs/1912.01119) [1]
 [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://aclanthology.org/2021.acl-long.564.pdf) [2]
-[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) [3]
+[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) [3] Level: MSc.
 
 
 
