@@ -149,6 +149,15 @@ Start with the CNN/DM dataset. Project can be extended to other genres and langu
 of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect answers are natural in human dialogue, but very difficult for a conversational AI system. Build an NLP model that improves automatic understanding of indirect
 questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)  Level: BSc or MSc.
 
+- *Does ChatGPT understand formal logic and common sense?* Problem Definition: Recent evidence has shown that large generative language models (GLMs) such as ChatGPT and you.com/chat fall short in logical reasoning. For example, “Mike’s mum had 4 kids; 3 of them are Luis, Drake, and Matilda. What is the name of the 4th kid?”, ChatGPT’s response was “It is not possible to determine the name of the fourth child without more information” [0]. In addition to this, we are interested common sense logic. For example, do GLMs find “John put a turkey into a fridge” more plausible than “John put an elephant into the fridge”? [1]. To this end, the task is to use existing datasets such as SemEval2020-Task-4 [2] and SNLI [3] for probing GLMs. Goal: The goal of this thesis is to get a better understanding of logic abilities of large GLMs by constructing an evaluation dataset and conducting a systematic comparison between different publicly available chatbots. Requirements: This thesis is ideal for students with prior knowledge in first order predicate logic and requires proficiency in Python and one Deep Learning Framework. 
+References:
+[0] https://arxiv.org/pdf/2302.03494.pdf
+[1] https://aclanthology.org/2020.semeval-1.39.pdf
+[2] https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation
+[3] https://nlp.stanford.edu/projects/snli/
+Level: BSc.
+
+
 
 ### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision (mostly MSc level)
 
