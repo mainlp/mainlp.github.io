@@ -77,7 +77,10 @@ Unless otherwise specified, all projects can be either at the MSc or BSc level. 
 Regularly <b>check back for updates</b> on thesis project suggestions. 
 
 News:
+
+- 2023, Feb 17: :hourglass_flowing_sand: denotes that projects are currently reserved
 - 2023, Feb 6: :sparkles: more thesis projects posted, MSc/BSc level indicators added
+
 
 
 
@@ -85,7 +88,7 @@ News:
 
 #### Selected research projects 
 
-- *Slot and Intent Detection for Low-Resource Dialects.* Digital assistants are becoming wide-spread, yet current technology covers only a limited set of languages.  How can we best do zero-shot transfer to low-resource language variants without standard orthography? [Reference: van der Goot et al., 2021](https://aclanthology.org/2021.naacl-main.197.pdf) and [VarDial 2023 SID4LR](https://sites.google.com/view/vardial-2023/shared-tasks). Create a new evaluation dataset of a low-resource language variant you speak, and investigate how to best transfer to it. Topics: Transfer Learning, Cross-linguality, Dataset annotation (Particularly suited for students interested in covering their own language or dialect not yet covered by existing systems including local dialects, e.g. Bavarian, Austrian, Low Saxon or others). Level: MSc or BSc.
+- :hourglass_flowing_sand: *Slot and Intent Detection for Low-Resource Dialects.* Digital assistants are becoming wide-spread, yet current technology covers only a limited set of languages.  How can we best do zero-shot transfer to low-resource language variants without standard orthography? [Reference: van der Goot et al., 2021](https://aclanthology.org/2021.naacl-main.197.pdf) and [VarDial 2023 SID4LR](https://sites.google.com/view/vardial-2023/shared-tasks). Create a new evaluation dataset of a low-resource language variant you speak, and investigate how to best transfer to it. Topics: Transfer Learning, Cross-linguality, Dataset annotation (Particularly suited for students interested in covering their own language or dialect not yet covered by existing systems including local dialects, e.g. Bavarian, Austrian, Low Saxon or others). Level: MSc or BSc. 
 
 - *Adopting Information Retrieval Models for Rare Terms.* Neural ranking models have shown impressive results on general retrieval benchmarks, however, domain specific retrieval and representing rare terms are still an open challenge [(Thakur et al., 2021)](https://arxiv.org/abs/2104.08663). In this thesis, the goal is to explore strategies for rewriting queries and documents with the help of text simplification models or external resources such as WordNet or Wikipedia in order to improve their performance in domain transfer. Level: MSc.
 
@@ -93,7 +96,7 @@ News:
 
 - *Germanic Dialect identification across genres.*  How can we robustly distinguish between closely-related Germanic dialects across text types?  German wikipedias exist, but how well does a model trained on Wikipedia transfer to another text type like social media? For students interested in transfer learning and creation of a gold standard for dialect text classification. Reference: [Siewert et al., 2020](https://aclanthology.org/2020.vardial-1.3.pdf) and references above, [Aepli et al., 2022](https://aclanthology.org/2022.vardial-1.1.pdf), [Aepli and Hollenstein, 2014](https://noe-eva.github.io/publication/noah2015/). Level: MSc (preferred) or BSc.
 
-- *Geolocation of Linguistic Variation in Italy.* (Reference: [GeoLingIt](https://sites.google.com/view/geolingit/)). For students interested in linguistic variation, particularly in Italian language varieties. Participation in a shared task and research paper writing. Level: MSc.
+- :hourglass_flowing_sand: *Geolocation of Linguistic Variation in Italy.* (Reference: [GeoLingIt](https://sites.google.com/view/geolingit/)). For students interested in linguistic variation, particularly in Italian language varieties. Participation in a shared task and research paper writing. Level: MSc.
 
 - *NLP methods for Folk Songs Lyrics.*  Folk music is an essential element of any culture. This project seeks to apply NLP techniques to study folk music of the German-speaking countries with a special focus on song lyrics written in dialect. You will start with building a pipeline for large-scale lyrics collection. Next, you will conduct a comprehensive analysis of song lyrics including (but not limited to): discovering most popular lyrical themes, studying rhymes and the figurative speech used in lyrics. Level: BSc or MSc.
 
@@ -122,7 +125,7 @@ Machine Translation (MT) is frequently used to bridge the gap in cross-lingual i
 
 - *Computational Job Market Analysis.* Extraction of skills from job postings, multlinguality. We are particularly interested in extending this work to German and other languages.  [See references of MultiSkill project](#multiskill) Level: BSc or MSc.
  
-- *Information extraction for finding arguments for pain-awareness of other species.* The fact that non-human animals can feel pain is a strong factor in our ethical and legal considerations involving them. However, it is yet not fully understood which species can perceive pain. Birch et al. (2021) have developed a framework of 8 criteria that suggest sentience of pain in other species, that has recently been used by the UK government to adjust animal welfare regulations. To make a case that a specific species can feel pain, researchers have to go through the literature by hand and find studies that investigate one or more of the 8 criteria (Gibbons et al., 2022). The goal of this project is to develop an information extraction method that supports this process by extracting study information on these 8 criteria automatically. The project would consist of deriving a small evaluation corpus from Gibbons et al., 2022 and then evaluate few-shot learning methods for information extraction on the corpus. [References: Birch, Jonathan, et al. “Review of the evidence of sentience in cephalopod molluscs and decapod crustaceans.” (2021),
+- :hourglass_flowing_sand: *Information extraction for finding arguments for pain-awareness of other species.* The fact that non-human animals can feel pain is a strong factor in our ethical and legal considerations involving them. However, it is yet not fully understood which species can perceive pain. Birch et al. (2021) have developed a framework of 8 criteria that suggest sentience of pain in other species, that has recently been used by the UK government to adjust animal welfare regulations. To make a case that a specific species can feel pain, researchers have to go through the literature by hand and find studies that investigate one or more of the 8 criteria (Gibbons et al., 2022). The goal of this project is to develop an information extraction method that supports this process by extracting study information on these 8 criteria automatically. The project would consist of deriving a small evaluation corpus from Gibbons et al., 2022 and then evaluate few-shot learning methods for information extraction on the corpus. [References: Birch, Jonathan, et al. “Review of the evidence of sentience in cephalopod molluscs and decapod crustaceans.” (2021),
 M Gibbons, et al. “Can insects feel pain? A review of the neural and behavioural evidence” (2022) Advances in Insect Physiology 63, 155-229].  Level: BSc or MSc (preferred). Level: BSc or MSc.
 
 - *Adapt NER Tools to novel entities with gazetteers.* 
@@ -136,7 +139,7 @@ It is an open question how useful information extraction models are for Biologic
 
 #### Selected research projects
 
-- *Prominent entities in text summarization.* One important factor in summarizing a document is identifying the prominent entities within the document. Here is an example from the CNN summarization dataset: Two selected paragraphs:
+- :hourglass_flowing_sand: *Prominent entities in text summarization.* One important factor in summarizing a document is identifying the prominent entities within the document. Here is an example from the CNN summarization dataset: Two selected paragraphs:
 [Alonso] has been training hard for [his] planned comeback at the Malaysian Grand Prix in nine days and used the {McLaren} simulator to hone [his] mental preparations.
 The CNN-sponsored team announced the news on Twitter, showing {McLaren} sporting director Eric Boullier and [Alonso] at the team’s headquarters in Woking, England.
 Reference summary:
@@ -145,7 +148,7 @@ What linguistic phenomena contribute to the prominence of entities in a document
 Build an NLP model that predicts the prominent entities in a document and evaluate accordingly based on reference summaries.
 Start with the CNN/DM dataset. Project can be extended to other genres and languages. Level: BSc or MSc.
 
-- *Understanding Indirect Answers.* Indirect answers are replies to polar questions without explicit use
+- :hourglass_flowing_sand: *Understanding Indirect Answers.* Indirect answers are replies to polar questions without explicit use
 of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect answers are natural in human dialogue, but very difficult for a conversational AI system. Build an NLP model that improves automatic understanding of indirect
 questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)  Level: BSc or MSc.
 
