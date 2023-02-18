@@ -82,6 +82,10 @@ News:
 - 2023, Feb 6: :sparkles: more thesis projects posted, MSc/BSc level indicators added
 
 
+Legend:
+- :hourglass_flowing_sand: topic currently reserved
+- - ~~strikethrough~~: topic no longer available
+
 
 
 ### V1: Learning from Limited Data (Low-resource, NLP for Dialects, Multilinguality, Transfer)
@@ -102,7 +106,7 @@ News:
 
 - *Code-switching usage in German social media.* Code-switching is a language phenomenon that occurs when a multilingual speaker alternates multiple languages in a single utterance. This project studies when and why people mix high-standard German with its dialects when writing on social media. The ultimate goal is to explore contexts and grammar structures in which code-switching is mostly used. To this end, a pipeline for user-generated data collection and labeling should be developed along with learnable approaches to code-switching detection. Level: BSc or MSc.
 
-- *Probing large multlingual language models for cross-model alignment.* How similarly is linguistic information represented across models? Data: Any linguistically-motived dataset, ideally multilingual (e.g., multilingual syntactic parsing Universal Dependencies by Nivre et al., 2020) + a diverse selection of pre-trained language models. Method: Encode the same raw data + probe for linguistically-motivated tasks. Compare embeddings and probes for the same data across models.
+- ~~*Probing large multlingual language models for cross-model alignment.*~~ How similarly is linguistic information represented across models? Data: Any linguistically-motived dataset, ideally multilingual (e.g., multilingual syntactic parsing Universal Dependencies by Nivre et al., 2020) + a diverse selection of pre-trained language models. Method: Encode the same raw data + probe for linguistically-motivated tasks. Compare embeddings and probes for the same data across models.
 Evaluation: Quantitative metric used by the relevant dataset(s) / Qualitative analysis. [See references of MultiVaLUe project](#multivalue) Level: MSc.
 
 - *German dialects in Wikipedia.* German dialects have unique representations in Wikipedia: there are Wiki’s written in Bavarian, Low Saxon, and several other dialects. At the first glance, these Wiki’s may look like a straightforward translation from German, but it is not the case. In this project we aim to study, what are the theme differences between these Wikipedia and if there are any biases towards cultural and geographical phenomena. Last, but not least, the edit history allows us to explore how the Wikipedia authors deal with the lack of standardized orthography and how they develop spelling rules on their own. Level: BSc or MSc.
