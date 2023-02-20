@@ -144,13 +144,13 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   {%- endfor -%}
   <h2 class="category">Support staff and student assistants</h2>
    <ul>
-    <li>Zihang Sun (2023-), student assistant </li>
-    <li>Sif Dam Sonniks (2023-), student assistant </li>
+    <li>Zihang Sun (2023-), student assistant for research project</li>
+    <li>Sif Dam Sonniks (2023-), student assistant for DFF research project</li>
   </ul>
   
   <h2 class="category">Alumni</h2>
   <ul>
-    <li>Anna Barwig, student assistant (2022-2023)</li>
+    <li>Anna Barwig, student assistant for research project (2022-2023)</li>
   </ul>
   
   <h2 class="category">You?</h2>
