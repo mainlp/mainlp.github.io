@@ -144,7 +144,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   {%- endfor -%}
   <h2 class="category">Support staff and student assistants</h2>
    <ul>
-    <li>You? <a href="/jobs">→Open positions</a></li>
+    <li>Zihang Sun (2022-) </li>
   </ul>
   
   <h2 class="category">Alumni</h2>
