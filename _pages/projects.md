@@ -115,7 +115,7 @@ Evaluation: Quantitative metric used by the relevant dataset(s) / Qualitative an
 
 - *Learning Task Representations.* We are often interested in transferring NLP/IR models to datasets for which we have little or no label annotations available. In such a zero-shot setting its possible to transfer a model from a single related task or a set of related tasks. Representing tasks and measuring task similarity is an open challenge and active research field, the goal of this thesis is to explore approaches for deriving task representations and evaluating their effectiveness in a multi-task setting. Level: MSc.
 
-- *Machine Translation Error Propagation on Cross-lingual Retrieval.* 
+- :hourglass_flowing_sand: *Machine Translation Error Propagation on Cross-lingual Retrieval.* 
 Machine Translation (MT) is frequently used to bridge the gap in cross-lingual information retrieval (CLIR). MT models typically used to translate training data or to translate queries at test time. Recent work has focused on hallucinations of MT models, referring to the phenomenon where translations are, e.g., completely unrelated to the input text. The goal of this thesis is to systematically and broadly analyze different types of MT error propagation with respect to different languages and their impact on CLIR. (proficiency in multiple languages is desired for students who would like to do this project). Level: BSc or MSc.
 
 
