@@ -154,14 +154,13 @@ Start with the CNN/DM dataset. Project can be extended to other genres and langu
 of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect answers are natural in human dialogue, but very difficult for a conversational AI system. Build an NLP model that improves automatic understanding of indirect
 questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)  Level: BSc or MSc.
 
-- *Does ChatGPT understand formal logic and common sense?* Problem Definition: Recent evidence has shown that large generative language models (GLMs) such as ChatGPT and you.com/chat fall short in logical reasoning. For example, “Mike’s mum had 4 kids; 3 of them are Luis, Drake, and Matilda. What is the name of the 4th kid?”, ChatGPT’s response was “It is not possible to determine the name of the fourth child without more information” [0]. In addition to this, we are interested common sense logic. For example, do GLMs find “John put a turkey into a fridge” more plausible than “John put an elephant into the fridge”? [1]. To this end, the task is to use existing datasets such as SemEval2020-Task-4 [2] and SNLI [3] for probing GLMs. Goal: The goal of this thesis is to get a better understanding of logic abilities of large GLMs by constructing an evaluation dataset and conducting a systematic comparison between different publicly available chatbots. Requirements: This thesis is ideal for students with prior knowledge in first order predicate logic and requires proficiency in Python and one Deep Learning Framework. 
+- ~~*Does ChatGPT understand formal logic and common sense?*~~ Problem Definition: Recent evidence has shown that large generative language models (GLMs) such as ChatGPT and you.com/chat fall short in logical reasoning. For example, “Mike’s mum had 4 kids; 3 of them are Luis, Drake, and Matilda. What is the name of the 4th kid?”, ChatGPT’s response was “It is not possible to determine the name of the fourth child without more information” [0]. In addition to this, we are interested common sense logic. For example, do GLMs find “John put a turkey into a fridge” more plausible than “John put an elephant into the fridge”? [1]. To this end, the task is to use existing datasets such as SemEval2020-Task-4 [2] and SNLI [3] for probing GLMs. Goal: The goal of this thesis is to get a better understanding of logic abilities of large GLMs by constructing an evaluation dataset and conducting a systematic comparison between different publicly available chatbots. Requirements: This thesis is ideal for students with prior knowledge in first order predicate logic and requires proficiency in Python and one Deep Learning Framework. 
 References:
 [0] https://arxiv.org/pdf/2302.03494.pdf
 [1] https://aclanthology.org/2020.semeval-1.39.pdf
 [2] https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation
 [3] https://nlp.stanford.edu/projects/snli/
 Level: BSc.
-
 
 
 ### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision (mostly MSc level)
@@ -184,6 +183,8 @@ References:
 [Deep Bayesian Active Learning for Multiple Correct Outputs](https://arxiv.org/abs/1912.01119) [1]
 [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://aclanthology.org/2021.acl-long.564.pdf) [2]
 [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) [3] Level: MSc.
+
+- Human vs Machine. *AuTexTification: Identifying Automatically Generated Text.* Generative language models such as ChatGPT have shown impressive results on a range of NLP tasks. While those models can be used to perform useful tasks such as answering questions, writing code or translating text, they can also be used for malicious purposes such as generating hate speech, fake news, or other unfaithful text. This motivates the development of tools for detecting automatically generated text. In this thesis, the student is expected to participate in the AuTexTification shared task [0], which provides a standard benchmark for training and evaluating detection models for the languages English and Spanish. This topic is ideally suited for M.Sc. students with a strong background in Python and one Deep Learning framework. [0] https://sites.google.com/view/autextification Level: MSc.
 
 
 
