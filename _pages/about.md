@@ -148,6 +148,14 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Sif Dam Sonniks (2023-), student assistant for DFF research project</li>
   </ul>
   
+  <h2 class="category">Student assistants for teaching</h2>
+   <ul>
+    <li>Chaeeun Lee (2022-)</li>
+    <li>Bolei Ma (2022-)</li>
+    <li>Ercong Nie (2022-)</li>
+    <li>Shija Zhou (2022-)</li>
+  </ul>
+  
   <h2 class="category">Alumni</h2>
   <ul>
     <li>Anna Barwig, student assistant for research project (2022-2023)</li>
