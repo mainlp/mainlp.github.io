@@ -169,7 +169,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   Join us! <a href="/jobs">→Open positions</a>
 
   <h2 class="category">Funding</h2>
-  Thanks to / Our research is supported by:
+  Our research is supported by and we thank our sponsors:
   <ul>
     <li>European Research Council (ERC)</li>
     <li>Danmarks Frie Forskningsfond (DFF)</li>
@@ -178,8 +178,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Munich Center for Machine Learning (MCML)</li>
   </ul>
   
-  <h2 class="category">Find us!</h2>
-  We're located at Akademiestraße 7, 80799 Munich, Germany.<br/>
+  <h2 class="category">Find us</h2>
+  We are located at Akademiestraße 7, 80799 Munich, Germany.<br/>
 
   <a href="https://github.com/mainlp"><i class="fab fa-github"></i> MaiNLP</a><br/>
   <a href="https://twitter.com/MaiNLPlab"><i class="fab fa-twitter"></i> MaiNLPlab</a><br/>
