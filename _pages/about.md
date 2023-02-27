@@ -19,7 +19,7 @@ staff:
   title: Staff
   people:
     - name: Barbara Plank
-      description: Prof. Dr. and Chair for AI and Computational Linguistics
+      description: Prof. Dr. and Chair for AI and Computational Linguistics, Lead MaiNLP and Co-director CIS
       website: https://bplank.github.io/
       picture: barbara.jpg
     - name: Leon Weber
@@ -62,10 +62,10 @@ support:
   title: Support Staff
   people:
     - name: Zihang Sun
-      description: student assistant
+      description: student assistant (2023-)
       picture: zihang.png
     - name: Sif Dam Sonniks
-      description: student assistant
+      description: student assistant (2020-2021 / 2023-)
       picture: mainlp-logo-50.png
 admin:
   title: Administrative Staff
