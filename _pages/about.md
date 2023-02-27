@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
-groups: [staff, admin, affiliated]
+groups: [staff, support, admin, affiliated]
 staff:
   title: Staff
   people:
@@ -58,6 +58,15 @@ staff:
       description: Affiliated PhD student (2020–)
       website: https://personads.me/
       picture: max.jpg
+support:
+  title: Support Staff
+  people:
+    - name: Zihang Sun
+      description: student assistant
+      picture: zihang.png
+    - name: Sif Dam Sonniks
+      description: student assistant
+      picture: mainlp-logo-50.png
 admin:
   title: Administrative Staff
   people:
@@ -142,13 +151,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
       {%- endfor -%}
     </div>
   {%- endfor -%}
-  <h2 class="category">Support staff and student assistants</h2>
-   <ul>
-    <li>Zihang Sun (2023-), student assistant for research project</li>
-    <li>Sif Dam Sonniks (2023-), student assistant for DFF research project</li>
-  </ul>
-  
-  <h2 class="category">Student assistants for teaching</h2>
+
+  <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
     <li>Chaeeun Lee (2022-)</li>
     <li>Bolei Ma (2022-)</li>
