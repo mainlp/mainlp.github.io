@@ -76,6 +76,7 @@ Regularly <b>check back for updates</b> on thesis project suggestions.
 
 News:
 
+- 2023, Feb 28: MSc project applications are closes. Updated projects. BSc applications are still open
 - 2023, Feb 21: Slight update on projects 
 - 2023, Feb 17: :hourglass_flowing_sand: denotes that projects are currently reserved
 - 2023, Feb 6: :sparkles: more thesis projects posted, MSc/BSc level indicators added
@@ -105,8 +106,8 @@ Legend:
 
 - *Code-switching usage in German social media.* Code-switching is a language phenomenon that occurs when a multilingual speaker alternates multiple languages in a single utterance. This project studies when and why people mix high-standard German with its dialects when writing on social media. The ultimate goal is to explore contexts and grammar structures in which code-switching is mostly used. To this end, a pipeline for user-generated data collection and labeling should be developed along with learnable approaches to code-switching detection. Level: BSc or MSc.
 
-- ~~*Probing large multlingual language models for cross-model alignment.*~~ How similarly is linguistic information represented across models? Data: Any linguistically-motived dataset, ideally multilingual (e.g., multilingual syntactic parsing Universal Dependencies by Nivre et al., 2020) + a diverse selection of pre-trained language models. Method: Encode the same raw data + probe for linguistically-motivated tasks. Compare embeddings and probes for the same data across models.
-Evaluation: Quantitative metric used by the relevant dataset(s) / Qualitative analysis. [See references of MultiVaLUe project](#multivalue) Level: MSc.
+- ~~*Probing large multlingual language models for cross-model alignment.* How similarly is linguistic information represented across models? Data: Any linguistically-motived dataset, ideally multilingual (e.g., multilingual syntactic parsing Universal Dependencies by Nivre et al., 2020) + a diverse selection of pre-trained language models. Method: Encode the same raw data + probe for linguistically-motivated tasks. Compare embeddings and probes for the same data across models.
+Evaluation: Quantitative metric used by the relevant dataset(s) / Qualitative analysis. [See references of MultiVaLUe project](#multivalue) Level: MSc.~~
 
 - *German dialects in Wikipedia.* German dialects have unique representations in Wikipedia: there are Wiki’s written in Bavarian, Low Saxon, and several other dialects. At the first glance, these Wiki’s may look like a straightforward translation from German, but it is not the case. In this project we aim to study, what are the theme differences between these Wikipedia and if there are any biases towards cultural and geographical phenomena. Last, but not least, the edit history allows us to explore how the Wikipedia authors deal with the lack of standardized orthography and how they develop spelling rules on their own. Level: BSc or MSc.
 
@@ -155,23 +156,23 @@ Start with the CNN/DM dataset. Project can be extended to other genres and langu
 of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect answers are natural in human dialogue, but very difficult for a conversational AI system. Build an NLP model that improves automatic understanding of indirect
 questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)  Level: BSc or MSc.
 
-- ~~*Does ChatGPT understand formal logic and common sense?*~~ Problem Definition: Recent evidence has shown that large generative language models (GLMs) such as ChatGPT and you.com/chat fall short in logical reasoning. For example, “Mike’s mum had 4 kids; 3 of them are Luis, Drake, and Matilda. What is the name of the 4th kid?”, ChatGPT’s response was “It is not possible to determine the name of the fourth child without more information” [0]. In addition to this, we are interested common sense logic. For example, do GLMs find “John put a turkey into a fridge” more plausible than “John put an elephant into the fridge”? [1]. To this end, the task is to use existing datasets such as SemEval2020-Task-4 [2] and SNLI [3] for probing GLMs. Goal: The goal of this thesis is to get a better understanding of logic abilities of large GLMs by constructing an evaluation dataset and conducting a systematic comparison between different publicly available chatbots. Requirements: This thesis is ideal for students with prior knowledge in first order predicate logic and requires proficiency in Python and one Deep Learning Framework. 
+- ~~*Does ChatGPT understand formal logic and common sense?* Problem Definition: Recent evidence has shown that large generative language models (GLMs) such as ChatGPT and you.com/chat fall short in logical reasoning. For example, “Mike’s mum had 4 kids; 3 of them are Luis, Drake, and Matilda. What is the name of the 4th kid?”, ChatGPT’s response was “It is not possible to determine the name of the fourth child without more information” [0]. In addition to this, we are interested common sense logic. For example, do GLMs find “John put a turkey into a fridge” more plausible than “John put an elephant into the fridge”? [1]. To this end, the task is to use existing datasets such as SemEval2020-Task-4 [2] and SNLI [3] for probing GLMs. Goal: The goal of this thesis is to get a better understanding of logic abilities of large GLMs by constructing an evaluation dataset and conducting a systematic comparison between different publicly available chatbots. Requirements: This thesis is ideal for students with prior knowledge in first order predicate logic and requires proficiency in Python and one Deep Learning Framework. 
 References:
 [0] https://arxiv.org/pdf/2302.03494.pdf
 [1] https://aclanthology.org/2020.semeval-1.39.pdf
 [2] https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation
 [3] https://nlp.stanford.edu/projects/snli/
-Level: BSc.
+Level: BSc~~
 
 
-### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision (mostly MSc level)
+### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision 
 
 Some general references for this section:
 References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/), [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570) 
 
 #### Selected research projects 
 
-- *Prediction of Human Label Variation.* Human annotators notoriously disagree when labeling objects. This human label variation remains an understudied problem. Can we detect data that triggers high disagreement? And on the contrary, can we detect instances that are easy and reliably labeled? References: [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570), [Zhou et al. 2022](https://aclanthology.org/2022.findings-acl.79.pdf) and [Siddiqui et al., 2022](https://arxiv.org/pdf/2209.10015.pdf).  Level: MSc.
+- ~~*Prediction of Human Label Variation.* Human annotators notoriously disagree when labeling objects. This human label variation remains an understudied problem. Can we detect data that triggers high disagreement? And on the contrary, can we detect instances that are easy and reliably labeled? References: [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570), [Zhou et al. 2022](https://aclanthology.org/2022.findings-acl.79.pdf) and [Siddiqui et al., 2022](https://arxiv.org/pdf/2209.10015.pdf).  Level: MSc.~~
 
 - *In-context learning from human disagreement on subjective tasks.* 
 Aggregating annotations via majority vote could lead to ignoring the opinions of minority groups, especially on subjective tasks. Learning from individual annotators shows a better result on subjective classification tasks such as hate speech detection and emotion detection than from the majority vote (Davani et al., 2022). In this project, we want to investigate the potential of learning from individual annotators in an in-context learning setting. How can the model learn from the disagreement between annotators by instruction tuning and prompting? How do we design such instructions?
@@ -185,16 +186,18 @@ References:
 [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://aclanthology.org/2021.acl-long.564.pdf) [2]
 [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) [3] Level: MSc.
 
-- Human vs Machine. *AuTexTification: Identifying Automatically Generated Text.* Generative language models such as ChatGPT have shown impressive results on a range of NLP tasks. While those models can be used to perform useful tasks such as answering questions, writing code or translating text, they can also be used for malicious purposes such as generating hate speech, fake news, or other unfaithful text. This motivates the development of tools for detecting automatically generated text. In this thesis, the student is expected to participate in the AuTexTification shared task [0], which provides a standard benchmark for training and evaluating detection models for the languages English and Spanish. This topic is ideally suited for M.Sc. students with a strong background in Python and one Deep Learning framework. [0] https://sites.google.com/view/autextification Level: MSc.
+- *Human vs Machine. AuTexTification: Identifying Automatically Generated Text.* Generative language models such as ChatGPT have shown impressive results on a range of NLP tasks. While those models can be used to perform useful tasks such as answering questions, writing code or translating text, they can also be used for malicious purposes such as generating hate speech, fake news, or other unfaithful text. This motivates the development of tools for detecting automatically generated text. In this thesis, the student is expected to participate in the AuTexTification shared task [0], which provides a standard benchmark for training and evaluating detection models for the languages English and Spanish. This topic is ideally suited for M.Sc. students with a strong background in Python and one Deep Learning framework. [0] https://sites.google.com/view/autextification Level: MSc. An adaptated version of this is also possible as BSc topic.
 
-
+- *Learning from Disagreement by Creating Dense Multi-Annotation Dataset* 
+Current deep learning approaches generally learn by modelling the hard label (majority vote) or the soft label (annotation distribution/prediction distribution from a teacher model). Can we go one step further by modelling the annotators? Davani et al., TACL 2022 shows that by modelling the individual annotators, the model's uncertainty estimation correlates well with the human annotation variation. However, for each data sample in the dataset (Gab Hate Speech), it only contains annotations from a subset of all annotators. It requires a significant amount of effort to create a "dense multi-annotation dataset". (each data has annotations from all the annotators.) Therefore, the model in Davani et al., TACL 2022 can only learn from 3 annotations at a time. Can we create such a dense annotation dataset by modelling the individual annotators? How differently will the model behave?
+References: [Davani et al., TACL 2022](https://aclanthology.org/2022.tacl-1.6/), [Geva et al., EMNLP-IJCNLP 2019](https://aclanthology.org/D19-1107/). Level: BSc
 
    
 
 ### How to apply for a BSc and MSc thesis project
 
 **Important information for LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date. Deadlines for 2023: 
-* MSc students apply before **February 24, 2023**
+* MSc students apply before **February 24, 2023** 
 * BSc students apply before **March 6, 2023**
 
 To apply, please send your application material with subject "[BSc (or MSc) thesis project at MaiNLP - inquiry [Name and which semester]" to: thesisplank@cis.lmu.de
