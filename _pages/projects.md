@@ -165,7 +165,7 @@ References:
 Level: BSc~~
 
 
-### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision 
+### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision, Interpretability
 
 Some general references for this section:
 References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/), [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570) 
@@ -192,6 +192,8 @@ References:
 Current deep learning approaches generally learn by modelling the hard label (majority vote) or the soft label (annotation distribution/prediction distribution from a teacher model). Can we go one step further by modelling the annotators? Davani et al., TACL 2022 shows that by modelling the individual annotators, the model's uncertainty estimation correlates well with the human annotation variation. However, for each data sample in the dataset (Gab Hate Speech), it only contains annotations from a subset of all annotators. It requires a significant amount of effort to create a "dense multi-annotation dataset". (each data has annotations from all the annotators.) Therefore, the model in Davani et al., TACL 2022 can only learn from 3 annotations at a time. Can we create such a dense annotation dataset by modelling the individual annotators? How differently will the model behave?
 References: [Davani et al., TACL 2022](https://aclanthology.org/2022.tacl-1.6/), [Geva et al., EMNLP-IJCNLP 2019](https://aclanthology.org/D19-1107/). Level: BSc
 
+- *Error Analysis of a BERT-based Search Engine*: Multi-stage ranking has become a popular paradigm in information retrieval, this approach a fast first-stage ranker generates a candidate set of documents followed by a much slower re-ranker to refine the ranking [0]. Prior work has shown that better candidate sets (higher recall) don't necessarily translate to a better final ranking [1]. The goal of this thesis is two-fold: First, we would like to perform an error analysis of linguistic triggers that cause this behavior. In the second part, the goal is to apply and interpret automatically generated explanations from tools such as DeepSHAP and LIME [2,3]. Basic knowledge in information retrieval is helpful, but not required. Level: B.Sc.
+[0] https://arxiv.org/abs/1910.14424 [1] https://arxiv.org/abs/2101.08751 [2] https://arxiv.org/abs/1907.06484 [3] https://arxiv.org/abs/1602.04938
    
 
 ### How to apply for a BSc and MSc thesis project
