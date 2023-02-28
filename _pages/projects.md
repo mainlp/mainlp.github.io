@@ -76,7 +76,7 @@ Regularly <b>check back for updates</b> on thesis project suggestions.
 
 News:
 
-- 2023, Feb 28: MSc project applications are closes. Updated projects. BSc applications are still open
+- 2023, Feb 28: MSc project applications are closed. Updated projects. BSc applications are still open
 - 2023, Feb 21: Slight update on projects 
 - 2023, Feb 17: :hourglass_flowing_sand: denotes that projects are currently reserved
 - 2023, Feb 6: :sparkles: more thesis projects posted, MSc/BSc level indicators added
