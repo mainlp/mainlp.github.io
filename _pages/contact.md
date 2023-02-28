@@ -14,7 +14,7 @@ Akademiestraße 7<br/>
 80799 Munich<br/>
 Germany
 
-<iframe src="https://maps.google.com/maps?q=akademiestr%207%2080799%20munich" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 ---
 
