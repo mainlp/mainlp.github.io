@@ -164,6 +164,7 @@ References:
 [3] https://nlp.stanford.edu/projects/snli/
 Level: BSc~~
 
+- *Scientific Analysis Tool.* The goal of this project is to use off-the-shelf NLP models for citation analysis, semantic search and text summarization to build a tool that (semi-)automates the process of synthesizing and summarizing a line of research. This involves identifying the citation purpose and aggregating/summarizing information across multiple papers. Strong knowledge in Python required, knowledge in web crawling beneficial. Level: BSc
 
 ### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision, Interpretability
 
