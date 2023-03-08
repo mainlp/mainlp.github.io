@@ -135,7 +135,7 @@ M Gibbons, et al. “Can insects feel pain? A review of the neural and behaviour
 - :hourglass_flowing_sand: *Adapt NER Tools to novel entities with gazetteers.* 
 Named Entity Recognition (NER) tools are trained on a corpus and then deployed as static resources. When novel entities emerge after deployment, then such tools have problems detecting them (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9014470/). For instance, the state-of-the-art biomedical NER tool HunFlair (https://academic.oup.com/bioinformatics/article/37/17/2792/6122692) has difficulties in reliably detecting concepts related to COVID, because it was trained before the pandemic. In this project, we will develop a novel NER method that allows to easily integrate knowledge emerging entities after training. Level: BSc or MSc.
 
-- *Automated Evaluation of Biomedical Relation Extraction Models.*
+- :hourglass_flowing_sand: *Automated Evaluation of Biomedical Relation Extraction Models.*
 It is an open question how useful information extraction models are for Biological research. The gold standard evaluation is to ask experts for their manual assessment, which is costly and limited to small-scale case studies. However, biological relations have the unique advantage that researchers verify them in biochemical experiments and store the results in large databases. In this project, we will exploit these databases to conduct the first large-scale comparison of different state-of-the-art relation extraction models in terms of usefulness for biological research.  Level: BSc or MSc.
 
  
