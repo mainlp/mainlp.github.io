@@ -42,6 +42,10 @@ staff:
       description: PhD student (2022–)
       website: https://verenablaschke.github.io/
       picture: verena.jpg
+    - name: Shengqiang Zhang
+      description: Affiliated PhD student (2022–)
+      website: https://shengqiang-zhang.github.io/
+      picture: shengqiang.jpg
     - name: Joris Baan
       description: Affiliated PhD student (2021–)
       website: https://jorisbaan.nl/
