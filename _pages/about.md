@@ -22,6 +22,10 @@ staff:
       description: Prof. Dr. and Chair for AI and Computational Linguistics, Lead MaiNLP and Co-director CIS
       website: https://bplank.github.io/
       picture: barbara.jpg
+    - name: Siyao (Logan) Peng
+      description: Postdoc (2023–)
+      website: https://logan-siyao-peng.github.io/
+      picture: logan.jpeg
     - name: Leon Weber
       description: Postdoc (2022–)
       website: https://leonweber.me/
@@ -74,9 +78,12 @@ support:
 admin:
   title: Administrative Staff
   people:
-    - name: Sabine Greser
+    - name: TBA
       description: Assistant
-      picture: sabine.jpg
+      picture: mainlp-logo-50.png
+    - name: Mohiuddin Forhad
+      description: Technician
+      picture: mainlp-logo-50.png
 affiliated:
   title: Affiliated researchers and/or co-supervisors
   people:
@@ -164,11 +171,11 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Shija Zhou (2022-)</li>
   </ul>
   
-  <h2 class="category">Alumni</h2>
+ <!-- <h2 class="category">Prior MaiNLP lab members</h2>
   <ul>
     <li>Anna Barwig, student assistant for research project (2022-2023)</li>
   </ul>
-  
+  --> 
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
 
