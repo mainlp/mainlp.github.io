@@ -83,7 +83,7 @@ admin:
       picture: mainlp-logo-50.png
     - name: Mohiuddin Forhad
       description: Technician
-      picture: mainlp-logo-50.png
+      picture: mohiuddin.jpg
 affiliated:
   title: Affiliated researchers and/or co-supervisors
   people:
