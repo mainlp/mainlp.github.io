@@ -78,9 +78,9 @@ support:
 admin:
   title: Administrative Staff
   people:
-    - name: TBA
+    - name: Paravee Jungbauer
       description: Assistant
-      picture: mainlp-logo-50.png
+      picture: paravee.jpg
     - name: Mohiuddin Forhad
       description: Technician
       picture: mohiuddin.jpg
