@@ -165,10 +165,10 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
-    <li>Chaeeun Lee (2022-)</li>
-    <li>Bolei Ma (2022-)</li>
-    <li>Ercong Nie (2022-)</li>
-    <li>Shija Zhou (2022-)</li>
+    <li>Chaeeun Lee (2022–)</li>
+    <li>Bolei Ma (2022–)</li>
+    <li>Ercong Nie (2022–)</li>
+    <li>Shija Zhou (2022–)</li>
   </ul>
   
  <!-- <h2 class="category">Prior MaiNLP lab members</h2>
@@ -178,6 +178,11 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   --> 
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
+
+  <h2 class="category">News</h2>
+   <ul>
+    <li>Saif Mohammed will be giving an on-site <a href="/events/#2023-05-08-saif-mohammed">talk</a> on May 8!</li>
+  </ul>
 
   <h2 class="category">Funding</h2>
   Our research is supported by and we thank our sponsors:
