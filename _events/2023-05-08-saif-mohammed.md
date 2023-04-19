@@ -11,5 +11,5 @@ roomfinder: https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000000116_
 img: assets/img/saif.png
 imgalt: Portrait of Saif Mohammad
 imgside: right
-anchor: 2023-may-saif-mohammed
+anchor: 2023-05-08-saif-mohammed
 ---
