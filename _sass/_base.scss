@@ -673,10 +673,41 @@ html.transition *:after {
   }
 }
 
-
+// staff grid on main page
 .grid { 
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  grid-gap: 10px;
-  align-items: stretch;
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+grid-gap: 10px;
+align-items: stretch;
+}
+
+// event descriptions
+.event-title {
+  font-size: larger;
+  // color: var(--global-divider-color);
+  // font-weight: bolder;
+}
+.events {
+  h3 {
+    font-size: medium;
+    display: inline;
+    font-weight: bolder;
   }
+  div {
+    margin-bottom: 10px;
+  }
+}
+.event-pic { 
+  margin-top: 10px;
+  width: 200px;
+  border-radius: 50%;
+  shape-outside: circle(50% at 50%);
+}
+.event-pic-left { 
+  float: left;
+  margin-right: 10px;
+}
+.event-pic-right { 
+  float: right;
+  margin-left: 10px;
+}

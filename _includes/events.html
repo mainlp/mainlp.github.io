@@ -1,0 +1,41 @@
+<!-- _includes/events.html -->
+
+<h2 class="event-title"><a href="{{ '#' | append: event.anchor }}">{{ event.title }}</a></h2>
+
+{% if event.speaker %}
+  <div><h3>Speaker:</h3> {{ event.speaker }}</div>
+{% endif %}
+
+<div><h3>Date:</h3> {{ event.time }}
+{% if event.location %}<br/>
+  <h3>Location:</h3>
+  {% if event.roomfinder %}
+    <a href="{{ event.roomfinder }}"> {{ event.location }}</a>
+  {% else %}
+    {{ event.location }}
+  {% endif %}
+{% endif %}
+</div>
+
+{% if event.abstract %}
+  <div><h3>Abstract:</h3> {{ event.abstract }}</div>
+{% endif %}
+
+<div>
+{% if event.img %}
+  {% if event.imgside %}
+    {% assign imgclass = "event-pic-" | append: event.imgside %}
+  {% else %}
+    {% assign imgclass = "event-pic-right" %}
+  {% endif %}
+  <img src="{{ '../' | append: event.img }}"
+     alt="{{ event.imgalt }}"
+     class="event-pic {{ imgclass }}" />
+{% endif %}
+{% if event.bio %}
+  <h3>Bio:</h3> {{ event.bio }}
+{% endif %}
+{% if event.website %}
+  <a href="{{ event.website }}"> →&nbsp;Website</a>
+{% endif %}
+</div>
