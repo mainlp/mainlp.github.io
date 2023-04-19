@@ -70,10 +70,10 @@ support:
   title: Support Staff
   people:
     - name: Zihang Sun
-      description: student assistant (2023-)
+      description: student assistant (2023–)
       picture: zihang.png
     - name: Sif Dam Sonniks
-      description: student assistant (2020-2021 / 2023-)
+      description: student assistant (2020–2021 / 2023–)
       picture: mainlp-logo-50.png
 admin:
   title: Administrative Staff
@@ -112,6 +112,12 @@ We carry out research in Natural Language Processing, an interdisciplinary subdi
 In broad terms, our aim is to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
 
 <div class="projects">
+  <h2 class="category">News</h2>
+   <ul>
+    <li>Saif Mohammed will be giving an on-site <a href="/events/#2023-05-08-saif-mohammed">talk</a> on May 8</li>
+    <li>Barbara, Katya and Verena will be at the Munich <a href="https://www.eventbrite.de/e/get-together-women-in-nlp-tickets-616473698427">Women in NLP get-together</a> on April 24</li>
+  </ul>
+
   {%- for group in page.groups -%}
   <h2 class="category">{{page.[group].title}}</h2>
     <div class="grid">
@@ -178,11 +184,6 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   --> 
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
-
-  <h2 class="category">News</h2>
-   <ul>
-    <li>Saif Mohammed will be giving an on-site <a href="/events/#2023-05-08-saif-mohammed">talk</a> on May 8!</li>
-  </ul>
 
   <h2 class="category">Funding</h2>
   Our research is supported by and we thank our sponsors:
