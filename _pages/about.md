@@ -75,6 +75,12 @@ support:
     - name: Sif Dam Sonniks
       description: student assistant (2020–2021 / 2023–)
       picture: mainlp-logo-50.png
+    - name: Marie Kolm
+      description: student assistant (2023–)
+      picture: mainlp-logo-50.png
+    - name: Huangyan Shan
+      description: student assistant (2023–)
+      picture: mainlp-logo-50.png
 admin:
   title: Administrative Staff
   people:
