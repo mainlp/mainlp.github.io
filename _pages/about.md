@@ -114,8 +114,9 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 <div class="projects">
   <h2 class="category">News</h2>
    <ul>
-    <li>Saif Mohammed will be giving an on-site <a href="/events/#2023-05-08-saif-mohammed">talk</a> on May 8</li>
-    <li>Barbara, Katya and Verena will be at the Munich <a href="https://www.eventbrite.de/e/get-together-women-in-nlp-tickets-616473698427">Women in NLP get-together</a> on April 24</li>
+    <li>Dr. Saif Mohammed (NRC Canada) will be giving an on-site <a href="/events/#2023-05-08-saif-mohammed">talk</a> on May 8, 2023</li>
+    <li>April 25, 2023: Barbara Plank's ERC and our MaiNLP lab research is featuring in the LMU University news! <a href="">"Language technologies for digital inclusion"</a> (available also in <a h="https://www.lmu.de/de/newsroom/newsuebersicht/news/sprachtechnologien-fuer-die-digitale-teilhabe.html">German: "Sprachtechnologien für die digitale Teilhabe"</a>)
+    <li>Barbara Plank, Katya Artemova and Verena Blaschke will be at the Munich <a href="https://www.eventbrite.de/e/get-together-women-in-nlp-tickets-616473698427">Women in NLP get-together</a> on April 24</li>
   </ul>
 
   {%- for group in page.groups -%}
