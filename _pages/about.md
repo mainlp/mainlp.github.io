@@ -77,7 +77,7 @@ support:
       picture: mainlp-logo-150.png
     - name: Marie Kolm
       description: student assistant (2023–)
-      picture: mainlp-logo-150.png
+      picture: marie.jpeg
     - name: Huangyan Shan
       description: student assistant (2023–)
       picture: mainlp-logo-150.png
