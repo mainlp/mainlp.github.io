@@ -80,7 +80,7 @@ support:
       picture: marie.jpeg
     - name: Huangyan Shan
       description: student assistant (2023–)
-      picture: mainlp-logo-150.png
+      picture: huangyan.jpg
 admin:
   title: Administrative Staff
   people:
