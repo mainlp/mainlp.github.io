@@ -28,7 +28,7 @@ Table of contents:
 1. Install [Ruby and Jekyll](https://jekyllrb.com/docs/installation/#guides).
 2. Clone the rep: `git clone git@github.com:mainlp/mainlp.github.io.git` and navigate to the corresponding directory.
 3. Run `bundle install` to install all dependencies.
-4. To build the site locally, run `bundle exec jekyll serve` and open http://localhost:4000.
+4. To build the site locally, run `bundle exec jekyll serve` and open [http://localhost:4000](http://localhost:4000).
 
 If you make changes to the markdown, HTML, CSS, etc. files, you only need to refresh the page in your browser. For changes to the config or the Gemfile, you need to run the bundle command again.
 

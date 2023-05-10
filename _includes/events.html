@@ -1,6 +1,6 @@
 <!-- _includes/events.html -->
 
-<h2 class="event-title"><a href="{{ '#' | append: event.anchor }}">{{ event.title }}</a></h2>
+<h2 class="event-title" id="{{ event.anchor }}"><a href="{{ '#' | append: event.anchor }}">{{ event.title }}</a></h2>
 
 {% if event.speaker %}
   <div><h3>Speaker:</h3> {{ event.speaker }}</div>
