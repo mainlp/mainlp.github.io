@@ -54,6 +54,13 @@ Selected publications:
 - [Baan, Aziz, Plank & Fernandez 2022.  Stop Measuring Calibration When Humans Disagree. In EMNLP.](https://arxiv.org/abs/2210.16133)
 - [Blaschke, Schütze & Plank, 2023. A Survey of Corpora for Germanic Low-Resource Languages and Dialects. In NoDaLiDa.](https://arxiv.org/abs/2304.09805)
 
+### <a name="klima-memes">KLIMA-MEMES: The Impact of Humorous Communication on Political Decision-Making in the Climate Change Context</a>
+
+Climate change is a pressing problem facing humanity and a major polarizing topic in public discourse. Discussions on climate change pervade political agendas worldwide. IPCC experts agree that currently implemented measures against climate change are inadequate in their efforts. Information akin to this often rapidly breaks into social media spheres (e.g., Instagram and TikTok) in increasingly visual and often humor-driven attention cycles. The KLIMA-MEMES project will analyze how such communication in the form of memes or other visual media with an intent to be humorous can affect political decision-making. This is a collaborative project with multiple partners at LMU, funded by the Bavarian Research Institute for Digital Transformation. 
+
+More information:
+- See the [KLIMA-MEMES project website](https://klimamemes.ifkw.lmu.de/)
+
 
 ### Applications for PhD, Postdoc and student assistant positions
 
