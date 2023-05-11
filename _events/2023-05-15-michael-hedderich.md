@@ -8,8 +8,8 @@ website: https://www.michael-hedderich.de
 time: May 15, 2023; 17:00–18:00
 location: Akademiestr.&nbsp;7, room 218A (meeting room)
 roomfinder: 
-img: 
-imgalt: 
-imgside: right
+img: assets/img/michael.png
+imgalt: Portrait of Michael A. Hedderich
+imgside: left
 anchor: 2023-05-15-michael-hedderich
 ---
