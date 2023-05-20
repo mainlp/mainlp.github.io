@@ -193,6 +193,9 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
 
+  <h2 class="category">MaiNLP resources and code</h2>
+  You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">→ on our github page</a>
+
   <h2 class="category">Funding</h2>
   Our research is supported by and we thank our sponsors:
   <ul>
