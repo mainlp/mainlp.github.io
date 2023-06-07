@@ -69,6 +69,9 @@ staff:
 support:
   title: Support Staff
   people:
+    - name: Barbara Kovačić
+      description: student assistant (2023–)
+      picture: barbarak.png
     - name: Zihang Sun
       description: student assistant (2023–)
       picture: zihang.png
