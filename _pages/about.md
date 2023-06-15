@@ -75,9 +75,6 @@ support:
     - name: Zihang Sun
       description: student assistant (2023–)
       picture: zihang.png
-    - name: Sif Dam Sonniks
-      description: student assistant (2020–2021 / 2023–)
-      picture: mainlp-logo-150.png
     - name: Marie Kolm
       description: student assistant (2023–)
       picture: marie.jpeg
@@ -181,6 +178,11 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     </div>
   {%- endfor -%}
 
+  <h2 class="category">External PhDs and researchers </h2>
+   <ul>
+     <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external PhD student</li>
+  </ul>
+  
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
     <li>Chaeeun Lee (2022–)</li>
@@ -188,6 +190,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Ercong Nie (2022–)</li>
     <li>Shija Zhou (2022–)</li>
   </ul>
+  
+
   
  <!-- <h2 class="category">Prior MaiNLP lab members</h2>
   <ul>
