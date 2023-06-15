@@ -178,7 +178,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     </div>
   {%- endfor -%}
 
-  <h2 class="category">External PhDs and researchers </h2>
+  <h2 class="category">External PhDs and visiting researchers </h2>
    <ul>
      <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external PhD student</li>
   </ul>
