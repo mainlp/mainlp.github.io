@@ -181,7 +181,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <h2 class="category">Visiting Researchers, External PhDs</h2>
    <ul>
      <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external PhD student</li>
-    <li><a href="[https://patschw.github.io/](https://amunozo.github.io/)">Alberto Muñoz-Ortiz</a> (2023), visiting researcher</li>
+    <li><a href="https://amunozo.github.io/">Alberto Muñoz-Ortiz</a> (2023), visiting researcher</li>
 
   </ul>
   
