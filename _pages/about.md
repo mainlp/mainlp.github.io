@@ -178,9 +178,11 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     </div>
   {%- endfor -%}
 
-  <h2 class="category">External PhDs and visiting researchers </h2>
+  <h2 class="category">Visiting Researchers, External PhDs</h2>
    <ul>
      <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external PhD student</li>
+    <li><a href="[https://patschw.github.io/](https://amunozo.github.io/)">Alberto Muñoz-Ortiz</a> (2023), visiting researcher</li>
+
   </ul>
   
   <h2 class="category">Support staff and student assistants for teaching</h2>
