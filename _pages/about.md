@@ -206,7 +206,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   Join us! <a href="/jobs">→Open positions</a>
 
   <h2 class="category">MaiNLP resources and code</h2>
-  You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">→ on our github page</a>
+  You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">→ on our github page</a> and <a href="https://huggingface.co/mainlp">on our huggingface page</a>
 
   <h2 class="category">Funding</h2>
   Our research is supported by and we thank our sponsors:
