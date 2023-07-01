@@ -91,7 +91,7 @@ admin:
       description: Technician
       picture: mohiuddin.jpg
 affiliated:
-  title: Affiliated researchers and/or co-supervisors
+  title: Affiliated researchers, co-supervisors, guest researchers
   people:
     - name: Maria Barrett
       description: Postdoc at ITU
@@ -109,6 +109,10 @@ affiliated:
       description: Assistant Professor at UvA
       website: https://wilkeraziz.github.io/
       picture: wilker.png
+    - name: Alberto Muñoz-Ortiz
+      description: Guest researcher (2023), Universidade da Coruña
+      website: https://amunozo.github.io/  
+      picture: alberto.jpg
 
 ---
 
@@ -178,11 +182,9 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     </div>
   {%- endfor -%}
 
-  <h2 class="category">Visiting Researchers, External PhDs</h2>
+  <h2 class="category">External PhDs</h2>
    <ul>
      <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external PhD student</li>
-    <li><a href="https://amunozo.github.io/">Alberto Muñoz-Ortiz</a> (2023), visiting researcher</li>
-
   </ul>
   
   <h2 class="category">Support staff and student assistants for teaching</h2>
