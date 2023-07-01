@@ -217,6 +217,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Bayerisches Forschungsinstitut für Digitale Transformation</li>
     <li>Munich Center for Machine Learning (MCML)</li>
   </ul>
+
+  <img src="MCML_Logo.jpg" alt="MCML logo"/>
   
   <h2 class="category">Find us</h2>
   We are located at Akademiestraße 7, 80799 Munich, Germany.<br/>
