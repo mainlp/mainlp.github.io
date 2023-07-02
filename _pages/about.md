@@ -124,6 +124,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 <div class="projects">
   <h2 class="category">News</h2>
    <ul>
+    <li>Prof. Barbara Plank participated in a hearing at the Bavarian parliament on ChatGPT in academia <a href="https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb">Anhörung zur Künstlichen Intelligenz im Wissenschaftsbetrieb</a> on June 23, 2023</li>
     <li>Dr. Yves Scherrer (University of Helsinki) will be giving an on-site <a href="/events/#2023-06-05-yves-scherrer">talk</a> on June 5, 2023</li>
     <li>Dr. Michael A. Hedderich (Cornell University) will be giving an on-site <a href="/events/#2023-05-15-michael-hedderich">talk</a> on May 15, 2023</li>
     <li>Dr. Saif Mohammad (NRC Canada) will be giving an on-site <a href="/events/#2023-05-08-saif-mohammad">talk</a> on May 8, 2023</li>
