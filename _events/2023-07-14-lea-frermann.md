@@ -1,5 +1,5 @@
 ---
-title: "Conflicts, Villains, Resolutio: Towards models of Narrative Media Framing"
+title: "Conflicts, Villains, Resolution: Towards models of Narrative Media Framing"
 abstract: Stories have existed as long as human societies, and are fundamental to communication, culture, and cognition. This talk looks at the interaction of narratives and media framing, i.e., the deliberate presentation of information to elicit a desired response or shift in the reader’s attitude. While rich theories of media framing have emerged from the political and communication sciences, NLP approaches to automatic frame prediction tend to oversimplify the concept. In particular, current approaches focus on overly localized lexical signals, make unwarranted independence assumptions, and ignore the broader, narrative context of news articles. This talk presents our recent work which incorporates narrative themes,  roles of involved actors, and the interaction multiple frames in a news article as a step towards a computational framework of narrative framing. Quantitative evaluation and case studies on media framing of climate change reflect a benefit of the more nuanced emerging frame representations.
 speaker: Dr. Lea Frermann<br/>
     Lecturer, The University of Melbourne
