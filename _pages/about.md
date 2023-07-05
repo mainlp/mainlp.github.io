@@ -208,7 +208,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   Join us! <a href="/jobs">→Open positions</a>
 
   <h2 class="category">MaiNLP resources and code</h2>
-  You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">→ on our github page</a> and <a href="https://huggingface.co/mainlp">on our huggingface page</a>
+  You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">on our github page</a> and <a href="https://huggingface.co/mainlp">on our huggingface page</a>
 
   <h2 class="category">Funding</h2>
   Our research is supported by and we thank our sponsors:
@@ -223,7 +223,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
  <!-- TODO <img src="MCML_Logo.jpg" alt="MCML logo"/> -->
   
   <h2 class="category">Find us</h2>
-  We are located at Akademiestraße 7, 80799 Munich, Germany.<br/>
+  We are located at Akademiestraße 7, 80799 Munich, Germany (<a href="https://mainlp.github.io/contact/">→ directions</a>).<br/>
 
   <a href="https://github.com/mainlp"><i class="fab fa-github"></i> MaiNLP</a><br/>
   <a href="https://twitter.com/MaiNLPlab"><i class="fab fa-twitter"></i> MaiNLPlab</a><br/>
