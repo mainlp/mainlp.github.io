@@ -6,7 +6,8 @@ speaker: Dr. Lea Frermann<br/>
 bio: Lea Frermann is a lecturer (assistant professor) and DECRA fellow at the University of Melbourne. Her research combines natural language processing with the cognitive and social sciences to understand how humans learn about and represent complex information and to enable models to do the same in fair and robust ways. Recent projects include models of meaning change; of common sense knowledge in humans and language representations; and automatic story understanding in both fiction (books or movies) and the real world (as narratives in news reporting on complex issues like climate change).
 website: http://www.frermann.de/
 time: July 14, 2023; 09:00–10:00
-location: tba
+location: Amalienstr. 73A - 112
+roomfinder: https://www.lmu.de/raumfinder/#/building/bw0147/map?room=014701112_
 img: assets/img/lea.jpg
 imgalt: Portrait of Lea Frermann
 imgside: left
