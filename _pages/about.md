@@ -69,17 +69,20 @@ staff:
 support:
   title: Support Staff
   people:
+    - name: Miriam Winkler
+      description: Student assistant (2023–)
+      picture: miriam.jpg
     - name: Barbara Kovačić
-      description: student assistant (2023–)
+      description: Student assistant (2023–)
       picture: barbarak.png
     - name: Zihang Sun
-      description: student assistant (2023–)
+      description: Student assistant (2023–)
       picture: zihang.png
     - name: Marie Kolm
-      description: student assistant (2023–)
+      description: Student assistant (2023–)
       picture: marie.jpeg
     - name: Huangyan Shan
-      description: student assistant (2023–)
+      description: Student assistant (2023–)
       picture: huangyan.jpg
 admin:
   title: Administrative Staff
