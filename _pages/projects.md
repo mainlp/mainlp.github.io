@@ -134,7 +134,7 @@ Machine Translation (MT) is frequently used to bridge the gap in cross-lingual i
 
 #### Selected research projects
 
-- :hourglass_flowing_sand:  *Cross-domain Relation extraction.* Extracting structured information such as bornIn(person, location) is central for knowledge base population. Yet current extraction technology is limited to a few text domains and semantic relations. How can we adapt relation extractors to generalize better across different text domains or different relation sets? [Seereferences of MultiVaLUe project](#multivalue). Level: BSc or MSc.
+- :hourglass_flowing_sand:  *Cross-domain Relation extraction.* Extracting structured information such as bornIn(person, location) is central for knowledge base population. Yet current extraction technology is limited to a few text domains and semantic relations. How can we adapt relation extractors to generalize better across different text domains or different relation sets? [See references of MultiVaLUe project](#multivalue). Level: BSc or MSc.
 
 - :hourglass_flowing_sand: *Computational Job Market Analysis.* Extraction of skills from job postings, multlinguality. We are particularly interested in in-depth analysis of existing data and models, or comparisons of different approaches, or extending skill extraction or classification to Germanic and other languages.  [See references of MultiSkill project](#multiskill). Also [Bhola et al., 2020](https://aclanthology.org/2020.coling-main.513.pdf) and [Gnehm et al. 2021](https://www.zora.uzh.ch/id/eprint/230653/1/2022.nlpcss_1.2.pdf). Level: BSc or MSc.
  
