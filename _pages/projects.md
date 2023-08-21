@@ -159,7 +159,7 @@ Start with the CNN/DM dataset. Project can be extended to other genres and langu
 
 - *Understanding Indirect Answers.* Indirect answers are replies to polar questions without explicit use
 of Yes/No clues. Example: Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect answers are natural in human dialogue, but very difficult for a conversational AI system. Build an NLP model that improves automatic understanding of indirect
-questions in English. Project can be extended to multlingual/transfer learning. Reference: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/) and [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/)  Level: BSc or MSc.
+questions in English, for example by modeling longer dialogue context. Project can be extended to multlingual/transfer learning. References: [Louis et al., 2020](https://aclanthology.org/2020.emnlp-main.601/), [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/) and [Sanagavarapu et al., 2022](https://aclanthology.org/2022.naacl-main.345/). Level: BSc or MSc.
 
 - *Scientific Analysis Tool.* The goal of this project is to use off-the-shelf NLP models for citation analysis, semantic search and text summarization to build a tool that (semi-)automates the process of synthesizing and summarizing a line of research. This involves identifying the citation purpose and aggregating/summarizing information across multiple papers. Strong knowledge in Python required, knowledge in web crawling beneficial. Level: BSc
 
