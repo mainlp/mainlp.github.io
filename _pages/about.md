@@ -59,11 +59,11 @@ staff:
       website: https://elisabassignana.github.io/
       picture: elisa.jpg
     - name: Mike Zhang
-      description: Affiliated PhD student (2020–)
+      description: Affiliated PhD student (2020–2024)
       website: https://jjzha.github.io/
       picture: mike.jpg
     - name: Max Müller-Eberstein
-      description: Affiliated PhD student (2020–)
+      description: Affiliated PhD student (2020–2024)
       website: https://personads.me/
       picture: max.jpg
 support:
