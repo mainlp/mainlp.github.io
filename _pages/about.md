@@ -35,7 +35,7 @@ staff:
       website: https://rlitschk.github.io/
       picture: robert.png
     - name: Katya Artemova
-      description: Postdoc (2022–)
+      description: Postdoc (2022–2023)
       website: https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ
       picture: katya.jpg
     - name: Xinpeng Wang
@@ -79,7 +79,7 @@ support:
       description: Student assistant (2023–)
       picture: zihang.png
     - name: Marie Kolm
-      description: Student assistant (2023–)
+      description: Student assistant (2023)
       picture: marie.jpeg
     - name: Huangyan Shan
       description: Student assistant (2023–)
@@ -127,6 +127,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 <div class="projects">
   <h2 class="category">News</h2>
    <ul>
+    <li>September 2023: We are hiring see <a href="/jobs/">our job page</a></li>
     <li> Dr. Lea Frermann (University of Melbourne) will be giving an on-site <a href="/events/#2023-07-14-lea-frermann">talk</a> on July 14, 2023</li>
     <li>Prof. Barbara Plank participated in a hearing at the Bavarian parliament on ChatGPT in academia <a href="https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb">Anhörung zur Künstlichen Intelligenz im Wissenschaftsbetrieb</a> on June 23, 2023</li>
     <li>Dr. Yves Scherrer (University of Helsinki) will be giving an on-site <a href="/events/#2023-06-05-yves-scherrer">talk</a> on June 5, 2023</li>
@@ -187,17 +188,17 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     </div>
   {%- endfor -%}
 
-  <h2 class="category">External PhDs</h2>
+  <h2 class="category">Collaborations</h2>
    <ul>
-     <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external PhD student</li>
+     <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external co-supervised PhD student</li>
   </ul>
   
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
-    <li>Chaeeun Lee (2022–)</li>
-    <li>Bolei Ma (2022–)</li>
-    <li>Ercong Nie (2022–)</li>
-    <li>Shija Zhou (2022–)</li>
+    <li>Ercong Nie (2022–2024)</li>
+    <li>Shija Zhou (2022–2024)</li>
+    <li>Chaeeun Lee (2022-2023)</li>
+    <li>Bolei Ma (2022–2023)</li>
   </ul>
   
 
