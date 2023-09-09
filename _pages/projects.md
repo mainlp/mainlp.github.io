@@ -84,6 +84,7 @@ Regularly <b>check back here for updates</b> on thesis project suggestions.
 
 News:
 
+- 2023, September 9: All thesis applications are closed. 
 - 2023, August 21: Thesis applications for the winter semester are open. See application deadlines below.
 - 2023, March 7: All thesis applications are closed. 
 - 2023, Feb 28: MSc project applications are closed. Updated projects. BSc applications are still open
@@ -188,8 +189,8 @@ References: [Davani et al., TACL 2022](https://aclanthology.org/2022.tacl-1.6/),
 ### How to apply for a BSc and MSc thesis project
 
 **Important information for LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date. Deadlines for the ~~summer~~ winter semester 2023: 
-* MSc students apply before ~~**February 24, 2023**~~ **August 31, 2023**
-* BSc students apply before ~~**March 6, 2023**~~ **September 4, 2023**
+* MSc students apply before ~~**February 24, 2023**~~ ~~**August 31, 2023**~~ (closed)
+* BSc students apply before ~~**March 6, 2023**~~ ~~**September 4, 2023**~~ (closed)
 
 To apply, please send your application material with subject "[BSc (or MSc) thesis project at MaiNLP - inquiry [Name and which semester]" to: thesisplank@cis.lmu.de
 
