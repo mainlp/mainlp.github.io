@@ -55,7 +55,7 @@ staff:
       website: https://jorisbaan.nl/
       picture: joris.jpg
     - name: Elisa Bassignana
-      description: Affiliated PhD student (2020–)
+      description: Affiliated PhD student (2020–2024)
       website: https://elisabassignana.github.io/
       picture: elisa.jpg
     - name: Mike Zhang
