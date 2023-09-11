@@ -90,9 +90,6 @@ admin:
     - name: Paravee Jungbauer
       description: Assistant
       picture: paravee.jpg
-    - name: Mohiuddin Forhad
-      description: Technician
-      picture: mohiuddin.jpg
 affiliated:
   title: Affiliated researchers, co-supervisors, guest researchers
   people:
