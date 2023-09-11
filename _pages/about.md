@@ -19,7 +19,7 @@ staff:
   title: Staff
   people:
     - name: Barbara Plank
-      description: Prof. Dr. and Chair for AI and Computational Linguistics, Lead MaiNLP and Co-director CIS
+      description: Prof. Dr. and Chair for AI and Computational Linguistics, Head of MaiNLP and Co-director CIS
       website: https://bplank.github.io/
       picture: barbara.jpg
     - name: Siyao (Logan) Peng
