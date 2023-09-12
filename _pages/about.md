@@ -124,14 +124,15 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 <div class="projects">
   <h2 class="category">News</h2>
    <ul>
-    <li>September 2023: We are hiring see <a href="/jobs/">our job page</a></li>
+    <li>September/October 2023: Do you speak a German dialect and have 10–15 min to spare? <a href="https://survey.ifkw.lmu.de/sprachtechnologie/">Please fill out our survey to share your opinions on NLP tools!</a></li>
+    <li>September 2023: We are hiring! See <a href="/jobs/">our job page</a></li>
     <li> Dr. Lea Frermann (University of Melbourne) will be giving an on-site <a href="/events/#2023-07-14-lea-frermann">talk</a> on July 14, 2023</li>
     <li>Prof. Barbara Plank participated in a hearing at the Bavarian parliament on ChatGPT in academia <a href="https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb">Anhörung zur Künstlichen Intelligenz im Wissenschaftsbetrieb</a> on June 23, 2023</li>
     <li>Dr. Yves Scherrer (University of Helsinki) will be giving an on-site <a href="/events/#2023-06-05-yves-scherrer">talk</a> on June 5, 2023</li>
     <li>Dr. Michael A. Hedderich (Cornell University) will be giving an on-site <a href="/events/#2023-05-15-michael-hedderich">talk</a> on May 15, 2023</li>
     <li>Dr. Saif Mohammad (NRC Canada) will be giving an on-site <a href="/events/#2023-05-08-saif-mohammad">talk</a> on May 8, 2023</li>
     <li>April 25, 2023: Barbara Plank's ERC and our MaiNLP lab research is featuring in the LMU University news! <a href="https://www.lmu.de/en/newsroom/news-overview/news/language-technologies-for-digital-inclusion.html">"Language technologies for digital inclusion"</a> (available also in <a href="https://www.lmu.de/de/newsroom/newsuebersicht/news/sprachtechnologien-fuer-die-digitale-teilhabe.html">German: "Sprachtechnologien für die digitale Teilhabe"</a>)</li>
-    <li>Barbara Plank, Katya Artemova and Verena Blaschke will present and be panel mentor at the Munich <a href="https://www.eventbrite.de/e/get-together-women-in-nlp-tickets-616473698427">Women in NLP get-together</a> on April 24</li>
+    <li>Barbara Plank, Katya Artemova and Verena Blaschke will present and be panel mentors at the Munich <a href="https://www.eventbrite.de/e/get-together-women-in-nlp-tickets-616473698427">Women in NLP get-together</a> on April 24</li>
   </ul>
 
   {%- for group in page.groups -%}
