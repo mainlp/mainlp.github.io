@@ -19,6 +19,23 @@ At MaiNLP we aim to make NLP models more robust, so that they can deal better wi
 
 The following lists selected on-going research projects at MaiNLP, including selected publications:
 
+### <a name="ercdialect">ERC Consolidator grant DIALECT: Natural Language Understanding for non-standard languages and dialects</a>
+
+Dialects are ubiquitous and for many speakers are part of everyday life. They carry important social and communicative functions. Yet, dialects and non-standard languages in general are a blind spot in research on Natural Language Understanding (NLU). Despite recent breakthroughs, NLU still fails to take linguistic diversity into account. This lack of modeling language variation results in biased language models with high error rates on dialect data. This failure excludes millions of speakers today and prevents the development of future technology that can adapt to such users.
+
+To account for linguistic diversity, a paradigm shift is needed: Away from data-hungry algorithms with passive learning from large data and single ground truth labels, which are known to be biased. To go past current learning practices, the key is to tackle variation at both ends: in input data and label bias. With DIALECT, I propose such an integrated approach, to devise algorithms which aid transfer from rich variability in inputs, and interactive learning which integrates human uncertainty in labels. This will reduce the need for data and enable better adaptation and generalization.
+
+Advances in salient areas of deep learning research now make it possible to tackle this challenge. DIALECT’s objectives are to devise a) new algorithms and insights to address extremely scarce data setups and biased labels; b) novel representations which integrate auxiliary sources of information such as complement text data with speech; and c) new datasets with conversational data in its most natural form.
+
+By integrating dialectal variation into models able to learn from scarce data and biased labels, the foundations will be established for fairer and more accurate NLU to break down language and literary barriers.
+
+Selected publications:
+- [Plank, 2016. What to do about non-standard (or non-canonical) language in NLP. In KONVENS.](https://arxiv.org/abs/1608.07836)
+- [Plank, 2022. The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation. In EMNLP.](https://arxiv.org/abs/2211.02570)
+- [Baan, Aziz, Plank & Fernandez 2022.  Stop Measuring Calibration When Humans Disagree. In EMNLP.](https://arxiv.org/abs/2210.16133)
+- [Blaschke, Schütze & Plank, 2023. A Survey of Corpora for Germanic Low-Resource Languages and Dialects. In NoDaLiDa.](https://arxiv.org/abs/2304.09805)
+
+
 ### <a name="multivalue">DFF Sapere Aude Project MultiVaLUe: Multilingual Variety-aware Language Understanding Technology</a>
 
 Intelligent machines that understand natural language texts are the Holy Grail of Artificial Intelligence. If achieved, they can automatically extract useful information from big messy text collections. Many challenges must be overcome first. To alleviate the scarcity of resources and broaden the scope to Danish and other small languages, we will unify two strands of research, transfer learning and weak supervision, with the aim to design cross-domain and cross-lingual algorithms that extract information more robustly under minimal guidance. In this project we work on two concrete applications: cross-lingual syntactic parsing (and representation learning on the linguistic manifold) and cross-domain information extraction.
@@ -38,21 +55,6 @@ Selected publications:
 - [Zhang, Jensen & Plank 2021. Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning. In LREC.](https://aclanthology.org/2022.lrec-1.46/)
  
 
-### <a name="ercdialect">ERC Consolidator grant DIALECT: Natural Language Understanding for non-standard languages and dialects</a>
-
-Dialects are ubiquitous and for many speakers are part of everyday life. They carry important social and communicative functions. Yet, dialects and non-standard languages in general are a blind spot in research on Natural Language Understanding (NLU). Despite recent breakthroughs, NLU still fails to take linguistic diversity into account. This lack of modeling language variation results in biased language models with high error rates on dialect data. This failure excludes millions of speakers today and prevents the development of future technology that can adapt to such users.
-
-To account for linguistic diversity, a paradigm shift is needed: Away from data-hungry algorithms with passive learning from large data and single ground truth labels, which are known to be biased. To go past current learning practices, the key is to tackle variation at both ends: in input data and label bias. With DIALECT, I propose such an integrated approach, to devise algorithms which aid transfer from rich variability in inputs, and interactive learning which integrates human uncertainty in labels. This will reduce the need for data and enable better adaptation and generalization.
-
-Advances in salient areas of deep learning research now make it possible to tackle this challenge. DIALECT’s objectives are to devise a) new algorithms and insights to address extremely scarce data setups and biased labels; b) novel representations which integrate auxiliary sources of information such as complement text data with speech; and c) new datasets with conversational data in its most natural form.
-
-By integrating dialectal variation into models able to learn from scarce data and biased labels, the foundations will be established for fairer and more accurate NLU to break down language and literary barriers.
-
-Selected publications:
-- [Plank, 2016. What to do about non-standard (or non-canonical) language in NLP. In KONVENS.](https://arxiv.org/abs/1608.07836)
-- [Plank, 2022. The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation. In EMNLP.](https://arxiv.org/abs/2211.02570)
-- [Baan, Aziz, Plank & Fernandez 2022.  Stop Measuring Calibration When Humans Disagree. In EMNLP.](https://arxiv.org/abs/2210.16133)
-- [Blaschke, Schütze & Plank, 2023. A Survey of Corpora for Germanic Low-Resource Languages and Dialects. In NoDaLiDa.](https://arxiv.org/abs/2304.09805)
 
 ### <a name="klima-memes">KLIMA-MEMES: The Impact of Humorous Communication on Political Decision-Making in the Climate Change Context</a>
 
