@@ -195,6 +195,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
    <ul>
     <li>Ercong Nie (2022–2024)</li>
     <li>Shija Zhou (2022–2024)</li>
+    <li>Ivo S. Bueno Júnior (2023-2024)</li>
     <li>Chaeeun Lee (2022-2023)</li>
     <li>Bolei Ma (2022–2023)</li>
   </ul>
