@@ -113,7 +113,7 @@ affiliated:
       description: Assistant Professor at UvA
       website: https://wilkeraziz.github.io/
       picture: wilker.png
-    - name: Dr. Saif M. Mohammad
+    - name: Saif M. Mohammad
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
