@@ -38,6 +38,10 @@ staff:
       description: Postdoc (2022–2023)
       website: https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ
       picture: katya.jpg
+    - name: Daniela Teodorescu
+      description: PhD student (2023–)
+      website: https://dteodore.github.io/
+      picture: mainlp-logo-500.png
     - name: Xinpeng Wang
       description: PhD student (2022–)
       website: https://xinpeng-wang.github.io/
@@ -109,6 +113,10 @@ affiliated:
       description: Assistant Professor at UvA
       website: https://wilkeraziz.github.io/
       picture: wilker.png
+    - name: Dr. Saif M. Mohammad
+      description: Senior Research Scientist at the National Research Council Canada (NRC)
+      website: https://www.saifmohammad.com/
+      picture: saif.png
     - name: Alberto Muñoz-Ortiz
       description: Guest researcher (2023), Universidade da Coruña
       website: https://amunozo.github.io/  
