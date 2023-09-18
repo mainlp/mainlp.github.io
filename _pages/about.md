@@ -131,10 +131,14 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 
 <div class="projects">
   <h2 class="category">News</h2>
-   <ul>
+  <ul>
     <li>September/October 2023: <b>Do you speak a German dialect and have 10–15 min to spare?</b> <a href="https://survey.ifkw.lmu.de/sprachtechnologie/">Please fill out our survey to share your opinions on NLP tools!</a></li>
     <li>September 2023: We are hiring! See <a href="/jobs/">our job page</a></li>
-    <li> Dr. Lea Frermann (University of Melbourne) will be giving an on-site <a href="/events/#2023-07-14-lea-frermann">talk</a> on July 14, 2023</li>
+  </ul>
+<h3 style="font-size: 1rem; font-weight: bolder;">Events</h3>
+  <ul>
+    <li>Janet Liu (Georgetown University) will be giving an on-site <a href="http://127.0.0.1:4000/events/#2023-09-25-janet-liu">talk</a> on September 25, 2023</li>
+    <li>Dr. Lea Frermann (University of Melbourne) will be giving an on-site <a href="/events/#2023-07-14-lea-frermann">talk</a> on July 14, 2023</li>
     <li>Prof. Barbara Plank participated in a hearing at the Bavarian parliament on ChatGPT in academia <a href="https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb">Anhörung zur Künstlichen Intelligenz im Wissenschaftsbetrieb</a> on June 23, 2023</li>
     <li>Dr. Yves Scherrer (University of Helsinki) will be giving an on-site <a href="/events/#2023-06-05-yves-scherrer">talk</a> on June 5, 2023</li>
     <li>Dr. Michael A. Hedderich (Cornell University) will be giving an on-site <a href="/events/#2023-05-15-michael-hedderich">talk</a> on May 15, 2023</li>
