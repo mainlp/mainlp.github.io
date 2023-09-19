@@ -132,6 +132,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 <div class="projects">
   <h2 class="category">News</h2>
   <ul>
+    <li>October 2023: Interested in NLP and linguistic variation? Check out the <a href="https://nlpnorth.github.io/content/multistar-workshop.html">Multi* workshop</a> which we are organizing (October 5-6 at ITU Copenhagen)</li>
     <li>September/October 2023: <b>Do you speak a German dialect and have 10–15 min to spare?</b> <a href="https://survey.ifkw.lmu.de/sprachtechnologie/">Please fill out our survey to share your opinions on NLP tools!</a></li>
     <li>September 2023: We are hiring! See <a href="/jobs/">our job page</a></li>
   </ul>
