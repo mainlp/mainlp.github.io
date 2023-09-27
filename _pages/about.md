@@ -26,7 +26,7 @@ staff:
       description: Postdoc (2023–)
       website: https://logan-siyao-peng.github.io/
       picture: logan.jpeg
-    - name: Leon Weber
+    - name: Leon Weber-Genzel
       description: Postdoc (2022–)
       website: https://leonweber.me/
       picture: leon.png
