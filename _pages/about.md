@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
-groups: [staff, support, admin, affiliated, visiting]
+groups: [staff, support, admin, affiliated]
 staff:
   title: Staff
   people:
@@ -101,7 +101,7 @@ admin:
       description: IT support
       picture: mainlp-logo-500.png
 affiliated:
-  title: Affiliated researchers, co-supervisors, guest researchers
+  title: Affiliated researchers, co-supervisors, visiting scholars
   people:
     - name: Maria Barrett
       description: Postdoc at ITU
@@ -123,9 +123,6 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
- visiting:     
-  title: Visiting scholars
-  people:
     - name: Alberto Muñoz-Ortiz
       description: Visiting scholar (2023), Universidade da Coruña
       website: https://amunozo.github.io/  
