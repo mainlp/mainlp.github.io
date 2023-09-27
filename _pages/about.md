@@ -14,7 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 
-groups: [staff, support, admin, affiliated]
+groups: [staff, support, admin, affiliated, visiting]
 staff:
   title: Staff
   people:
@@ -73,6 +73,9 @@ staff:
 support:
   title: Support Staff
   people:
+    - name: Chengzhi Hu
+      description: Student assistant (2023–)
+      picture: mainlp-logo-500.png
     - name: Miriam Winkler
       description: Student assistant (2023–)
       picture: miriam.jpg
@@ -94,6 +97,9 @@ admin:
     - name: Paravee Jungbauer
       description: Assistant
       picture: paravee.jpg
+    - name: You?
+      description: IT support
+      picture: mainlp-logo-500.png
 affiliated:
   title: Affiliated researchers, co-supervisors, guest researchers
   people:
@@ -117,15 +123,18 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
+ visiting:     
+  title: Visiting scholars
+  people:
     - name: Alberto Muñoz-Ortiz
-      description: Guest researcher (2023), Universidade da Coruña
+      description: Visiting scholar (2023), Universidade da Coruña
       website: https://amunozo.github.io/  
       picture: alberto.jpg
 
 ---
 
 Welcome!
-We are the Munich AI & NLP (MaiNLP) research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/) at LMU Munich. 
+We are the Munich AI & NLP (MaiNLP) research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/) at LMU Munich directed by Prof. Dr. Barbara Plank. 
 We carry out research in Natural Language Processing, an interdisciplinary subdiscipline of Artificial Intelligence at the interface of computer science, linguistics and cognitive science. 
 In broad terms, our aim is to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
 
@@ -209,17 +218,20 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Ercong Nie (2022–2024)</li>
     <li>Shija Zhou (2022–2024)</li>
     <li>Ivo S. Bueno Júnior (2023-2024)</li>
-    <li>Chaeeun Lee (2022-2023)</li>
-    <li>Bolei Ma (2022–2023)</li>
+    <li>Zonggen Li (2023-2024)</li>
+    <li>Yang Sun (2023-2024)</li>
   </ul>
   
 
   
- <!-- <h2 class="category">Prior MaiNLP lab members</h2>
+ <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Anna Barwig, student assistant for research project (2022-2023)</li>
+    <li>Sif Dam Sonniks (student assistant, 2022–2023)</li>
+    <li>Bolei Ma (student assistant, 2022–2023)</li>
+    <li>Anna Barwig (student assistant, 2022-2023)</li>
+    <li>Chaeeun Lee (student assistant, 2022-2023)</li>
   </ul>
-  --> 
+  
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
 
