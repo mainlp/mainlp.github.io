@@ -223,7 +223,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Sif Dam Sonniks (student assistant, 2022–2023)</li>
+    <li>Sif Dam Sonniks (student assistant, 2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023)</li>
     <li>Anna Barwig (student assistant, 2022-2023)</li>
     <li>Chaeeun Lee (student assistant, 2022-2023)</li>
