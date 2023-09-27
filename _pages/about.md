@@ -97,7 +97,7 @@ admin:
     - name: Paravee Jungbauer
       description: Assistant
       picture: paravee.jpg
-    - name: You?
+    - name: (job opening)
       description: IT support
       picture: mainlp-logo-500.png
 affiliated:
