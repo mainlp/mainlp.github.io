@@ -219,7 +219,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Yang Sun (2023-2024)</li>
   </ul>
   
-
+  <h2 class="category">You?</h2>
+  Join us! <a href="/jobs">→Open positions</a>
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
@@ -229,8 +230,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Chaeeun Lee (student assistant, 2022-2023)</li>
   </ul>
   
-  <h2 class="category">You?</h2>
-  Join us! <a href="/jobs">→Open positions</a>
+
 
   <h2 class="category">MaiNLP resources and code</h2>
   You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">on our github page</a> and <a href="https://huggingface.co/mainlp">on our huggingface page</a>
