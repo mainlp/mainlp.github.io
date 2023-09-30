@@ -212,9 +212,9 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Maria Barrett (Postdoc ITU, 2020-2023)</li>
-    <li>Alberto Muñoz-Ortiz (Visiting scholar, Universidade da Coruña, 2023)</li>
+    <li>Maria Barrett (postdoc ITU, 2020-2023)</li>
     <li>Katya Artemova (postdoc, 2022–2023)</li>
+    <li>Alberto Muñoz-Ortiz (Visiting scholar, Universidade da Coruña, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023)</li>
     <li>Anna Barwig (student assistant, 2022-2023)</li>
