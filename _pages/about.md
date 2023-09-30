@@ -99,10 +99,6 @@ admin:
 affiliated:
   title: Affiliated researchers, co-supervisors, visiting scholars
   people:
-    - name: Maria Barrett
-      description: Postdoc at ITU
-      website: https://mariabarrett.github.io/
-      picture: maria.jpg
     - name: Rob van der Goot
       description: Assistant professor at ITU
       website: https://robvanderg.github.io/
@@ -216,6 +212,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>Maria Barrett (Postdoc ITU, 2020-2023)
     <li>Alberto Muñoz-Ortiz (Visiting scholar, Universidade da Coruña, 2023)
     <li>Katya Artemova (postdoc, 2022–2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2023)</li>
