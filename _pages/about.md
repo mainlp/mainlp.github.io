@@ -34,10 +34,6 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
-    - name: Katya Artemova
-      description: Postdoc (2022–2023)
-      website: https://scholar.google.com/citations?hl=en&user=G0lCb3wAAAAJ
-      picture: katya.jpg
     - name: Daniela Teodorescu
       description: PhD student (2023–)
       website: https://dteodore.github.io/
@@ -123,10 +119,6 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
-    - name: Alberto Muñoz-Ortiz
-      description: Visiting scholar (2023), Universidade da Coruña
-      website: https://amunozo.github.io/  
-      picture: alberto.jpg
 
 ---
 
@@ -224,6 +216,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>Alberto Muñoz-Ortiz (Visiting scholar, Universidade da Coruña, 2023)
+    <li>Katya Artemova (postdoc, 2022–2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023)</li>
     <li>Anna Barwig (student assistant, 2022-2023)</li>
