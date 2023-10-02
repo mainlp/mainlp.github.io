@@ -34,6 +34,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Philipp Mondorf
+      description: PhD student (2023–)
+      website: 
+      picture: philipp.jpg
     - name: Daniela Teodorescu
       description: PhD student (2023–)
       website: https://dteodore.github.io/
@@ -95,6 +99,7 @@ admin:
       picture: paravee.jpg
     - name: (job opening)
       description: IT support
+      website: https://mainlp.github.io/jobs/
       picture: mainlp-logo-500.png
 affiliated:
   title: Affiliated researchers, co-supervisors, visiting scholars
@@ -202,9 +207,9 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
    <ul>
     <li>Ercong Nie (2022–2024)</li>
     <li>Shija Zhou (2022–2024)</li>
-    <li>Ivo S. Bueno Júnior (2023-2024)</li>
-    <li>Zonggen Li (2023-2024)</li>
-    <li>Yang Sun (2023-2024)</li>
+    <li>Ivo S. Bueno Júnior (2023–2024)</li>
+    <li>Zonggen Li (2023–2024)</li>
+    <li>Yang Sun (2023–2024)</li>
   </ul>
   
   <h2 class="category">You?</h2>
@@ -217,8 +222,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Alberto Muñoz-Ortiz (Visiting scholar, Universidade da Coruña, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023)</li>
-    <li>Anna Barwig (student assistant, 2022-2023)</li>
-    <li>Chaeeun Lee (student assistant, 2022-2023)</li>
+    <li>Anna Barwig (student assistant, 2022–2023)</li>
+    <li>Chaeeun Lee (student assistant, 2022–2023)</li>
   </ul>
   
 
