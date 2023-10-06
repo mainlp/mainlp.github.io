@@ -36,7 +36,7 @@ staff:
       picture: robert.png
     - name: Philipp Mondorf
       description: PhD student (2023–)
-      website: 
+      website: https://pmmon.github.io/
       picture: philipp.jpg
     - name: Daniela Teodorescu
       description: PhD student (2023–)
