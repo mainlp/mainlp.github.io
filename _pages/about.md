@@ -102,7 +102,7 @@ admin:
       website: https://mainlp.github.io/jobs/
       picture: mainlp-logo-500.png
 affiliated:
-  title: Affiliated researchers, co-supervisors, visiting scholars
+  title: Affiliated members
   people:
     - name: Rob van der Goot
       description: Assistant professor at ITU
@@ -120,6 +120,14 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
+    - name: Patrick Schwabl
+      description: PhD student, Department of Media and Communication, LMU Munich
+      website: https://patschw.github.io/
+      picture: mainlp-logo-500.png
+    - name: Shanshan Xu
+      description: PhD student, Legal Tech group, Technical University of Munich 
+      website: https://sxu3.github.io/
+      picture: mainlp-logo-500.png
 
 ---
 
@@ -198,10 +206,6 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     </div>
   {%- endfor -%}
 
-  <h2 class="category">Collaborations</h2>
-   <ul>
-     <li><a href="https://patschw.github.io/">Patrick Schwabl</a> (2022–), external co-supervised PhD student</li>
-  </ul>
   
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
@@ -217,8 +221,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Maria Barrett (postdoc ITU, 2020-2023)</li>
-    <li>Katya Artemova (postdoc, 2022–2023)</li>
+    <li>Maria Barrett (postdoc ITU, 2020-2023), now at Silo AI</li>
+    <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Alberto Muñoz-Ortiz (Visiting scholar, Universidade da Coruña, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023)</li>
