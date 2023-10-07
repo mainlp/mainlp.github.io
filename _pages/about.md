@@ -139,12 +139,11 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 <div class="projects">
   <h2 class="category">News</h2>
   <ul>
-    <li>October 2023: Interested in NLP and linguistic variation? Check out the <a href="https://nlpnorth.github.io/content/multistar-workshop.html">Multi* workshop</a> which we are organizing (October 5-6 at ITU Copenhagen)</li>
-    <li>September/October 2023: <b>Do you speak a German dialect and have 10–15 min to spare?</b> <a href="https://survey.ifkw.lmu.de/sprachtechnologie/">Please fill out our survey to share your opinions on NLP tools!</a></li>
-    <li>September 2023: We are hiring! See <a href="/jobs/">our job page</a></li>
+    <li>September/October 2023: We are hiring! See <a href="/jobs/">our job page</a></li>
   </ul>
 <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3>
   <ul>
+     <li>October 2023: Interested in NLP and linguistic variation? Check out the <a href="https://nlpnorth.github.io/content/multistar-workshop.html">Multi* workshop</a> we organize October 5-6, 2023 at ITU Copenhagen</li>
     <li>Janet Liu (Georgetown University) will be giving an on-site <a href="/events/#2023-09-25-janet-liu">talk</a> on September 25, 2023</li>
     <li>Dr. Lea Frermann (University of Melbourne) will be giving an on-site <a href="/events/#2023-07-14-lea-frermann">talk</a> on July 14, 2023</li>
     <li>Prof. Barbara Plank participated in a hearing at the Bavarian parliament on ChatGPT in academia <a href="https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb">Anhörung zur Künstlichen Intelligenz im Wissenschaftsbetrieb</a> on June 23, 2023</li>
