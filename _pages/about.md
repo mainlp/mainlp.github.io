@@ -75,7 +75,7 @@ support:
   people:
     - name: Chengzhi Hu
       description: Student assistant (2023–)
-      picture: mainlp-logo-500.png
+      picture: chengzhi.png
     - name: Miriam Winkler
       description: Student assistant (2023–)
       picture: miriam.jpg
