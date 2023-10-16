@@ -93,9 +93,6 @@ support:
     - name: Zihang Sun
       description: Student assistant (2023–)
       picture: zihang.png
-    - name: Marie Kolm
-      description: Student assistant (2023)
-      picture: marie.jpeg
     - name: Huangyan Shan
       description: Student assistant (2023–)
       picture: huangyan.jpg
@@ -231,6 +228,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Maria Barrett (postdoc ITU, 2020-2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Alberto Muñoz-Ortiz (Visiting scholar, Universidade da Coruña, 2023)</li>
+    <li>Marie Kolm (student assistant, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023), now PhD student at LMU</li>
     <li>Anna Barwig (student assistant, 2022–2023)</li>
