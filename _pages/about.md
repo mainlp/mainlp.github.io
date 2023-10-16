@@ -22,6 +22,10 @@ staff:
       description: Prof. Dr. and Chair for AI and Computational Linguistics, Head of MaiNLP and Co-director CIS
       website: https://bplank.github.io/
       picture: barbara.jpg
+    - Name: Diego Frassinelli
+      description: Dr., Lecturer
+      website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/frassinelli/index.html
+      picture: mainlp-logo-500.png
     - name: Siyao (Logan) Peng
       description: Postdoc (2023–)
       website: https://logan-siyao-peng.github.io/
@@ -34,6 +38,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Elena Senger
+      description: PhD student (2023–)
+      website: #
+      picture: mainlp-logo-500.png
     - name: Philipp Mondorf
       description: PhD student (2023–)
       website: https://pmmon.github.io/
