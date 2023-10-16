@@ -22,7 +22,7 @@ staff:
       description: Prof. Dr. and Chair for AI and Computational Linguistics, Head of MaiNLP and Co-director CIS
       website: https://bplank.github.io/
       picture: barbara.jpg
-    - Name: Diego Frassinelli
+    - name: Diego Frassinelli
       description: Dr., Lecturer
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/frassinelli/index.html
       picture: mainlp-logo-500.png
