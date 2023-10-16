@@ -41,7 +41,7 @@ staff:
     - name: Daniela Teodorescu
       description: PhD student (2023–)
       website: https://dteodore.github.io/
-      picture: mainlp-logo-500.png
+      picture: daniela.jpeg
     - name: Xinpeng Wang
       description: PhD student (2022–)
       website: https://xinpeng-wang.github.io/
