@@ -55,7 +55,7 @@ staff:
       website: https://verenablaschke.github.io/
       picture: verena.jpg
     - name: Elena Senger
-      description: PhD student (2023–)
+      description: External PhD student (2023–)
       website: #
       picture: mainlp-logo-500.png
     - name: Shengqiang Zhang
@@ -107,7 +107,7 @@ admin:
       website: https://mainlp.github.io/jobs/
       picture: mainlp-logo-500.png
 affiliated:
-  title: Affiliated members
+  title: Affiliated members (e.g. co-supervisors, mentorships)
   people:
     - name: Rob van der Goot
       description: Assistant professor at ITU
@@ -126,11 +126,11 @@ affiliated:
       website: https://www.saifmohammad.com/
       picture: saif.png
     - name: Patrick Schwabl
-      description: PhD student, Department of Media and Communication, LMU Munich
+      description: External mentored PhD student, Department of Media and Communication, LMU Munich
       website: https://patschw.github.io/
       picture: mainlp-logo-500.png
     - name: Shanshan Xu
-      description: PhD student, Legal Tech group, Technical University of Munich 
+      description: External mentored PhD student, Legal Tech group, Technical University of Munich 
       website: https://sxu3.github.io/
       picture: mainlp-logo-500.png
 
