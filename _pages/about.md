@@ -55,27 +55,23 @@ staff:
       website: https://verenablaschke.github.io/
       picture: verena.jpg
     - name: Elena Senger
-      description: External PhD student (2023–)
+      description: External PhD student (2023–), Fraunhofer IMW
       website: #
       picture: mainlp-logo-500.png
-    - name: Shengqiang Zhang
-      description: Affiliated PhD student (2022–)
-      website: https://shengqiang-zhang.github.io/
-      picture: shengqiang.jpg
     - name: Joris Baan
-      description: Affiliated PhD student (2021–)
+      description: Affiliated PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
       picture: joris.jpg
     - name: Elisa Bassignana
-      description: Affiliated PhD student (2020–2024)
+      description: Affiliated PhD student (2020–2024), IT University of Copenhagen
       website: https://elisabassignana.github.io/
       picture: elisa.jpg
     - name: Mike Zhang
-      description: Affiliated PhD student (2020–2024)
+      description: Affiliated PhD student (2020–2024), IT University of Copenhagen
       website: https://jjzha.github.io/
       picture: mike.jpg
     - name: Max Müller-Eberstein
-      description: Affiliated PhD student (2020–2024)
+      description: Affiliated PhD student (2020–2024), IT University of Copenhagen
       website: https://personads.me/
       picture: max.jpg
 support:
@@ -107,7 +103,7 @@ admin:
       website: https://mainlp.github.io/jobs/
       picture: mainlp-logo-500.png
 affiliated:
-  title: Affiliated members (e.g. co-supervisors, mentorships)
+  title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
   people:
     - name: Rob van der Goot
       description: Assistant professor at ITU
@@ -125,6 +121,10 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
+    - name: Shengqiang Zhang
+      description: External co-supervised PhD student (2022–)
+      website: https://shengqiang-zhang.github.io/
+      picture: shengqiang.jpg
     - name: Patrick Schwabl
       description: External mentored PhD student, Department of Media and Communication, LMU Munich
       website: https://patschw.github.io/
