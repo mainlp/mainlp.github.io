@@ -38,10 +38,6 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
-    - name: Elena Senger
-      description: PhD student (2023–)
-      website: #
-      picture: mainlp-logo-500.png
     - name: Philipp Mondorf
       description: PhD student (2023–)
       website: https://pmmon.github.io/
@@ -58,6 +54,10 @@ staff:
       description: PhD student (2022–)
       website: https://verenablaschke.github.io/
       picture: verena.jpg
+    - name: Elena Senger
+      description: PhD student (2023–)
+      website: #
+      picture: mainlp-logo-500.png
     - name: Shengqiang Zhang
       description: Affiliated PhD student (2022–)
       website: https://shengqiang-zhang.github.io/
