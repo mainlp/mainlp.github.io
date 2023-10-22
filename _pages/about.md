@@ -56,8 +56,8 @@ staff:
       picture: verena.jpg
     - name: Elena Senger
       description: External PhD student (2023–), Fraunhofer IMW
-      website: #
-      picture: mainlp-logo-500.png
+      website: https://elenasenger.netlify.app/
+      picture: elena.jpg
     - name: Joris Baan
       description: Affiliated PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
