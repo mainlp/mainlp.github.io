@@ -23,7 +23,7 @@ staff:
       website: https://bplank.github.io/
       picture: barbara.jpg
     - name: Diego Frassinelli
-      description: Dr., Lecturer
+      description: Dr., Lecturer (part-time)
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/frassinelli/index.html
       picture: mainlp-logo-500.png
     - name: Siyao (Logan) Peng
