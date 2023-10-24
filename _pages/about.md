@@ -145,7 +145,6 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <h2 class="category">News</h2>
   <ul>
     <li>Interested in Uncertainty and NLP? We are part of the <a href="https://uncertainlp.github.io/">First Workshop on Uncertainty-aware NLP @ EACL 2024</a></li>
-    <li>September/October 2023: We are hiring! See <a href="/jobs/">our job page</a></li>
   </ul>
 <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3>
   <ul>
