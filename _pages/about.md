@@ -240,14 +240,20 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <h2 class="category">MaiNLP resources and code</h2>
   You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">on our github page</a> and <a href="https://huggingface.co/mainlp">on our huggingface page</a>
 
-  <h2 class="category">Funding</h2>
-  Our research is supported by and we thank our sponsors:
+  <h2 class="category">Organizations</h2>
+  Our research is supported by:
   <ul>
-    <li>European Research Council (ERC)</li>
-    <li>Danmarks Frie Forskningsfond (DFF)</li>
-    <li>Freistaat Bayern</li>
-    <li>Bayerisches Forschungsinstitut für Digitale Transformation</li>
-    <li>Munich Center for Machine Learning (MCML)</li>
+    <li><a href="https://erc.europa.eu/homepage">European Research Council (ERC)</a> project <a href="https://mainlp.github.io/projects/#ongoingproj">DIALECT</a></li>
+    <li><a href="https://dff.dk/en">Danmarks Frie Forskningsfond (DFF)</a>, Sapere Aude Research Leader grant</li>
+    <li><a href="https://www.bayern.de/politik/hightech-agenda/">Bayerische Staatsregierung HTA</a><</li>
+    <li><a href="https://mcml.ai/">Munich Center for Machine Learning (MCML)</a></li>
+    <li><a href="https://www.bidt.digital/">Bayerisches Forschungsinstitut für Digitale Transformation (bidt)</a></li>
+  </ul>
+
+  We are also part of:
+  <ul>
+    <li><a href="https://ellis.eu/programs/natural-language-processing">ELLIS Europe NLP Program</a></li>
+    <li><a href="https://www.ellismunich.ai/">ELLIS Unit Munich</a></li>
   </ul>
 
  <!-- TODO <img src="MCML_Logo.jpg" alt="MCML logo"/> -->
