@@ -9,6 +9,8 @@ nav_order: 4
 
 Join us at MaiNLP @ LMU Munich / CIS:
 
+- **IT Techniker/in** (IT technician). Apply by November 27th, 2023 (more info will follow soon)
+
 
 Open until filled:
   
