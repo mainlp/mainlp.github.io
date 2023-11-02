@@ -8,7 +8,7 @@ website: https://paulrottger.com/
 time: November 8, 2023; 11:00–12:00
 location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
-img: paul-rottger.jpeg
+img: assets/img/paul-rottger.jpeg
 imgalt: Portrait of Paul Röttger
 imgside: right
 anchor: 2023-11-08-paul-röttger
