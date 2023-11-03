@@ -9,7 +9,7 @@ nav_order: 4
 
 Join us at MaiNLP @ LMU Munich / CIS:
 
-- [**IT Techniker/in** (IT technician)](https://job-portal.lmu.de/jobposting/c24606914f7c9d6228ab4f42791a33d2e6b782a10?ref=homepage). Apply by November 27th, 2023 (more info will follow soon)
+- [**IT Techniker/in** (IT technician)](https://job-portal.lmu.de/jobposting/c24606914f7c9d6228ab4f42791a33d2e6b782a10?ref=homepage). Apply by November 27th, 2023 
 
 
 Open until filled:
