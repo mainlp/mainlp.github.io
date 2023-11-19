@@ -214,7 +214,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
     <li>Ercong Nie (2022–2024)</li>
-    <li>Shija Zhou (2022–2024)</li>
+    <li>Shijia Zhou (2022–2024)</li>
     <li>Ivo S. Bueno Júnior (2023–2024)</li>
     <li>Zonggen Li (2023–2024)</li>
     <li>Yang Sun (2023–2024)</li>
