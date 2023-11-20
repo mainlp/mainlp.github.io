@@ -38,6 +38,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Jian Lan
+      description: PhD student (2023–)
+      website: #
+      picture: mainlp-logo-500.png
     - name: Philipp Mondorf
       description: PhD student (2023–)
       website: https://pmmon.github.io/
