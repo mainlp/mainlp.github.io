@@ -40,8 +40,8 @@ staff:
       picture: robert.png
     - name: Jian Lan
       description: PhD student (2023–)
-      website: #
-      picture: mainlp-logo-500.png
+      website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/jianlan/index.html
+      picture: jian.jpg
     - name: Philipp Mondorf
       description: PhD student (2023–)
       website: https://pmmon.github.io/
