@@ -15,7 +15,7 @@ Join us at MaiNLP @ LMU Munich / CIS:
 
 Open until filled:
   
-- [**PhD/Postdoc positions**](/assets/pdf/PhD-postdoc-MaiNLP2024.pdf): We have again openings to join the lab in spring or summer 2024. Apply by December 14, 2024.
+- [**PhD/Postdoc positions**](/assets/pdf/PhD-postdoc-MaiNLP2024.pdf): We have again openings to join the lab in spring or summer 2024. Apply by December 14, 2024. (These topics are also open for current ELLIS applicants)
 
 <!-- Besides, we are always interested in hearing from interested candidates. -->
 
