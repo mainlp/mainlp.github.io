@@ -83,7 +83,7 @@ support:
   people:
     - name: Sebastian Loftus
       description: Student assistant (2023–)
-      picture: mainlp-logo-500.png
+      picture: sebastian.jpg
     - name: Chengzhi Hu
       description: Student assistant (2023–)
       picture: chengzhi.png
