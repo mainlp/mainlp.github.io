@@ -10,6 +10,6 @@ location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
 img: assets/img/paul-rottger.jpeg
 imgalt: Portrait of Paul Röttger
-imgside: right
+imgside: left
 anchor: 2023-11-08-paul-röttger
 ---
