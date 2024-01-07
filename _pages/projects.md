@@ -53,7 +53,7 @@ Job markets are about to undergo profound changes in the years to come. The skil
 Selected publications:
 - [Zhang, Jensen, Sonniks & Plank, 2022. SkillSpan: Hard and Soft Skill Extraction from English Job Postings. In NAACL.](https://aclanthology.org/2022.naacl-main.366/)
 - [Zhang, Jensen & Plank 2021. Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning. In LREC.](https://aclanthology.org/2022.lrec-1.46/)
-- [Zhang, van der Goot, Plank, 2023. ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market Domain. In ACL.](https://aclanthology.org/2023.acl-long.662.pdf)
+- [Zhang, van der Goot & Plank, 2023. ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market Domain. In ACL.](https://aclanthology.org/2023.acl-long.662.pdf)
  
 
 
