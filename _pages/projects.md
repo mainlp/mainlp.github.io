@@ -87,13 +87,7 @@ Regularly <b>check back here for updates</b> on thesis project suggestions.
 
 News:
 
-- 2023, September 9: All thesis applications are closed. 
-- 2023, August 21: Thesis applications for the winter semester are open. See application deadlines below.
-- 2023, March 7: All thesis applications are closed. 
-- 2023, Feb 28: MSc project applications are closed. Updated projects. BSc applications are still open
-- 2023, Feb 21: Slight update on projects 
-- 2023, Feb 17: :hourglass_flowing_sand: denotes that projects are currently reserved
-- 2023, Feb 6: :sparkles: more thesis projects posted, MSc/BSc level indicators added
+- 2024, Jan 8: Information on how to apply added. Stay tuned for updates on project proposals
 
 
 Legend:
@@ -113,13 +107,6 @@ Legend:
 
 - *Adopting Information Retrieval Models for Rare Terms.* Neural ranking models have shown impressive results on general retrieval benchmarks, however, domain specific retrieval and representing rare terms are still an open challenge [(Thakur et al., 2021)](https://arxiv.org/abs/2104.08663). In this thesis, the goal is to explore strategies for rewriting queries and documents with the help of text simplification models or external resources such as WordNet or Wikipedia in order to improve their performance in domain transfer. Level: MSc.
 
-- *NLP methods for Folk Songs Lyrics.*  Folk music is an essential element of any culture. This project seeks to apply NLP techniques to study folk music of the German-speaking countries with a special focus on song lyrics written in dialect. You will start with building a pipeline for large-scale lyrics collection. Next, you will conduct a comprehensive analysis of song lyrics including (but not limited to): discovering most popular lyrical themes, studying rhymes and the figurative speech used in lyrics. Level: BSc or MSc.
-
-- *Large Language Models for low-resource NLP revisited.* At the moment, large language models (LLMs) are all the hype, but do we actually need them for low-resource tasks? In this project, the student compares LLM fine-tuning with computationally cheaper ways of training a model for a low-resource language variety and a NLP task (any classification task or a sequence labeling task). Level: BSc or MSc.
-
-- *Learning Task Representations.* We are often interested in transferring NLP/IR models to datasets for which we have little or no label annotations available. In such a zero-shot setting its possible to transfer a model from a single related task or a set of related tasks. Representing tasks and measuring task similarity is an open challenge and active research field, the goal of this thesis is to explore approaches for deriving task representations and evaluating their effectiveness in a multi-task setting. Level: MSc.
-
-- *Code-Switching in Cross-Lingual Information Retrieval.* When we train retrieval models on monolingual data the model can learn to predict the document relevance from keyword overlaps with the query or from semantic context. Arguably, keyword matching is an easier task than learning semantic concepts. In our [recent work](https://aclanthology.org/2023.findings-acl.193/) we show that retrieval models trained on English data are biased towards keyword matching, which is less problematic if we transfer the model to other monolingual setups. However, in cross-lingual information retrieval (CLIR) the query language vocabulary is different from the document language vocabulary and relying on keyword overlap is suboptimal. To mitigate this bias and improve retrieval results, we propose code-switching the training data as a way to mitigate this bias. The goal of this thesis is to experiment with more sophisticated code-switching approaches, additional languages and different domains. Level: BSc or MSc.
 
 
 ### V2: High-Quality Information Extraction in Targeted Domains
@@ -133,9 +120,6 @@ Legend:
 
 - *Adapt NER Tools to novel entities with gazetteers.* 
 Named Entity Recognition (NER) tools are trained on a corpus and then deployed as static resources. When novel entities emerge after deployment, then such tools have problems detecting them (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9014470/). For instance, the state-of-the-art biomedical NER tool HunFlair (https://academic.oup.com/bioinformatics/article/37/17/2792/6122692) has difficulties in reliably detecting concepts related to COVID, because it was trained before the pandemic. In this project, we will develop a novel NER method that allows to easily integrate knowledge emerging entities after training. Level: BSc or MSc.
-
-- *Automated Evaluation of Biomedical Relation Extraction Models.*
-It is an open question how useful information extraction models are for Biological research. The gold standard evaluation is to ask experts for their manual assessment, which is costly and limited to small-scale case studies. However, biological relations have the unique advantage that researchers verify them in biochemical experiments and store the results in large databases. In this project, we will exploit these databases to conduct the first large-scale comparison of different state-of-the-art relation extraction models in terms of usefulness for biological research.  Level: BSc or MSc.
 
  
 ### V3: Natural Language Understanding, Semantic & Pragmatics
@@ -168,14 +152,6 @@ References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank,
 Aggregating annotations via majority vote could lead to ignoring the opinions of minority groups, especially on subjective tasks. Learning from individual annotators shows a better result on subjective classification tasks such as hate speech detection and emotion detection than from the majority vote (Davani et al., 2022). In this project, we want to investigate the potential of learning from individual annotators in an in-context learning setting. How can the model learn from the disagreement between annotators by instruction tuning and prompting? How do we design such instructions?
 References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Schick et al., 2021](https://arxiv.org/abs/2001.07676) and [Mishra et al., 2022](https://aclanthology.org/2022.acl-long.244.pdf). Level: MSc.
 
-
-- *Active learning for Vision Question Answering with Large Pretrained Models.*
-There were several attempts on active learning for VQA [1],[2]. However, these models are small in size and were trained from scratch. Large Pre-trained Models have achieved great success in unimodality (language or vision) and multimodality (vision-language) settings [3]. This project aims to deploy SOTA foundation models in the active learning framework for VQA tasks. A starting point could be re-implementing some VQA active learning works such as [1].
-References:
-[Deep Bayesian Active Learning for Multiple Correct Outputs](https://arxiv.org/abs/1912.01119) [1]
-[Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://aclanthology.org/2021.acl-long.564.pdf) [2]
-[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086) [3] Level: MSc.
-
 - *Learning from Disagreement by Creating Dense Multi-Annotation Dataset* 
 Current deep learning approaches generally learn by modelling the hard label (majority vote) or the soft label (annotation distribution/prediction distribution from a teacher model). Can we go one step further by modelling the annotators? Davani et al., TACL 2022 shows that by modelling the individual annotators, the model's uncertainty estimation correlates well with the human annotation variation. However, for each data sample in the dataset (Gab Hate Speech), it only contains annotations from a subset of all annotators. It requires a significant amount of effort to create a "dense multi-annotation dataset". (each data has annotations from all the annotators.) Therefore, the model in Davani et al., TACL 2022 can only learn from 3 annotations at a time. Can we create such a dense annotation dataset by modelling the individual annotators? How differently will the model behave?
 References: [Davani et al., TACL 2022](https://aclanthology.org/2022.tacl-1.6/), [Geva et al., EMNLP-IJCNLP 2019](https://aclanthology.org/D19-1107/). Level: BSc
@@ -186,9 +162,16 @@ References: [Davani et al., TACL 2022](https://aclanthology.org/2022.tacl-1.6/),
 
 ### How to apply for a BSc and MSc thesis project
 
-**Important information for LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date. Deadlines for the ~~summer~~ winter semester 2023: 
+**Important information for LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date. Deadlines for the summer semester 2024: 
+* MSc students apply before **February 15, 2024**
+* BSc students apply before **February 29, 2024**
+
+<!-- 
+
+
 * MSc students apply before ~~**February 24, 2023**~~ ~~**August 31, 2023**~~ (closed)
 * BSc students apply before ~~**March 6, 2023**~~ ~~**September 4, 2023**~~ (closed)
+-->
 
 To apply, please send your application material with subject "[BSc (or MSc) thesis project at MaiNLP - inquiry [Name and which semester]" to: thesisplank@cis.lmu.de
 
