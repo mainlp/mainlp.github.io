@@ -10,7 +10,7 @@ nav_order: 5
 Content: 
 
 * [Research projects](#ongoingproj)
-* [Thesis projects](#thesisproj)
+* [BSc/MSc thesis projects](#thesisproj)
 
 At MaiNLP we aim to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
 
@@ -72,8 +72,9 @@ Interested in PhD, Postdoc or student assistants jobs?  <a href="/jobs">→Open 
 <br>
 <br>
 
+<hr/>
 
-<h2 class="category"><a name="thesisproj">Thesis projects</a></h2>
+<h2 class="category"><a name="thesisproj">BSc/MSc thesis projects</a></h2>
 
 Interested in doing your MSc or BSc thesis with us? We offer several BSc and MSc thesis topics at MaiNLP.
  
