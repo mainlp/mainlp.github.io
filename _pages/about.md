@@ -57,7 +57,7 @@ staff:
     - name: Verena Blaschke
       description: PhD student (2022–)
       website: https://verenablaschke.github.io/
-      picture: verena.jpg
+      picture: verena.png
     - name: Elena Senger
       description: External PhD student (2023–), Fraunhofer IMW
       website: https://elenasenger.netlify.app/
