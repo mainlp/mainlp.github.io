@@ -9,7 +9,7 @@ nav_order: 5
 
 Content: 
 
-* [Research projects](#ongoingproj)
+* [On-going research projects](#ongoingproj)
 * [BSc/MSc thesis projects](#thesisproj)
 
 At MaiNLP we aim to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
@@ -82,39 +82,58 @@ Currently, the following research vectors characterize broad topics in which we 
 
 Unless otherwise specified, all projects can be either at the MSc or BSc level. The exact scope of the project will be determined in a meeting before the start of the project. 
 
-*Important note for summer and winter semester 2023*: We currently do not supervise industrial MSc/BSc thesis project (Industrieabschlussarbeiten). 
+*Important note*: We currently do not supervise industrial MSc/BSc thesis project (Industrieabschlussarbeiten). 
 
 Regularly <b>check back here for updates</b> on thesis project suggestions. 
 
 News:
 
 - 2024, Jan 8: Information on how to apply added. Stay tuned for updates on project proposals
+- 2024, Jan 14: MSc/BSc project proposals posted
 
 
 Legend:
 - :hourglass_flowing_sand: topic currently reserved
 - - ~~strikethrough~~: topic no longer available
 
+MSc/BSc thesis research vectors: 
+
+* [V1: NLP for Dialects, Multilinguality](#v1)
+* [V2: High-Quality Information Extraction and Retrieval, Data-centric NLP](#v2)
+* [V3: Natural Language Understanding, Semantic & Pragmatics, Computational Social Science](#v3)
+* [V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Cognition, Vision, Interpretability](#v4)
 
 
-### V1: Learning from Limited Data (Low-resource, NLP for Dialects, Multilinguality, Transfer)
+
+
+
+<a name="v1"/>
+### V1: NLP for Dialects, Multilinguality
 
 #### Selected research projects 
 
-- *Analyzing dialect identification systems.* How well can we automatically discern between different closely related language varieties, and do the features that are relevant to the success of an automatic classifier correlate with those that linguists would describe? The student can decide on the language varieties to be included in the thesis, provided that high-quality, accessible corpora are available. (Some references for finding relevant corpora: [Blaschke ea. 2023](https://aclanthology.org/2023.nodalida-1.41.pdf), [Ramponi 2022](https://arxiv.org/pdf/2209.09757.pdf), [Guellil ea. 2021](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub) – but this list is not exhaustive. If you prefer to work with a language not covered in these overviews, please contact us early on.) The student can also decide which thematic focus/foci the thesis should have: (i) linguistic analysis of the data and classifier output; (ii) applying interpretability methods to the classifier output (in conjunction with focus *i*); (iii) comparing different kinds of input representations and ML architectures. The specific focus and level of detail will depend on the background and skills of the students as well as the degree (BSc vs. MSc).
-(Additional references: [Gaman ea. 2020](https://aclanthology.org/2020.vardial-1.1/) and other VarDial shared task papers for literature on automatic dialect identification, [Nerbonne ea. 2021](https://www.cambridge.org/core/books/similar-languages-varieties-and-dialects/dialectology-for-computational-linguists/C21B76D0E1DF4BBC12C28C9BB50CB1F3) ([alternative link](https://www.let.rug.nl/nerbonne/papers/Nerbonne-etal-CompDial2020.pdf)) and [Wieling & Nerbonne 2015](https://www.annualreviews.org/doi/10.1146/annurev-linguist-030514-124930) for introductions to dialectometry; [Madsen ea. 2022](https://dl.acm.org/doi/pdf/10.1145/3546577) and [Barredo Arrieta ea. 2020](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103) for overviews of interpretability methods.) Level: MSc (preferred) or BSc.
-
-- *Slot and Intent Detection for Low-Resource Dialects.* Digital assistants are becoming wide-spread, yet current technology covers only a limited set of languages.  How can we best do zero-shot transfer to low-resource language variants without standard orthography? [Reference: van der Goot et al., 2021](https://aclanthology.org/2021.naacl-main.197.pdf) and [VarDial 2023 SID4LR](https://sites.google.com/view/vardial-2023/shared-tasks). Create a new evaluation dataset of a low-resource language variant you speak, and investigate how to best transfer to it. Topics: Transfer Learning, Cross-linguality, Dataset annotation (Particularly suited for students interested in covering their own language or dialect not yet covered by existing systems including local dialects, e.g. Austrian, Low Saxon, Sardinian dialects or others). Level: MSc or BSc. 
-
-- *Adopting Information Retrieval Models for Rare Terms.* Neural ranking models have shown impressive results on general retrieval benchmarks, however, domain specific retrieval and representing rare terms are still an open challenge [(Thakur et al., 2021)](https://arxiv.org/abs/2104.08663). In this thesis, the goal is to explore strategies for rewriting queries and documents with the help of text simplification models or external resources such as WordNet or Wikipedia in order to improve their performance in domain transfer. Level: MSc.
+- *NLP for dialectal/non-standard language data.* You are welcome to propose thesis projects related to processing dialectal or non-standard language data. Selected example projects are given below. Please include the following information in your application: (1) the dialect(s)/language(s) you are interested in working with and your familiarity with them, (2) one or more NLP tasks you would be interested in working on, (3) links to relevant datasets (some starting points for finding datasets: Germanic low-resource languages/dialects – Blaschke ea. 2023 (web overview), regional languages of Italy – Ramponi 2022, Arabic dialects – Guellil ea. 2021) and/or details on what kind of data you would like to collect/annotate, and (4) what focus you are most interested in (modelling/engineering, linguistically motivated error analysis, etc. – you are very welcome to pitch specific research questions here). General reference: Zampieri, Nakov & Scherrer 2020. Level: BSc or MSc.
 
 
+ - Analyzing dialect identification systems.* How well can we automatically discern between different closely related language varieties, and do the features that are relevant to the success of an automatic classifier correlate with those that linguists would describe? You can decide on the language varieties to be included in the thesis, provided that high-quality, accessible corpora are available. (Some references for finding relevant corpora: [Blaschke ea. 2023](https://aclanthology.org/2023.nodalida-1.41.pdf) (web overview), [Ramponi 2022](https://arxiv.org/pdf/2209.09757.pdf), [Guellil ea. 2021](https://www.sciencedirect.com/science/article/pii/S1319157818310553?via%3Dihub) – this list is not exhaustive. If you prefer to work with a language not covered in these overviews, please contact us early on.) You can also decide which thematic focus/foci the thesis should have: (i) linguistic analysis of the data and classifier output; (ii) applying interpretability methods to the classifier output (in conjunction with focus i); (iii) comparing different kinds of input representations and ML architectures. The specific focus and level of detail will depend on your background and skills as well as the degree (BSc vs. MSc). (Additional references: Gaman ea. 2020 and other VarDial shared task papers for literature on automatic dialect identification, Nerbonne ea. 2021 (alternative link) and Wieling & Nerbonne 2015 for introductions to dialectometry; Madsen ea. 2022 and Barredo Arrieta ea. 2020 for overviews of interpretability methods.) Level: BSc or MSc.
 
-### V2: High-Quality Information Extraction in Targeted Domains
+<!-- (Additional references: [Gaman ea. 2020](https://aclanthology.org/2020.vardial-1.1/) and other VarDial shared task papers for literature on automatic dialect identification, [Nerbonne ea. 2021](https://www.cambridge.org/core/books/similar-languages-varieties-and-dialects/dialectology-for-computational-linguists/C21B76D0E1DF4BBC12C28C9BB50CB1F3) ([alternative link](https://www.let.rug.nl/nerbonne/papers/Nerbonne-etal-CompDial2020.pdf)) and [Wieling & Nerbonne 2015](https://www.annualreviews.org/doi/10.1146/annurev-linguist-030514-124930) for introductions to dialectometry; [Madsen ea. 2022](https://dl.acm.org/doi/pdf/10.1145/3546577) and [Barredo Arrieta ea. 2020](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103) for overviews of interpretability methods.) .--> 
+
+ - *Slot and Intent Detection for Low-Resource Dialects.* Digital assistants are becoming wide-spread, yet current technology covers only a limited set of languages.  How can we best do zero-shot transfer to low-resource language variants without standard orthography? [Reference: van der Goot et al., 2021](https://aclanthology.org/2021.naacl-main.197.pdf) and [VarDial 2023 SID4LR](https://sites.google.com/view/vardial-2023/shared-tasks). Create a new evaluation dataset of a low-resource language variant you speak, and investigate how to best transfer to it. Topics: Transfer Learning, Cross-linguality, Dataset annotation (Particularly suited for students interested in covering their own language or dialect not yet covered by existing systems including local dialects, e.g. Austrian, Low Saxon, Sardinian dialects or others). Level: MSc or BSc. 
+
+
+ - *Creating a dialectal dependency treebank or POS-tagged corpus.* Create a small Universal Dependencies (UD; de Marneffe et al. 2021) treebank in a dialect, regional language or other low-resource language that you are familiar with. For a less time-intensive project, it is also possible to only annotate part-of-speech (POS) tags (otherwise: POS tags + dependencies) and complement the project with something else. This project requires a strong interest in linguistics and syntax. You will need to read up on UD's annotation guidelines and independently seek out relevant linguistic literature on your chosen language. You also evaluate parsers/POS taggers on your new dataset in a cross-lingual transfer set-up and, time permitting, you might also train your own parsers. Ideally, the project also leads to contributing a new treebank to the UD project. Examples of publications on similar corpora: Siewert et al. 2021, Hollenstein and Aepli 2014, Cassidy et al 2022, Lusito and Maillard 2021. Level: BSc or MSc.
+
+ - *Transfer or translate: how to better work with dialectal data.* Demands for generalizing NLP pipelines to dialectal data are on the rise. Given current LLMs trained in hundreds of languages, there are two common approaches. The first approach is to translate (or normalize) dialectal data to its mainstream counterpart and apply pipelines to the translated mainstream counterpart. Such an approach can benefit from the bigger amount of unannotated and annotated data in the mainstream variant but suffers from error propagation in the pipeline. The second transfer approach is to annotate a small amount of dialectal data and few-shot transfer (finetune) models on the dialect. This involves more dialectal annotation as well as collected unannotated dialectal data. [Natural language processing for similar languages, varieties, and dialects: A survey Zampieri, Marcos] For a BSc thesis, you would choose an NLP task (e.g., syntactic or semantic parsing, sentiment or stance detection,  QA or summarization, etc.) and a specific dialect, compare performances of fewshot versus translation approaches quantitatively, and conduct a qualitative error analysis on the difficult cases. For BSc, the research needs to scale up either to multiple dialects (in the same or across different language families) or to multiple NLP tasks. Level: BSc or MSc. 
+
+
+
+<a name="v2"/>
+### V2: High-Quality Information Extraction and Retrieval, Data-centric NLP
 
 #### Selected research projects
 
-- *Cross-domain Relation extraction.* Extracting structured information such as bornIn(person, location) is central for knowledge base population. Yet current extraction technology is limited to a few text domains and semantic relations. How can we adapt relation extractors to generalize better across different text domains or different relation sets? [See references of MultiVaLUe project](#multivalue). Level: BSc or MSc.
+<!-- - *Cross-domain Relation extraction.* Extracting structured information such as bornIn(person, location) is central for knowledge base population. Yet current extraction technology is limited to a few text domains and semantic relations. How can we adapt relation extractors to generalize better across different text domains or different relation sets? [See references of MultiVaLUe project](#multivalue). Level: BSc or MSc.--> 
 
 - *Computational Job Market Analysis.* Job postings are a rich resource to understand the labor market. Recently, several NLP studies have started to provide data resources and model for automatic job posting analysis, like skill extraction. For students interested in real-world applications, and interested in in-depth analysis of existing data and models, or comparisons of different approaches, or extending skill extraction or classification to Germanic and other languages.  [See references of MultiSkill project](#multiskill). Also [Bhola et al., 2020](https://aclanthology.org/2020.coling-main.513.pdf) and [Gnehm et al. 2021](https://www.zora.uzh.ch/id/eprint/230653/1/2022.nlpcss_1.2.pdf) and our [own recent ESCOXLM-R model](https://aclanthology.org/2023.acl-long.662.pdf). Level: BSc or MSc.
  
@@ -122,8 +141,12 @@ Legend:
 - *Adapt NER Tools to novel entities with gazetteers.* 
 Named Entity Recognition (NER) tools are trained on a corpus and then deployed as static resources. When novel entities emerge after deployment, then such tools have problems detecting them (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9014470/). For instance, the state-of-the-art biomedical NER tool HunFlair (https://academic.oup.com/bioinformatics/article/37/17/2792/6122692) has difficulties in reliably detecting concepts related to COVID, because it was trained before the pandemic. In this project, we will develop a novel NER method that allows to easily integrate knowledge emerging entities after training. Level: BSc or MSc.
 
+- *Adopting Information Retrieval Models for Rare Terms.* Neural ranking models have shown impressive results on general retrieval benchmarks, however, domain specific retrieval and representing rare terms are still an open challenge [(Thakur et al., 2021)](https://arxiv.org/abs/2104.08663). In this thesis, the goal is to explore strategies for rewriting queries and documents with the help of text simplification models or external resources such as WordNet or Wikipedia in order to improve their performance in domain transfer. Level: MSc.
+
  
-### V3: Natural Language Understanding, Semantic & Pragmatics
+<a name="v3"/>
+### V3: Natural Language Understanding, Semantic & Pragmatics, Computational Social Science
+
 
 #### Selected research projects
 
@@ -142,7 +165,8 @@ questions in English, for example by modeling longer dialogue context. Project c
 
 - *Scientific Analysis Tool.* The goal of this project is to use off-the-shelf NLP models for citation analysis, semantic search and text summarization to build a tool that (semi-)automates the process of synthesizing and summarizing a line of research. This involves identifying the citation purpose and aggregating/summarizing information across multiple papers. Strong knowledge in Python required, knowledge in web crawling beneficial. Level: BSc
 
-### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Vision, Interpretability
+<a name="v4"/>
+### V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Cognition, Vision, Interpretability
 
 Some general references for this section:
 References: [Plank, 2016.](https://arxiv.org/abs/1608.07836), [Jensen and Plank, 2022](https://aclanthology.org/2022.lrec-1.161/), [Plank, 2022 EMNLP](https://arxiv.org/abs/2211.02570) 
