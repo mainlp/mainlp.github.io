@@ -155,6 +155,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   </ul>
 <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3>
   <ul>
+    <li>January 24, 2024: On-site <a href="/events/#2024-01-24-rob-van-der-goot">talk</a> by Dr. Rob van der Goot (IT University of Copenhagen)</li>
     <li>December 19, 2023: On-site <a href="/events/#2023-12-19-martijn-bartelds">talk</a> by Dr. Martijn Bartelds (University of Groningen)</li>
     <li>November 20, 2023: On-site <a href="/events/#2023-11-20-jan-philip-whale">talk</a> by Jan Philip Wahle (University of Göttingen) and Dr. Saif Mohammad (NRC Canada)</li>
     <li>November 8, 2023: On-site <a href="/events/#2023-11-08-paul-röttger">talk</a> by Dr. Paul Rötter (Bocconi University)</li>
