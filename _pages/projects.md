@@ -86,10 +86,12 @@ Unless otherwise specified, all projects can be either at the MSc or BSc level. 
 
 Regularly <b>check back here for updates</b> on thesis project suggestions. 
 
-News:
+#### News:
 
+- 2024, Jan 15: MSc/BSc project applications are open! See list of project below and how to apply <a href="#howtoapply">here</a>
 - 2024, Jan 8: Information on how to apply added. Stay tuned for updates on project proposals
-- 2024, Jan 14: MSc/BSc project proposals posted
+
+
 
 
 Legend:
@@ -202,7 +204,7 @@ References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Sch
 
 
    
-
+<a name="howtoapply"/>
 ### How to apply for a BSc and MSc thesis project
 
 **Important information for LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date. Deadlines for the summer semester 2024: 
