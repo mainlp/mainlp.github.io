@@ -105,8 +105,8 @@ admin:
     - name: Paravee Jungbauer
       description: Assistant
       picture: paravee.jpg
-    - name: (job opening)
-      description: IT support
+    - name: Karl Ischebeck
+      description: IT technician, system administrator
       website: https://mainlp.github.io/jobs/
       picture: mainlp-logo-500.png
 affiliated:
