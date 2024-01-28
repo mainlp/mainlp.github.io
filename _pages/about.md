@@ -70,10 +70,6 @@ staff:
       description: Affiliated PhD student (2020–2024), IT University of Copenhagen
       website: https://elisabassignana.github.io/
       picture: elisa.jpg
-    - name: Mike Zhang
-      description: Affiliated PhD student (2020–2024), IT University of Copenhagen
-      website: https://jjzha.github.io/
-      picture: mike.jpg
     - name: Max Müller-Eberstein
       description: Affiliated PhD student (2020–2024), IT University of Copenhagen
       website: https://personads.me/
@@ -236,6 +232,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>[Mike Zhang](https://jjzha.github.io/) (PhD student ITU, 2020–2024), now Postdoc at IT University of Copenhagen and soon postdoc at Aalborg University, Copenhagen
     <li>Maria Barrett (postdoc ITU, 2020-2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Alberto Muñoz-Ortiz (visiting scholar, Universidade da Coruña, 2023)</li>
