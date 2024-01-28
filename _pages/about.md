@@ -232,7 +232,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen and soon postdoc at Aalborg University, Copenhagen</li>
+    <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), (soon) postdoc at Aalborg University, Copenhagen</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020-2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Alberto Muñoz-Ortiz (visiting scholar, Universidade da Coruña, 2023)</li>
