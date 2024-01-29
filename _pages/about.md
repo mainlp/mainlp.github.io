@@ -103,7 +103,6 @@ admin:
       picture: paravee.jpg
     - name: Karl Ischebeck
       description: IT technician, system administrator
-      website: https://mainlp.github.io/jobs/
       picture: mainlp-logo-500.png
 affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
@@ -136,7 +135,12 @@ affiliated:
       description: External mentored PhD student, Legal Tech group, Technical University of Munich 
       website: https://sxu3.github.io/
       picture: mainlp-logo-500.png
-
+    - name: Kassem Sabeh
+      description: Visiting PhD student, Free University of Bozen-Bolzano
+      picture: kassem.jpg
+    - name: Simone Ciciliano
+      description: Visiting MA student, Free University of Bozen-Bolzano
+      picture: simone.jpg
 ---
 
 Welcome!
