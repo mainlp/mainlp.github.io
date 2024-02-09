@@ -137,6 +137,7 @@ affiliated:
       picture: mainlp-logo-500.png
     - name: Cornelia Gruber
       description: External mentored PhD student, Institute of Statistics, LMU
+      picture: cg.JPG
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
       picture: mainlp-logo-500.png
     - name: Kassem Sabeh
