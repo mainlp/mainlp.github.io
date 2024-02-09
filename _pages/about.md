@@ -130,14 +130,14 @@ affiliated:
     - name: Patrick Schwabl
       description: External mentored PhD student, Department of Media and Communication, LMU Munich
       website: https://patschw.github.io/
-      picture: patrick.JPG
+      picture: patrick.jpg
     - name: Shanshan Xu
       description: External mentored PhD student, Legal Tech group, Technical University of Munich 
       website: https://sxu3.github.io/
       picture: shanshan.jpeg
     - name: Cornelia Gruber
       description: External mentored PhD student, Institute of Statistics, LMU
-      picture: cg.JPG
+      picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
       picture: mainlp-logo-500.png
     - name: Kassem Sabeh
