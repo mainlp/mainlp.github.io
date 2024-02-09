@@ -63,7 +63,7 @@ staff:
       website: https://elenasenger.netlify.app/
       picture: elena.jpg
     - name: Joris Baan
-      description: Affiliated PhD student (2021–), University of Amsterdam
+      description: Affiliated ELLIS PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
       picture: joris.jpg
     - name: Elisa Bassignana
