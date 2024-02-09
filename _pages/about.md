@@ -130,7 +130,7 @@ affiliated:
     - name: Patrick Schwabl
       description: External mentored PhD student, Department of Media and Communication, LMU Munich
       website: https://patschw.github.io/
-      picture: mainlp-logo-500.png
+      picture: patrick.JPG
     - name: Shanshan Xu
       description: External mentored PhD student, Legal Tech group, Technical University of Munich 
       website: https://sxu3.github.io/
