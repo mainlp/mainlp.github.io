@@ -139,7 +139,6 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
-      picture: mainlp-logo-500.png
     - name: Kassem Sabeh
       description: Visiting PhD student, Free University of Bozen-Bolzano
       picture: kassem.jpg
