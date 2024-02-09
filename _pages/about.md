@@ -134,7 +134,7 @@ affiliated:
     - name: Shanshan Xu
       description: External mentored PhD student, Legal Tech group, Technical University of Munich 
       website: https://sxu3.github.io/
-      picture: mainlp-logo-500.png
+      picture: shanshan.jpeg
     - name: Cornelia Gruber
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.JPG
