@@ -232,7 +232,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Alberto Muñoz-Ortiz (visiting scholar, Universidade da Coruña, 2023)</li>
     <li>Marie Kolm (student assistant, 2023)</li>
-    <li>Sif Dam Sonniks (student assistant, 2023)</li>
+    <li>Sif Dam Sonniks (student assistant, 2022-2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023), now PhD student at LMU</li>
     <li>Anna Barwig (student assistant, 2022–2023)</li>
     <li>Chaeeun Lee (student assistant, 2022–2023)</li>
