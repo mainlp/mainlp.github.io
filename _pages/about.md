@@ -34,6 +34,9 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Beiduo Chen
+      description: ELLIS PhD student (2024-)
+      picture: mainlp-logo-500.png
     - name: Jian Lan
       description: PhD student (2023–)
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/jianlan/index.html
