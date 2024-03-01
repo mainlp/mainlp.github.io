@@ -36,6 +36,7 @@ staff:
       picture: robert.png
     - name: Beiduo Chen
       description: ELLIS PhD student (2024-)
+      website: https://mckysse.github.io/
       picture: mainlp-logo-500.png
     - name: Jian Lan
       description: PhD student (2023–)
