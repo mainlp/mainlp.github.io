@@ -108,7 +108,7 @@ affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
   people:
     - name: Rob van der Goot
-      description: Assistant professor at ITU
+      description: Associate professor at ITU
       website: https://robvanderg.github.io/
       picture: rob.jpg
     - name: Raquel Fernández
