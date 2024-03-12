@@ -215,9 +215,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
    <ul>
     <li>Ercong Nie (2022–2024)</li>
     <li>Shijia Zhou (2022–2024)</li>
-    <li>Ivo S. Bueno Júnior (2023–2024)</li>
     <li>Zonggen Li (2023–2024)</li>
-    <li>Yang Sun (2023–2024)</li>
+    <li>Yurui Zhang (2024-)</li>
   </ul>
   
   <h2 class="category">You?</h2>
@@ -232,6 +231,8 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Alberto Muñoz-Ortiz (visiting scholar, Universidade da Coruña, 2023)</li>
     <li>Barbara Kovačić (student assistant, 2023-2024)</li>
+    <li>Ivo S. Bueno Júnior (student assistant, 2023–2024)</li>
+    <li>Yang Sun (student assistant, 2023–2024)</li>
     <li>Marie Kolm (student assistant, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2022-2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023), now PhD student at LMU</li>
