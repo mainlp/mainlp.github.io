@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 groups: [staff, support, admin, affiliated]
 staff:
-  title: Staff
+  title: Research Staff
   people:
     - name: Barbara Plank
       description: Prof. Dr. and Chair for AI and Computational Linguistics, Head of MaiNLP and Co-director CIS
