@@ -37,7 +37,7 @@ staff:
     - name: Beiduo Chen
       description: ELLIS PhD student (2024-)
       website: https://mckysse.github.io/
-      picture: mainlp-logo-500.png
+      picture: beiduo.jpg
     - name: Jian Lan
       description: PhD student (2023–)
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/jianlan/index.html
