@@ -80,6 +80,9 @@ support:
     - name: Oliver Kraus
       description: Scientific programmer (2024–)
       picture: mainlp-logo-500.png
+    - name: Shijia Zhou
+      description: Student assistant (2024–)
+      picture: shijia.jpg
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
