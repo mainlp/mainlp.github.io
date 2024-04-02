@@ -35,7 +35,7 @@ staff:
       website: https://rlitschk.github.io/
       picture: robert.png
     - name: Beiduo Chen
-      description: ELLIS PhD student (2024-)
+      description: ELLIS PhD student (2024–)
       website: https://mckysse.github.io/
       picture: beiduo.jpg
     - name: Jian Lan
@@ -77,6 +77,9 @@ staff:
 support:
   title: Support Staff
   people:
+    - name: Oliver Kraus
+      description: Scientific programmer (2024–)
+      picture: mainlp-logo-500.png
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
@@ -216,7 +219,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
     <li>Ercong Nie (2022–2024)</li>
     <li>Shijia Zhou (2022–2024)</li>
     <li>Zonggen Li (2023–2024)</li>
-    <li>Yurui Zhang (2024-)</li>
+    <li>Yurui Zhang (2024–)</li>
   </ul>
   
   <h2 class="category">You?</h2>
@@ -224,17 +227,17 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li><a href="https://leonweber.me/">Leon Weber-Genzel</a> (Postdoc, 2022-2024), now in industry</li>
+    <li><a href="https://leonweber.me/">Leon Weber-Genzel</a> (Postdoc, 2022–2024), now in industry</li>
     <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
-    <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020-2023), now at Silo AI</li>
+    <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Alberto Muñoz-Ortiz (visiting scholar, Universidade da Coruña, 2023)</li>
-    <li>Barbara Kovačić (student assistant, 2023-2024)</li>
+    <li>Barbara Kovačić (student assistant, 2023–2024)</li>
     <li>Ivo S. Bueno Júnior (student assistant, 2023–2024)</li>
     <li>Yang Sun (student assistant, 2023–2024)</li>
     <li>Marie Kolm (student assistant, 2023)</li>
-    <li>Sif Dam Sonniks (student assistant, 2022-2023)</li>
+    <li>Sif Dam Sonniks (student assistant, 2022–2023)</li>
     <li>Bolei Ma (student assistant, 2022–2023), now PhD student at LMU</li>
     <li>Anna Barwig (student assistant, 2022–2023)</li>
     <li>Chaeeun Lee (student assistant, 2022–2023)</li>
