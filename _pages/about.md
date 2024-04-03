@@ -155,11 +155,13 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
 
 <div class="projects">
   <h2 class="category">News</h2>
+<!--   <ul>
+    
+  </ul> -->
+<!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
-    <li>Interested in Uncertainty and NLP? We are part of the <a href="https://uncertainlp.github.io/">First Workshop on Uncertainty-aware NLP @ EACL 2024</a></li>
-  </ul>
-<h3 style="font-size: 1rem; font-weight: bolder;">Events</h3>
-  <ul>
+    <li>April 8, 2024: On-site <a href="/events/#2024-04-08-hyewon-jang">talk</a> by Hyewon Jang (University of Konstanz)</li>
+    <li>March 22, 2024: Interested in Uncertainty and NLP? We are part of the <a href="https://uncertainlp.github.io/">First Workshop on Uncertainty-aware NLP @ EACL 2024</a></li>
     <li>January 24, 2024: On-site <a href="/events/#2024-01-24-rob-van-der-goot">talk</a> by Dr. Rob van der Goot (IT University of Copenhagen)</li>
   </ul>
 
