@@ -8,8 +8,8 @@ nav: false
 
 How to reach some difficult to find teaching rooms
 
-## HGB (Hauptgebäude) E431
+## HGB (Hauptgebäude) E341
 
-Room E431 in Geschwister-Scholl-Platz 1
+Room E341 in Geschwister-Scholl-Platz 1
 
 TBC
