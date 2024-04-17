@@ -18,14 +18,14 @@ Some pictures to illustrate it are here:
 
 <img src="/assets/img/room/20240412_094957.jpg" width="200px" height="auto">
 
-<img class="avatar" src="/assets/img/room/20240416_143211.jpg" width="200px" height="auto">
+<img src="/assets/img/room/20240416_143211.jpg" width="400px" height="auto">
 
-<img class="avatar" src="/assets/img/room/20240412_095031.jpg" width="200px" height="auto">
-
-
-<img class="avatar" src="/assets/img/room/20240412_094948.jpg" width="200px" height="auto">
+<img src="/assets/img/room/20240412_095031.jpg" width="400px" height="auto">
 
 
-<img class="avatar" src="/assets/img/room/20240412_094558.jpg" width="200px" height="auto">
+<img src="/assets/img/room/20240412_094948.jpg" width="400px" height="auto">
+
+
+<img src="/assets/img/room/20240412_094558.jpg" width="400px" height="auto">
 
 
