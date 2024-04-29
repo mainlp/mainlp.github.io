@@ -478,137 +478,103 @@ footer.sticky-bottom {
 
 // Publications
 
-.publications {
-  margin-top: 2rem;
-  h1 {
-    color: var(--global-theme-color);
-    font-size: 2rem;
-    text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
-  }
-  h2 {
-    margin-bottom: 1rem;
-    span {
-      font-size: 1.5rem;
-    }
-  }
-  h2.year {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
-  }
-  ol.bibliography {
-    list-style: none;
-    padding: 0;
-    margin-top: 0;
+.publications .item {
+  display: none;
+  transition: opacity 2.5s ease-in-out; 
+}
 
-    li {
-      margin-bottom: 1rem;
-      .preview {
-        width: 100%;
-        min-width: 80px;
-        max-width: 200px;
-      }
-      .abbr {
-        height: 2rem;
-        margin-bottom: 0.5rem;
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          a {
-            color: white;
-            &:hover {
-              text-decoration: none;
-            }
-          }
-        }
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
-      }
-      .title {
-        font-weight: bolder;
-      }
-      .author {
-        a {
-          border-bottom: 1px dashed var(--global-theme-color);
-          &:hover {
-              border-bottom-style: solid;
-              text-decoration: none;
-          }
-        }
-        > em {
-          border-bottom: 1px solid;
-          font-style: normal;
-        }
-        > span.more-authors {
-          color: var(--global-text-color-light);
-          border-bottom: 1px dashed var(--global-text-color-light);
-          cursor: pointer;
-          &:hover {
-              color: var(--global-text-color);
-              border-bottom: 1px dashed var(--global-text-color);
-          }
-        }
-      }
-      .links {
-        a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
-          }
-        }
-      }
-      .hidden {
-        font-size: 0.875rem;
-        max-height: 0px;
-        overflow: hidden;
-        text-align: justify;
-        transition-property: 0.15s ease;
-        -moz-transition: 0.15s ease;
-        -ms-transition: 0.15s ease;
-        -o-transition: 0.15s ease;
-        transition: all 0.15s ease;
+.publications .container {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 1rem;
+  line-height: 1.2rem;
+  padding-top: 10px;
+  display: grid;
+}
 
-        p {
-          line-height: 1.4em;
-          margin: 10px;
-        }
-        pre {
-          font-size: 1em;
-          line-height: 1.4em;
-          padding: 10px;
-        }
-      }
-      .hidden.open {
-        max-height: 100em;
-        transition-property: 0.15s ease;
-        -moz-transition: 0.15s ease;
-        -ms-transition: 0.15s ease;
-        -o-transition: 0.15s ease;
-        transition: all 0.15s ease;
-      }
-      div.abstract.hidden {
-        border: dashed 1px var(--global-bg-color);
-      }
-      div.abstract.hidden.open {
-        border-color: var(--global-text-color);
-      }
-    }
-  }
+
+.publications .date {
+  grid-column: span 1;
+  font-size: 1.0rem;
+  line-height: 1.2rem;
+  text-transform: capitalize;
+  color: var(--global-text-color);
+}
+
+.publications .content {
+  grid-column: span 4;
+  text-align: left;
+}
+
+.publications .details {
+  display: flex;
+}
+
+.publications .title-link {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+  line-height: 1.5rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.publications .title {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+  line-height: 1.5rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+
+.publications .author {
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.3rem;
+}
+
+.publications .journal {
+  font-size: 0.95rem;
+  line-height: 1.2rem;
+  color: var(--global-text-color-light);
+}
+
+.publications .chevron {
+  width: 15px;
+  height: 15px;
+  transition: transform 0.3s ease, fill 0.3s ease;
+  margin-left: 8px;
+  color: var(--global-text-color);
+}
+
+.publications .chevron:hover {
+  fill: var(--global-hover-color);
+  transform: scale(1.1);
+}
+
+.publications .separator {
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.publications .show-more {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 8px;
+  color: #ffffff;
+  background-color: var(--global-theme-color);
+  box-shadow: none;
+  transition: background-color 0.3s ease;
+}
+
+.publications .show-more:hover {
+  background-color: var(--global-hover-color);
 }
 
 // Rouge Color Customization
