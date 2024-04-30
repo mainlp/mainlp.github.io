@@ -483,7 +483,9 @@ footer.sticky-bottom {
 
 .publications .item {
   display: none;
-  transition: opacity 2.5s ease-in-out; 
+  animation: fadeInAnimation ease 0.5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 .publications .container {
@@ -573,11 +575,24 @@ footer.sticky-bottom {
   color: #ffffff;
   background-color: var(--global-theme-color);
   box-shadow: none;
+  display: none;
   transition: background-color 0.3s ease;
+  animation: fadeInAnimation ease 0.5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 .publications .show-more:hover {
   background-color: var(--global-hover-color);
+}
+
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
 }
 
 // Rouge Color Customization

@@ -16,6 +16,9 @@ nav_order: 6
 
 
 <script>
+/*
+  Reveal more publications on button click
+*/
 document.addEventListener('DOMContentLoaded', function() {
   const publicationContainer = document.querySelector('.publications');
   const showMoreBtn = document.getElementById('show-more-btn');
@@ -39,7 +42,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     showMoreBtn.addEventListener('click', showMoreItems);
+    // display first items
     showMoreItems();
+    
+    // only show button after first items have been displayed
+    if (currentVisibleIndex < publicationItems.length) {
+        showMoreBtn.style.display = 'block';
+    }
+    
   }
 });
 </script>
