@@ -29,6 +29,8 @@ Advances in salient areas of deep learning research now make it possible to tack
 
 By integrating dialectal variation into models able to learn from scarce data and biased labels, the foundations will be established for fairer and more accurate NLU to break down language and literary barriers.
 
+For further details about the project, please visit the [DIALECT webpage](https://dialect-erc.github.io/).
+
 Selected publications:
 - [Plank, 2016. What to do about non-standard (or non-canonical) language in NLP. In KONVENS.](https://arxiv.org/abs/1608.07836)
 - [Plank, 2022. The 'Problem' of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation. In EMNLP.](https://arxiv.org/abs/2211.02570)
