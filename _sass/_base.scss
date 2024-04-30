@@ -477,6 +477,9 @@ footer.sticky-bottom {
 
 
 // Publications
+.publications ol {
+  list-style-type: none;
+}
 
 .publications .item {
   display: none;
