@@ -46,10 +46,6 @@ staff:
       description: PhD student (2023–)
       website: https://pmmon.github.io/
       picture: philipp.jpg
-    - name: Daniela Teodorescu
-      description: PhD student (2023–)
-      website: https://dteodore.github.io/
-      picture: daniela.jpeg
     - name: Xinpeng Wang
       description: PhD student (2022–)
       website: https://xinpeng-wang.github.io/
@@ -234,6 +230,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <ul>
     <li><a href="https://leonweber.me/">Leon Weber-Genzel</a> (Postdoc, 2022–2024), now in industry</li>
     <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
+    <li><a href="https://dteodore.github.io/">Daniela Teodorescu (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
