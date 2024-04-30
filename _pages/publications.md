@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const publicationContainer = document.querySelector('.publications');
   const showMoreBtn = document.getElementById('show-more-btn');
   const publicationItems = publicationContainer.querySelectorAll('.item');
-  const numItemsToShow = 5;
+  const numItemsToShow = 10;
   let currentVisibleIndex = 0;
 
   if (showMoreBtn && publicationContainer) {

@@ -479,9 +479,12 @@ footer.sticky-bottom {
 // Publications
 .publications ol {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .publications .item {
+  padding-top: 20px;
   display: none;
   animation: fadeInAnimation ease 0.5s;
   animation-iteration-count: 1;
@@ -511,12 +514,19 @@ footer.sticky-bottom {
 }
 
 .publications .details {
+  padding-bottom: 5px;
   display: flex;
+  justify-content: space-between;
+  align-items: center; /* Optional: Align items vertically if needed */
 }
 
 .publications .title-link {
+  color: var(--global-theme-color);
+  &:hover {
+    color: var(--global-hover-color);
+  }
   display: inline-block;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 1.1rem;
   margin-bottom: 0.3rem;
   line-height: 1.5rem;
@@ -546,6 +556,7 @@ footer.sticky-bottom {
   font-size: 0.95rem;
   line-height: 1.2rem;
   color: var(--global-text-color-light);
+  flex-grow: 1;
 }
 
 .publications .chevron {
@@ -569,6 +580,7 @@ footer.sticky-bottom {
 }
 
 .publications .show-more {
+  margin-top: 20px;
   padding: 0.5rem 1rem;
   border: none;
   border-radius: 8px;
