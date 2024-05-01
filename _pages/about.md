@@ -156,7 +156,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
-    <li>April 30, 2024: Our new [DIALECT project webpage](https://dialect-erc.github.io/) is online now</li>
+    <li>April 30, 2024: Our new <a href="https://dialect-erc.github.io">DIALECT project</a> webpage is online</li>
     <li>April 8, 2024: On-site <a href="/events/#2024-04-08-hyewon-jang">talk</a> by Hyewon Jang (University of Konstanz)</li>
     <li>March 22, 2024: Interested in Uncertainty and NLP? We are part of the <a href="https://uncertainlp.github.io/">First Workshop on Uncertainty-aware NLP @ EACL 2024</a></li>
     <li>January 24, 2024: On-site <a href="/events/#2024-01-24-rob-van-der-goot">talk</a> by Dr. Rob van der Goot (IT University of Copenhagen)</li>
@@ -231,7 +231,7 @@ In broad terms, our aim is to make NLP models more robust, so that they can deal
   <ul>
     <li><a href="https://leonweber.me/">Leon Weber-Genzel</a> (Postdoc, 2022–2024), now in industry</li>
     <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
-    <li><a href="https://dteodore.github.io/">Daniela Teodorescu (PhD student, 2023–2024)</li>
+    <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
