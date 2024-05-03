@@ -26,6 +26,10 @@ staff:
       description: Dr., Lecturer (part-time)
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/frassinelli/index.html
       picture: mainlp-logo-500.png
+    - name: Michael Hedderich
+      description: Junior Research Group Leader
+      website: https://www.michael-hedderich.de/
+      picture: mainlp-logo-500.png
     - name: Siyao (Logan) Peng
       description: Postdoc (2023–)
       website: https://logan-siyao-peng.github.io/
@@ -138,6 +142,10 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
+    - name: Sondre Wold
+      description: Visiting PhD student, University of Oslo
+      picture: sondre.jpg
+      website: https://www.mn.uio.no/ifi/english/people/aca/sondrewo/index.html
     - name: Kassem Sabeh
       description: Visiting PhD student, Free University of Bozen-Bolzano
       picture: kassem.jpg
