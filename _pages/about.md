@@ -29,7 +29,7 @@ staff:
     - name: Michael Hedderich
       description: Junior Research Group Leader
       website: https://www.michael-hedderich.de/
-      picture: mainlp-logo-500.png
+      picture: michael.jpg
     - name: Siyao (Logan) Peng
       description: Postdoc (2023–)
       website: https://logan-siyao-peng.github.io/
