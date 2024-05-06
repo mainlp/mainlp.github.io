@@ -26,7 +26,7 @@ staff:
       description: Dr., Lecturer (part-time)
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/frassinelli/index.html
       picture: mainlp-logo-500.png
-    - name: Michael Hedderich
+    - name: Michael A. Hedderich
       description: Junior Research Group Leader
       website: https://www.michael-hedderich.de/
       picture: michael.jpg
