@@ -17,6 +17,8 @@ Table of contents:
 - [Repo set-up](#repo-set-up)
 - [Adding lab members](#adding-lab-members)
 - [Adding events](#adding-events)
+- [Adding Publications](#adding-publications)
+   + [Highlighted Publications](#highlighted-publications)
 - [Adding a new page](#adding-a-new-page)
 - [GitHub security alerts](#github-security-alerts)
 - [Adding new plug-ins](#adding-new-plug-ins)
@@ -95,7 +97,7 @@ The location link can be, for instance, to the relevant [LMU room finder](https:
 
 ## Adding Publications
 
-Copy the Bibtex reference of the publication and add the reference to _bibliography/papers.bib. Make sure that the following fields in the Bibtex reference are populated, as these will be used to create the publication's entry on the website:
+Copy the Bibtex reference of the publication and add the reference to _bibliography/papers.bib. Papers will be displayed in reverse chronological order. Make sure that the following fields in the Bibtex reference are populated, as these will be used to create the publication's entry on the website:
  - year
  - month
  - author
