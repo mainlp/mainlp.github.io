@@ -155,7 +155,7 @@ affiliated:
 Welcome!
 We are the Munich AI & NLP (MaiNLP) research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/) at LMU Munich directed by [Prof. Dr. Barbara Plank](https://bplank.github.io/). 
 We carry out research in Natural Language Processing, an interdisciplinary subdiscipline of Artificial Intelligence at the interface of computer science, linguistics and cognitive science. 
-In broad terms, our aim is to make NLP models more robust and inclusive, so that they can deal better with underlying shifts in data due to language variation and so that NLP is more fair and user-centric.
+In broad terms, our aim human-centric NLP: to make NLP models more robust and inclusive, so that they can deal better with underlying shifts in data due to language variation, embrace linguistic variation, are fairer and embrace rather than neglect human label variation.
 
 <div class="projects">
   <h2 class="category">News</h2>
