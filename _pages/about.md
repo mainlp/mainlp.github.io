@@ -146,9 +146,6 @@ affiliated:
       description: Visiting PhD student, University of Oslo
       picture: sondre.jpg
       website: https://www.mn.uio.no/ifi/english/people/aca/sondrewo/index.html
-    - name: Kassem Sabeh
-      description: Visiting PhD student, Free University of Bozen-Bolzano
-      picture: kassem.jpg
 
 ---
 
@@ -238,6 +235,7 @@ In broad terms, our aim human-centric NLP: to make NLP models more robust and in
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>Kassem Sabeh (Visiting PhD student, Free University of Bozen-Bolzano)</li>
     <li><a href="https://leonweber.me/">Leon Weber-Genzel</a> (Postdoc, 2022–2024), now in industry</li>
     <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
