@@ -93,6 +93,24 @@ anchor: YYYY-MM-DD-short-description [same as in file name]
 
 The location link can be, for instance, to the relevant [LMU room finder](https://www.lmu.de/raumfinder/#/) page.
 
+## Adding Publications
+
+Copy the Bibtex reference of the publication and add the reference to _bibliography/papers.bib. Make sure that the following fields in the Bibtex reference are populated, as these will be used to create the publication's entry on the website:
+ - year
+ - month
+ - author
+ - url
+ - booktitle
+
+### Highlighted Publications
+You can add up to 2 highlighted publications which will be shown at the top of the page with a teaser image. For this, add the Bibtex reference of the respective paper to _bibliography/highlights.bib (only the top 2 will be shown, so make sure to delete previous highlighted publications from the file). Make sure the following fields in the Bibtex reference are populated:
+ - year
+ - month
+ - url
+ - author
+ - booktitle
+ - **image**: add the filename (just filename, not the full path) here of the image that should be displayed together with the publication. Place your images under **/assets/img/publications/**. You can use the MaiNLP logo as a default by just adding image = "default.png"
+
 ## Adding a new page
 
 Add a new markdown file to [_pages](https://github.com/mainlp/mainlp.github.io/tree/main/_pages).
