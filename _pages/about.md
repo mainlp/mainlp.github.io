@@ -161,6 +161,7 @@ In broad terms, our aim human-centric NLP: to make NLP models more robust and in
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>May 13, 2024: On-site <a href="/events/#2024-05-13-matthias-orlikowski">talk</a> by Matthias Orlkowski (University of Bielefeld)</li>
     <li>May 6, 2024: On-site <a href="/events/#2024-05-06-russa-biwas">talk</a> by Dr. Russa Biwas (Hasso-Plattner Institute, Potsdam)</li>
     <li>April 30, 2024: Our new <a href="https://dialect-erc.github.io">DIALECT project</a> webpage is online</li>
     <li>April 8, 2024: On-site <a href="/events/#2024-04-08-hyewon-jang">talk</a> by Hyewon Jang (University of Konstanz)</li>
