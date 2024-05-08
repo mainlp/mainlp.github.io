@@ -6,12 +6,17 @@ description:
 nav: true
 nav_order: 6
 ---
+<div class="highlight-publications">
+<h2 class="category">Selected Publications</h2>
+  {% bibliography --file highlights --template highlight --max 2 %}
+</div>
 
 <div class="publications">
-    {% bibliography --template bib %}
-    <button class="show-more" id="show-more-btn">
-        Show More
-    </button>
+<h2 class="category">All Publications</h2>
+  {% bibliography --file papers --template bib %}
+  <button class="show-more" id="show-more-btn">
+      Show More
+  </button>
 </div>
 
 
