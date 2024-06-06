@@ -10,6 +10,7 @@ nav_order: 5
 Content: 
 
 * [On-going research projects](#ongoingproj)
+* [Completed research projects](#finishproj)
 * [BSc/MSc thesis projects](#thesisproj)
 
 At MaiNLP we aim to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
@@ -48,16 +49,6 @@ Selected publications:
 - [Bassignana & Plank, 2022. CrossRE: A Cross-Domain Dataset for Relation Extraction. In EMNLP Findings.](https://arxiv.org/abs/2210.09345)
 - [Bassignana & Plank, 2022. What Do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification. In ACL SRW.](https://aclanthology.org/2022.acl-srw.7/)
 
-### <a name="multiskill">DFF Project thematic AI, MultiSkill: Multilingual Information Extraction for Job Posting Analysis</a>
-
-Job markets are about to undergo profound changes in the years to come. The skills required to perform most jobs will shift significantly. This is due to a series of interrelated developments in technology, migration and digitization. As skills change, we are facing increasing needs for quicker and better hiring to better match people to jobs. Big multilingual job vacancy data are emerging on a variety and multitude of platforms. Such big data can provide insights on labor market skill set demands. This project is centered around computational job market analysis, to reliably perform high-precision information extraction on targeted domain data.
-
-Selected publications:
-- [Zhang, Jensen, Sonniks & Plank, 2022. SkillSpan: Hard and Soft Skill Extraction from English Job Postings. In NAACL.](https://aclanthology.org/2022.naacl-main.366/)
-- [Zhang, Jensen & Plank 2021. Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning. In LREC.](https://aclanthology.org/2022.lrec-1.46/)
-- [Zhang, van der Goot & Plank, 2023. ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market Domain. In ACL.](https://aclanthology.org/2023.acl-long.662.pdf)
- 
-
 
 ### <a name="klima-memes">KLIMA-MEMES: The Impact of Humorous Communication on Political Decision-Making in the Climate Change Context</a>
 
@@ -65,6 +56,19 @@ Climate change is a pressing problem facing humanity and a major polarizing topi
 
 More information:
 - See the [KLIMA-MEMES project website](https://klimamemes.ifkw.lmu.de/)
+
+<h2 class="category"><a name="finishproj">Completed research projects</a></h2>
+
+### <a name="multiskill">DFF Project thematic AI, MultiSkill: Multilingual Information Extraction for Job Posting Analysis (2020-2024)</a>
+
+Job markets are about to undergo profound changes in the years to come. The skills required to perform most jobs will shift significantly. This is due to a series of interrelated developments in technology, migration and digitization. As skills change, we are facing increasing needs for quicker and better hiring to better match people to jobs. Big multilingual job vacancy data are emerging on a variety and multitude of platforms. Such big data can provide insights on labor market skill set demands. This project is centered around computational job market analysis, to reliably perform high-precision information extraction on targeted domain data.
+
+Selected publications:
+- [Zhang, Jensen, Sonniks & Plank, 2022. SkillSpan: Hard and Soft Skill Extraction from English Job Postings. In NAACL.](https://aclanthology.org/2022.naacl-main.366/)
+- [Zhang, Jensen & Plank 2021. Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning. In LREC.](https://aclanthology.org/2022.lrec-1.46/)
+- [Zhang, van der Goot & Plank, 2023. ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market Domain. In ACL.](https://aclanthology.org/2023.acl-long.662.pdf)
+- PhD thesis by Mike Zhang on [Computational Job Market Analysis with Natural Language Processing](https://arxiv.org/abs/2404.18977)
+
 
 
 ### Applications for PhD, Postdoc and student assistant positions
