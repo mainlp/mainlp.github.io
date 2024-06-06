@@ -4,7 +4,7 @@ abstract: "The main aim of this talk is to look for potential synergies between 
 speaker: Elena Lloret Pastor, <br>professor, Universitat d'Alacant
 bio: PhD in Computer Applications, June 2011. Currently, Elena is a member of the Natural Language Processing research group at the University of Alicante. Her research interests focus on Natural Language Processing, and in particular on Text Summarization, Natural Language Generation, and Text Simplification. 
 website: https://www.dlsi.ua.es/~elloret/
-time: June 6, 2024; 13:15–14:15
+time: June 7, 2024; 13:15–14:15
 location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
 img: assets/img/elloret.png
