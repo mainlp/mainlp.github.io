@@ -57,7 +57,7 @@ Climate change is a pressing problem facing humanity and a major polarizing topi
 More information:
 - See the [KLIMA-MEMES project website](https://klimamemes.ifkw.lmu.de/)
 
-<h3 class="category"><a name="collabproj">On-going collaboration projects</a></h2>
+<h3 class="category"><a name="collabproj">On-going collaboration projects</a></h3>
 
 The following lists selected on-going research projects at other institutions, which MaiNLP is a partner in:
 
