@@ -57,6 +57,16 @@ Climate change is a pressing problem facing humanity and a major polarizing topi
 More information:
 - See the [KLIMA-MEMES project website](https://klimamemes.ifkw.lmu.de/)
 
+<h3 class="category"><a name="collabproj">On-going collaboration projects</a></h2>
+
+The following lists selected on-going research projects at other institutions, which MaiNLP is a partner in:
+
+### <a name="travolta">Travolta: Tracing Attitudes And Variation In Online Luxembourgish Text Archives</a>
+
+This project, led by Prof. Christoph Purschke from the University of Luxembourg combines Natural Language Processing with sociolinguistic analysis to trace the development of written Luxembourgish an public discourse online.
+
+
+
 <h2 class="category"><a name="finishproj">Completed research projects</a></h2>
 
 ### <a name="multiskill">DFF Project thematic AI, MultiSkill: Multilingual Information Extraction for Job Posting Analysis (2020-2024)</a>
