@@ -65,6 +65,8 @@ The following lists selected on-going research projects at other institutions, w
 
 This project, led by Prof. Christoph Purschke from the University of Luxembourg combines Natural Language Processing with sociolinguistic analysis to trace the development of written Luxembourgish an public discourse online.
 
+- See the [TRAVOLTA project page](https://www.uni.lu/fhse-en/research-projects/travolta-tracing-attitudes-and-variation-in-online-luxembourgish-text-archives/)
+
 
 
 <h2 class="category"><a name="finishproj">Completed research projects</a></h2>
