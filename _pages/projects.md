@@ -63,7 +63,7 @@ The following lists selected on-going research projects at other institutions, w
 
 ### <a name="travolta">Travolta: Tracing Attitudes And Variation In Online Luxembourgish Text Archives</a>
 
-This project, led by Prof. Christoph Purschke from the University of Luxembourg combines Natural Language Processing with sociolinguistic analysis to trace the development of written Luxembourgish an public discourse online.
+This project, led by Prof. Christoph Purschke from the University of Luxembourg combines Natural Language Processing with sociolinguistic analysis to trace the development of written Luxembourgish and public discourse online.
 
 - See the [TRAVOLTA project page](https://www.uni.lu/fhse-en/research-projects/travolta-tracing-attitudes-and-variation-in-online-luxembourgish-text-archives/)
 
@@ -82,6 +82,7 @@ Selected publications:
 - PhD thesis by Mike Zhang on [Computational Job Market Analysis with Natural Language Processing](https://arxiv.org/abs/2404.18977)
 
 
+<hr/>
 
 ### Applications for PhD, Postdoc and student assistant positions
 
