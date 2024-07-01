@@ -246,7 +246,7 @@ In broad terms, our aim human-centric NLP: to make NLP models more robust and in
     <li>Yang Sun (student assistant, 2023–2024)</li>
     <li>Marie Kolm (student assistant, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2022–2023)</li>
-    <li>Bolei Ma (student assistant, 2022–2023), now PhD student at LMU</li>
+    <li><a href="https://www.stat.lmu.de/soda/en/team/contact-page/bolei-ma-c9505de7.html">Bolei Ma</a> (student assistant, 2022–2023), now PhD student at LMU</li>
     <li>Anna Barwig (student assistant, 2022–2023)</li>
     <li>Chaeeun Lee (student assistant, 2022–2023)</li>
   </ul>
