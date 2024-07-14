@@ -38,6 +38,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Shijia Zhou
+      description: PhD student (2024–)
+      website: https://scholar.google.com/citations?user=Byl83QwAAAAJ
+      picture: shijia.jpg
     - name: Beiduo Chen
       description: ELLIS PhD student (2024–)
       website: https://mckysse.github.io/
@@ -66,19 +70,12 @@ staff:
       description: Affiliated ELLIS PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
       picture: joris.jpg
-    - name: Max Müller-Eberstein
-      description: Affiliated PhD student (2020–2024), IT University of Copenhagen
-      website: https://personads.me/
-      picture: max.jpg
 support:
   title: Support Staff
   people:
     - name: Oliver Kraus
       description: Scientific programmer (2024–)
       picture: mainlp-logo-500.png
-    - name: Shijia Zhou
-      description: Student assistant (2024–)
-      picture: shijia.jpg
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
@@ -157,12 +154,14 @@ In broad terms, our aim human-centric NLP: to make NLP models more robust and in
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>July 5, 2024: Max successfully defended his PhD thesis. Congratulations!</li>
     <li>July 1, 2024: Elisa successfully defended her PhD thesis. Congratulations!</li>
     <li>May 13, 2024: On-site <a href="/events/#2024-05-13-matthias-orlikowski">talk</a> by Matthias Orlikowski (Bielefeld University)</li>
     <li>May 6, 2024: On-site <a href="/events/#2024-05-06-russa-biwas">talk</a> by Dr. Russa Biwas (Hasso-Plattner Institute, Potsdam)</li>
     <li>April 30, 2024: Our new <a href="https://dialect-erc.github.io">DIALECT project</a> webpage is online</li>
     <li>April 8, 2024: On-site <a href="/events/#2024-04-08-hyewon-jang">talk</a> by Hyewon Jang (University of Konstanz)</li>
     <li>March 22, 2024: Interested in Uncertainty and NLP? We are part of the <a href="https://uncertainlp.github.io/">First Workshop on Uncertainty-aware NLP @ EACL 2024</a></li>
+    <li>March 7, 2024: Mike successfully defended his PhD thesis. Congratulations!</li>
     <li>January 24, 2024: On-site <a href="/events/#2024-01-24-rob-van-der-goot">talk</a> by Dr. Rob van der Goot (IT University of Copenhagen)</li>
   </ul>
 
@@ -223,7 +222,6 @@ In broad terms, our aim human-centric NLP: to make NLP models more robust and in
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
     <li>Ercong Nie (2022–2024)</li>
-    <li>Shijia Zhou (2022–2024)</li>
     <li>Zonggen Li (2023–2024)</li>
     <li>Yurui Zhang (2024–)</li>
   </ul>
@@ -233,15 +231,16 @@ In broad terms, our aim human-centric NLP: to make NLP models more robust and in
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), soon postdoc</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
-    <li><a href="https://leonweber.me/">Leon Weber-Genzel</a> (Postdoc, 2022–2024), now in industry</li>
+    <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
     <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
-    <li>Kassem Sabeh (Visiting PhD student, Free University of Bozen-Bolzano)</li>
+    <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano)</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
-    <li>Alberto Muñoz-Ortiz (visiting scholar, Universidade da Coruña, 2023)</li>
+    <li>Alberto Muñoz-Ortiz (visiting PhD student, Universidade da Coruña, 2023)</li>
     <li>Barbara Kovačić (student assistant, 2023–2024)</li>
     <li>Ivo S. Bueno Júnior (student assistant, 2023–2024)</li>
     <li>Yang Sun (student assistant, 2023–2024)</li>
