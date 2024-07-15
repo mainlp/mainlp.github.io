@@ -9,22 +9,49 @@ nav: false
 "Embracing variability in natural language processing" is a panel at [ICLaVE\|12](https://iclave12.dioe.at/), the 12th International Conference on Language Variation in Europe. 
 Our goal is to connect variationist linguists and NLP researchers focusing on language variation.
 
+Although the panel is over now, please feel free to reach out to us if you are interested in this topic.
 
 ## Schedule and Talks
-
 July 10, 2024
 
-- 9:00 -- "Large language models and small language varieties: Challenges and current methods" Verena Blaschke & Barbara Plank -- [abstract](https://pretalx.dioe.at/iclave12/talk/review/T8KFVJ8A9WAZFFFZBBEHQLEAEGSESL7G), [slides](/assets/subpages/iclave12/slides_blaschke-plank.pdf)
-- 9:30 -- "Extracting dialect-specific features from dialect classifiers" Dana Roemling, Yves Scherrer, Noëmi Aepli & Aleksandra Miletic -- [abstract](https://pretalx.dioe.at/iclave12/talk/review/WH3MHP8CUL7VEL99UJLZ77T7PA7JVHZL)
-- 10:00 -- "EDAudio: Easy data augmentation techniques for audio classification" Lea Fischbach, Akbar Karimi, Caroline Kleen, Lucie Flek & Alfred Lameli -- [abstract](https://pretalx.dioe.at/iclave12/talk/review/YUA3M7ZZJUVEMJBURRBYDU3YKFLUFB99)
-- 10:30 -- "Computationally modeling Low Saxon variation at different linguistic levels" Raoul Buurke & Janine Siewert -- [abstract](https://pretalx.dioe.at/iclave12/talk/review/TMXGYWTYCD7XLVCD3NSJJAENQRYUKV8R)
-- 11:00 -- Coffee break
-- 11:30 -- "Variation is the norm: Orthographic variability and metalinguistic stance in Luxembourgish user comments" Anne-Marie Lutgen, Emilia Milano & Christoph Purschke -- [abstract](https://pretalx.dioe.at/iclave12/talk/review/EDFSMUYKHQYEQNEGMUNUZQMU3Q7RXRC3)
-- 12:00 -- "Modeling registerial developments with information theory: Variation and change in 300 years of scientific written English" Stefania Degaetano-Ortlieb -- [abstract](https://pretalx.dioe.at/iclave12/talk/review/E8GGQXUCRNT3ZCRBBZNRLKPNVDK9CP3X), [slides](/assets/subpages/iclave12/slides_degaetano.pdf)
-- 12:30 -- Discussion
+<table class="scheduleTable">
+<tbody>
+  <tr>
+    <td>9:00</td>
+    <td><span class="bolder">Large language models and small language varieties: Challenges and current methods</span><br/>Verena Blaschke &amp; Barbara Plank<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/T8KFVJ8A9WAZFFFZBBEHQLEAEGSESL7G">Abstract</a>, <a href="/assets/subpages/iclave12/slides_blaschke-plank.pdf">slides</a></td>
+  </tr>
+  <tr>
+    <td>9:30</td>
+    <td><span class="bolder">Extracting dialect-specific features from dialect classifiers</span><br/>Yves Scherrer, Dana Roemling, Aleksandra Miletic &amp; Noëmi Aepli<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/WH3MHP8CUL7VEL99UJLZ77T7PA7JVHZL">Abstract</a>, <a href="/assets/subpages/iclave12/slides_scherrer-etal.pdf">slides</a></td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td><span class="bolder">EDAudio: Easy data augmentation techniques for audio classification</span><br/>Lea Fischbach, Akbar Karimi, Caroline Kleen, Lucie Flek &amp; Alfred Lameli<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/YUA3M7ZZJUVEMJBURRBYDU3YKFLUFB99">Abstract</a></td>
+  </tr>
+  <tr>
+  	<td>10:30</td>
+  	<td><span class="bolder">Computationally modeling Low Saxon variation at different linguistic levels</span><br/> Raoul Buurke &amp; Janine Siewert<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/TMXGYWTYCD7XLVCD3NSJJAENQRYUKV8R">Abstract</a></td>
+  </tr>
+  <tr>
+  	<td>11:00</td>
+  	<td><span class="bolder">Coffee break</span></td>
+  </tr>
+  <tr>
+  	<td>11:30</td>
+  	<td><span class=bolder>Variation is the norm: Orthographic variability and metalinguistic stance in Luxembourgish user comments</span><br/>Anne-Marie Lutgen, Emilia Milano &amp; Christoph Purschke<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/EDFSMUYKHQYEQNEGMUNUZQMU3Q7RXRC3">Abstract</a></td>
+  </tr>
+  <tr>
+  	<td>12:00</td>
+  	<td><span class=bolder>Modeling registerial developments with information theory: Variation and change in 300 years of scientific written English</span><br/>Stefania Degaetano-Ortlieb<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/E8GGQXUCRNT3ZCRBBZNRLKPNVDK9CP3X">Abstract</a>, <a href="/assets/subpages/iclave12/slides_degaetano.pdf">slides</a></td>
+  </tr>
+  <tr>
+  	<td>12:30</td>
+  	<td><span class="bolder">Discussion</span></td>
+  </tr>
+</tbody>
+</table>
 
-
-<img src="/assets/subpages/iclave12/iclave12_group.jpg" alt="Group picture" width="600"/>
+<img src="/assets/subpages/iclave12/iclave12_group.png" alt="Group picture" width="650" style="display: block; margin: auto; padding: 15px"/>
 
 ## Panel abstract
 
@@ -44,4 +71,4 @@ The panel presents a diverse group of researchers in terms of disciplinary backg
 - [Christoph Purschke](https://purschke.info/) (University of Luxembourg)
 - [Yves Scherrer](https://blogs.helsinki.fi/yvesscherrer/) (University of Oslo, University of Helsinki)
 - [Barbara Plank](https://bplank.github.io/) (LMU Munich)
-- [Verena Blaschke](https://verenablaschke.github.io/) (LMU Munich) 
+- [Verena Blaschke](https://verenablaschke.github.io/) (LMU Munich)
