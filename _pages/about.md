@@ -143,7 +143,7 @@ affiliated:
 ---
 
 Welcome!
-We are the Munich AI & NLP (MaiNLP, pronounce "myNLP") research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/), LMU Munich, directed by [Prof. Dr. Barbara Plank](https://bplank.github.io/). 
+We are the Munich AI & NLP (MaiNLP, pronounced "myNLP") research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/), LMU Munich, directed by [Prof. Dr. Barbara Plank](https://bplank.github.io/). 
 We carry out research in Natural Language Processing, an interdisciplinary subdiscipline of Artificial Intelligence at the interface of computer science, linguistics and cognitive science. 
 In broad terms, our aim is human-facing NLP: to make NLP models more robust and inclusive, so that they can deal better with underlying shifts in data due to language variation, are fairer and embrace human label variation.
 
@@ -154,6 +154,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>July 10, 2024: We co-organized a panel on <a href="https://mainlp.github.io/iclave12/">embracing variability in natural language processing</a> at ICLaVE|12</li>
     <li>July 5, 2024: Max successfully defended his PhD thesis. Congratulations!</li>
     <li>July 1, 2024: Elisa successfully defended her PhD thesis. Congratulations!</li>
     <li>May 13, 2024: On-site <a href="/events/#2024-05-13-matthias-orlikowski">talk</a> by Matthias Orlikowski (Bielefeld University)</li>

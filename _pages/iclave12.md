@@ -30,7 +30,7 @@ July 10, 2024
   </tr>
   <tr>
   	<td>10:30</td>
-  	<td><span class="bolder">Computationally modeling Low Saxon variation at different linguistic levels</span><br/> Raoul Buurke &amp; Janine Siewert<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/TMXGYWTYCD7XLVCD3NSJJAENQRYUKV8R">Abstract</a></td>
+  	<td><span class="bolder">Computationally modeling Low Saxon variation at different linguistic levels</span><br/> Raoul Buurke &amp; Janine Siewert<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/TMXGYWTYCD7XLVCD3NSJJAENQRYUKV8R">Abstract</a>, <a href="/assets/subpages/iclave12/slides_buurke-siewert.pdf">slides</a></td>
   </tr>
   <tr>
   	<td>11:00</td>
