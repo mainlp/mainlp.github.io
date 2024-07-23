@@ -26,7 +26,7 @@ July 10, 2024
   </tr>
   <tr>
     <td>10:00</td>
-    <td><span class="bolder">EDAudio: Easy data augmentation techniques for audio classification</span><br/>Lea Fischbach, Akbar Karimi, Caroline Kleen, Lucie Flek &amp; Alfred Lameli<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/YUA3M7ZZJUVEMJBURRBYDU3YKFLUFB99">Abstract</a></td>
+    <td><span class="bolder">EDAudio: Easy data augmentation techniques for audio classification</span><br/>Alfred Lameli, Lea Fischbach, Caroline Kleen, Akbar Karimi &amp; Lucie Flek<br/><a href="https://pretalx.dioe.at/iclave12/talk/review/YUA3M7ZZJUVEMJBURRBYDU3YKFLUFB99">Abstract</a>, <a href="/assets/subpages/iclave12/slides_lameli-etal.pdf">slides</a></td>
   </tr>
   <tr>
   	<td>10:30</td>
