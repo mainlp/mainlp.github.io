@@ -104,19 +104,19 @@ affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
   people:
     - name: Rob van der Goot
-      description: Associate professor at ITU
+      description: Associate professor at ITU, co-supervisor
       website: https://robvanderg.github.io/
       picture: rob.jpg
     - name: Raquel Fernández
-      description: Full Professor at UvA
+      description: Full Professor at UvA, co-supervisor
       website: https://staff.fnwi.uva.nl/r.fernandezrovira/
       picture: raquel.png
     - name: Wilker Aziz
-      description: Assistant Professor at UvA
+      description: Assistant Professor at UvA, co-supervisor
       website: https://wilkeraziz.github.io/
       picture: wilker.png
     - name: Anna Korhonen
-      description: Full professor at Cambridge University
+      description: Full professor at University of Cambridge, co-supervisor
       website: https://sites.google.com/site/annakorhonen/
       picture: annak.jpg
     - name: Saif M. Mohammad
