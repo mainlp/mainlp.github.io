@@ -104,15 +104,15 @@ affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
   people:
     - name: Rob van der Goot
-      description: Associate professor at ITU, co-supervisor
+      description: Associate professor at ITU Copenhagen, co-supervisor
       website: https://robvanderg.github.io/
       picture: rob.jpg
     - name: Raquel Fernández
-      description: Full Professor at UvA, co-supervisor
+      description: Full Professor at University of Amsterdam, co-supervisor
       website: https://staff.fnwi.uva.nl/r.fernandezrovira/
       picture: raquel.png
     - name: Wilker Aziz
-      description: Assistant Professor at UvA, co-supervisor
+      description: Assistant Professor at University of Amsterdam, co-supervisor
       website: https://wilkeraziz.github.io/
       picture: wilker.png
     - name: Anna Korhonen
