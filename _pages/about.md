@@ -124,11 +124,11 @@ affiliated:
       website: https://www.saifmohammad.com/
       picture: saif.png
     - name: Bolei Ma
-      description: External co-supervised PhD student, LMU (2024–)
+      description: External co-supervised PhD student, LMU 
       website: https://www.stat.lmu.de/soda/en/team/contact-page/bolei-ma-c9505de7.html
       picture: bolei.png
     - name: Shengqiang Zhang
-      description: External co-supervised PhD student, LMU (2022–)
+      description: External co-supervised PhD student, LMU 
       website: https://shengqiang-zhang.github.io/
       picture: shengqiang.jpg
     - name: Patrick Schwabl
