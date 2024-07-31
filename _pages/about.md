@@ -247,7 +247,8 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
-    <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano)</li>
+    <li>Elena Lloret Pastor (visiting Professor, University of Alicante, 2024)</li>
+    <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Alberto Muñoz-Ortiz (visiting PhD student, Universidade da Coruña, 2023)</li>
     <li>Barbara Kovačić (student assistant, 2023–2024)</li>
