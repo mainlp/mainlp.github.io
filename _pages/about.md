@@ -108,19 +108,27 @@ affiliated:
       website: https://robvanderg.github.io/
       picture: rob.jpg
     - name: Raquel Fernández
-      description: Professor at UvA
+      description: Full Professor at UvA
       website: https://staff.fnwi.uva.nl/r.fernandezrovira/
       picture: raquel.png
     - name: Wilker Aziz
       description: Assistant Professor at UvA
       website: https://wilkeraziz.github.io/
       picture: wilker.png
+    - name: Anna Korhonen
+      description: Full professor at Cambridge University
+      website: https://sites.google.com/site/annakorhonen/
+      picture: annak.jpg
     - name: Saif M. Mohammad
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
+    - name: Bolei Ma
+      description: External co-supervised PhD student, LMU (2024–)
+      website: https://www.stat.lmu.de/soda/en/team/contact-page/bolei-ma-c9505de7.html
+      picture: bolei.png
     - name: Shengqiang Zhang
-      description: External co-supervised PhD student (2022–)
+      description: External co-supervised PhD student, LMU (2022–)
       website: https://shengqiang-zhang.github.io/
       picture: shengqiang.jpg
     - name: Patrick Schwabl
