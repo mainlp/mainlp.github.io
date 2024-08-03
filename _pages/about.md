@@ -38,6 +38,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Soh-Eun (Ryan) Shim
+      description: PhD student (2024–)
+      website: https://www.cis.lmu.de/personen/mitarbeiter/soheunshim/index.html
+      picture: mainlp-logo-500.png
     - name: Shijia Zhou
       description: PhD student (2024–)
       website: https://scholar.google.com/citations?user=Byl83QwAAAAJ
