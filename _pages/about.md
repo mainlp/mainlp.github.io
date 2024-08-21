@@ -147,10 +147,6 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
-    - name: Sondre Wold
-      description: Visiting PhD student, University of Oslo
-      picture: sondre.jpg
-      website: https://www.mn.uio.no/ifi/english/people/aca/sondrewo/index.html
 
 ---
 
@@ -244,13 +240,14 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), soon postdoc</li>
+    <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
     <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
+    <li>Sondre Wold (visiting PhD student, University of Oslo, 2024)</li>
     <li>Elena Lloret Pastor (visiting Professor, University of Alicante, 2024)</li>
     <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
