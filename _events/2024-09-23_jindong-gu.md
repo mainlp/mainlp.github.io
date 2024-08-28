@@ -7,7 +7,7 @@ website: https://jindonggu.github.io/
 time: September 23, 2024; 16:15–17:15
 location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
-img: assets/img/jindonggu.png
+img: assets/img/jindonggu.jpg
 imgalt: Portrait of Jindong Gu
 imgside: right
 anchor: 2024-09-23-jindong-gu
