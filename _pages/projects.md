@@ -39,16 +39,6 @@ Selected publications:
 - [Blaschke, Schütze & Plank, 2023. A Survey of Corpora for Germanic Low-Resource Languages and Dialects. In NoDaLiDa.](https://arxiv.org/abs/2304.09805)
 
 
-### <a name="multivalue">DFF Sapere Aude Project MultiVaLUe: Multilingual Variety-aware Language Understanding Technology</a>
-
-Intelligent machines that understand natural language texts are the Holy Grail of Artificial Intelligence. If achieved, they can automatically extract useful information from big messy text collections. Many challenges must be overcome first. To alleviate the scarcity of resources and broaden the scope to Danish and other small languages, we will unify two strands of research, transfer learning and weak supervision, with the aim to design cross-domain and cross-lingual algorithms that extract information more robustly under minimal guidance. In this project we work on two concrete applications: cross-lingual syntactic parsing (and representation learning on the linguistic manifold) and cross-domain information extraction.
-
-Selected publications:
-- [Müller-Eberstein, van der Goot & Plank, 2021. Genre as Weak Supervision for Cross-lingual Dependency Parsing. In EMNLP.](https://aclanthology.org/2021.emnlp-main.393/)
-- [Müller-Eberstein, van der Goot & Plank, 2022. Spectral Probing. In EMNLP.](https://arxiv.org/abs/2210.11860)
-- [Bassignana & Plank, 2022. CrossRE: A Cross-Domain Dataset for Relation Extraction. In EMNLP Findings.](https://arxiv.org/abs/2210.09345)
-- [Bassignana & Plank, 2022. What Do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification. In ACL SRW.](https://aclanthology.org/2022.acl-srw.7/)
-
 
 ### <a name="klima-memes">KLIMA-MEMES: The Impact of Humorous Communication on Political Decision-Making in the Climate Change Context</a>
 
@@ -71,6 +61,17 @@ This project, led by Prof. Christoph Purschke from the University of Luxembourg 
 
 <h2 class="category"><a name="finishproj">Completed research projects</a></h2>
 
+### <a name="multivalue">DFF Sapere Aude Project MultiVaLUe: Multilingual Variety-aware Language Understanding Technology</a>
+
+Intelligent machines that understand natural language texts are the Holy Grail of Artificial Intelligence. If achieved, they can automatically extract useful information from big messy text collections. Many challenges must be overcome first. To alleviate the scarcity of resources and broaden the scope to Danish and other small languages, we will unify two strands of research, transfer learning and weak supervision, with the aim to design cross-domain and cross-lingual algorithms that extract information more robustly under minimal guidance. In this project we work on two concrete applications: cross-lingual syntactic parsing (and representation learning on the linguistic manifold) and cross-domain information extraction.
+
+Selected publications:
+- [Müller-Eberstein, van der Goot & Plank, 2021. Genre as Weak Supervision for Cross-lingual Dependency Parsing. In EMNLP.](https://aclanthology.org/2021.emnlp-main.393/)
+- [Müller-Eberstein, van der Goot & Plank, 2022. Spectral Probing. In EMNLP.](https://arxiv.org/abs/2210.11860)
+- [Bassignana & Plank, 2022. CrossRE: A Cross-Domain Dataset for Relation Extraction. In EMNLP Findings.](https://arxiv.org/abs/2210.09345)
+- [Bassignana & Plank, 2022. What Do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification. In ACL SRW.](https://aclanthology.org/2022.acl-srw.7/)
+
+  
 ### <a name="multiskill">DFF Project thematic AI, MultiSkill: Multilingual Information Extraction for Job Posting Analysis (2020-2024)</a>
 
 Job markets are about to undergo profound changes in the years to come. The skills required to perform most jobs will shift significantly. This is due to a series of interrelated developments in technology, migration and digitization. As skills change, we are facing increasing needs for quicker and better hiring to better match people to jobs. Big multilingual job vacancy data are emerging on a variety and multitude of platforms. Such big data can provide insights on labor market skill set demands. This project is centered around computational job market analysis, to reliably perform high-precision information extraction on targeted domain data.
