@@ -45,6 +45,7 @@ Selected publications:
 Climate change is a pressing problem facing humanity and a major polarizing topic in public discourse. Discussions on climate change pervade political agendas worldwide. IPCC experts agree that currently implemented measures against climate change are inadequate in their efforts. Information akin to this often rapidly breaks into social media spheres (e.g., Instagram and TikTok) in increasingly visual and often humor-driven attention cycles. The KLIMA-MEMES project will analyze how such communication in the form of memes or other visual media with an intent to be humorous can affect political decision-making. This is a collaborative project with multiple partners at LMU, funded by the Bavarian Research Institute for Digital Transformation. 
 
 More information:
+- [Zhou, Peng, Plank, 2024. ClimateEli: Evaluating Entity Linking on Climate Change Data. In Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)](https://aclanthology.org/2024.climatenlp-1.16/)
 - See the [KLIMA-MEMES project website](https://klimamemes.ifkw.lmu.de/)
 
 <h3 class="category"><a name="collabproj">On-going collaboration projects</a></h3>
