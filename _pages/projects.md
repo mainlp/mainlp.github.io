@@ -109,9 +109,8 @@ Regularly <b>check back here for updates</b> on thesis project suggestions.
 
 #### News:
 
-- 2024, Feb 26: Thank you all for your interest! We are closed for further thesis applications for the upcoming summer semester 
-- 2024, Jan 15: MSc/BSc project applications are open! See list of project below and how to apply <a href="#howtoapply">here</a>
-- 2024, Jan 8: Information on how to apply added. Stay tuned for updates on project proposals
+<!-- - 2024, Feb 26: Thank you all for your interest! We are closed for further thesis applications for the upcoming summer semester  -->
+- 2024, Sep 1: MSc/BSc project applications deadlines posted. See list of project below and how to apply <a href="#howtoapply">here</a>
 
 
 
