@@ -48,8 +48,8 @@ staff:
       picture: robert.png
     - name: Florian Echin
       description: PhD student (2024–)
-      website: # 
-      picture: mainlp-logo-500.png
+      website: https://florian-eichin.com/
+      picture: florian.png
     - name: Soh-Eun (Ryan) Shim
       description: PhD student (2024–)
       website: https://www.cis.lmu.de/personen/mitarbeiter/soheunshim/index.html
