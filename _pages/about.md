@@ -30,6 +30,14 @@ staff:
       description: Junior Research Group Leader
       website: https://www.michael-hedderich.de/
       picture: michael.jpg
+    - name: Silvia Casola
+      description: Postdoc (2024–)
+      website: https://scholar.google.it/citations?user=h6Nw1QIAAAAJ
+      picture: mainlp-logo-500.png
+    - name: Yang (Janet) Liu
+      description: Postdoc (2024–)
+      website: https://janetlauyeung.github.io/
+      picture: mainlp-logo-500.png
     - name: Siyao (Logan) Peng
       description: Postdoc (2023–)
       website: https://logan-siyao-peng.github.io/
@@ -38,6 +46,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Florian Echin
+      description: PhD student (2024–)
+      website: # 
+      picture: mainlp-logo-500.png
     - name: Soh-Eun (Ryan) Shim
       description: PhD student (2024–)
       website: https://www.cis.lmu.de/personen/mitarbeiter/soheunshim/index.html
