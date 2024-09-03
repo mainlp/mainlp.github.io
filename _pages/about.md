@@ -34,10 +34,10 @@ staff:
       description: Postdoc (2024–)
       website: https://scholar.google.it/citations?user=h6Nw1QIAAAAJ
       picture: mainlp-logo-500.png
-    - name: Yang (Janet) Liu
+    - name: Yang Janet Liu
       description: Postdoc (2024–)
       website: https://janetlauyeung.github.io/
-      picture: mainlp-logo-500.png
+      picture: janet.png
     - name: Siyao (Logan) Peng
       description: Postdoc (2023–)
       website: https://logan-siyao-peng.github.io/
