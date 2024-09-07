@@ -62,10 +62,6 @@ staff:
       description: ELLIS PhD student (2024–)
       website: https://mckysse.github.io/
       picture: beiduo.jpg
-    - name: Jian Lan
-      description: PhD student (2023–)
-      website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/jianlan/index.html
-      picture: jian.jpg
     - name: Philipp Mondorf
       description: PhD student (2023–)
       website: https://pmmon.github.io/
@@ -256,6 +252,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
     <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
+    <li>Jian Lan (PhD student, 2023–2024)</li>
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
