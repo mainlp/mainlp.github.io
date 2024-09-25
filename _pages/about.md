@@ -88,6 +88,9 @@ support:
     - name: Oliver Kraus
       description: Scientific programmer (2024–)
       picture: mainlp-logo-500.png
+    - name: Anyi Wang (2024-) 
+      description: Student assistant (2023–)
+      picture: mainlp-logo-500.png
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
@@ -240,7 +243,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
    <ul>
     <li>Ercong Nie (2022–2024)</li>
     <li>Zonggen Li (2023–2024)</li>
-    <li>Kaiwei Lei</li>
+    <li>Kaiwei Lei (2024-)</li>
     <li>Yurui Zhang (2024–)</li>
     <li>Pingjun Hong (2024–)</li>
     <li>Longfei Zuo (2024–)</li>
