@@ -173,6 +173,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>August 14, 2024: Barbara gave one of the <a href="https://2024.aclweb.org/program/keynotes/">keynote talks at ACL 2024</a> in Bangkok this year</li>
     <li>July 10, 2024: We co-organized a panel on <a href="https://mainlp.github.io/iclave12/">embracing variability in natural language processing</a> at ICLaVE|12</li>
     <li>July 5, 2024: Max successfully defended his PhD thesis. Congratulations!</li>
     <li>July 1, 2024: Elisa successfully defended her PhD thesis. Congratulations!</li>
