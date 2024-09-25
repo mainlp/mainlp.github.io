@@ -240,6 +240,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
    <ul>
     <li>Ercong Nie (2022–2024)</li>
     <li>Zonggen Li (2023–2024)</li>
+    <li>Kaiwei Lei</li>
     <li>Yurui Zhang (2024–)</li>
     <li>Pingjun Hong (2024–)</li>
     <li>Longfei Zuo (2024–)</li>
