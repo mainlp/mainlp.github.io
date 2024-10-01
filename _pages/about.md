@@ -46,6 +46,14 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Andreas Säuberli
+      description: PhD student (2024–)
+      website: https://saeub.github.io/
+      picture: mainlp-logo-500.png
+    - name: Felicia Körner
+      description: ELLIS PhD student (2024–)
+      website: https://koernerfelicia.github.io/
+      picture: mainlp-logo-500.png
     - name: Florian Echin
       description: PhD student (2024–)
       website: https://florian-eichin.com/
