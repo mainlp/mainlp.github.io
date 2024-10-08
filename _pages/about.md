@@ -54,7 +54,7 @@ staff:
       description: ELLIS PhD student (2024–)
       website: https://koernerfelicia.github.io/
       picture: mainlp-logo-500.png
-    - name: Florian Echin
+    - name: Florian Eichin
       description: PhD student (2024–)
       website: https://florian-eichin.com/
       picture: florian.png
