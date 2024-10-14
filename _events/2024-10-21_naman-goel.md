@@ -10,5 +10,5 @@ roomfinder: https://mainlp.github.io/contact/
 img: assets/img/goel.png
 imgalt: Portrait of Naman Goel
 imgside: right
-anchor: 2024-11-11-Naman-Goel
+anchor: 2024-10-21-Naman-Goel
 ---
