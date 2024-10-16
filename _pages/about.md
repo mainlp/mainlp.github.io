@@ -2,17 +2,17 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: mainlp-logo-500.png
   image_circular: false
-  address: 
+  address:
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 groups: [staff, support, admin, affiliated]
 staff:
@@ -23,7 +23,7 @@ staff:
       website: https://bplank.github.io/
       picture: barbara.jpg
     - name: Diego Frassinelli
-      description: Dr., Lecturer (part-time)
+      description: Dr., Lecturer
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/frassinelli/index.html
       picture: mainlp-logo-500.png
     - name: Michael A. Hedderich
@@ -96,7 +96,7 @@ support:
     - name: Oliver Kraus
       description: Scientific programmer (2024–)
       picture: mainlp-logo-500.png
-    - name: Anyi Wang (2024-) 
+    - name: Anyi Wang (2024-)
       description: Student assistant (2023–)
       picture: mainlp-logo-500.png
     - name: Sebastian Loftus
@@ -147,11 +147,11 @@ affiliated:
       website: https://www.saifmohammad.com/
       picture: saif.png
     - name: Bolei Ma
-      description: External co-supervised PhD student, LMU 
+      description: External co-supervised PhD student, LMU
       website: https://www.stat.lmu.de/soda/en/team/contact-page/bolei-ma-c9505de7.html
       picture: bolei.png
     - name: Shengqiang Zhang
-      description: External co-supervised PhD student, LMU 
+      description: External co-supervised PhD student, LMU
       website: https://shengqiang-zhang.github.io/
       picture: shengqiang.jpg
     - name: Patrick Schwabl
@@ -159,19 +159,18 @@ affiliated:
       website: https://patschw.github.io/
       picture: patrick.jpg
     - name: Shanshan Xu
-      description: External mentored PhD student, Legal Tech group, Technical University of Munich 
+      description: External mentored PhD student, Legal Tech group, Technical University of Munich
       website: https://sxu3.github.io/
       picture: shanshan.jpeg
     - name: Cornelia Gruber
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
-
 ---
 
 Welcome!
-We are the Munich AI & NLP (MaiNLP, pronounced "myNLP") research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/), LMU Munich, directed by [Prof. Dr. Barbara Plank](https://bplank.github.io/). 
-We carry out research in Natural Language Processing, an interdisciplinary subdiscipline of Artificial Intelligence at the interface of computer science, linguistics and cognitive science. 
+We are the Munich AI & NLP (MaiNLP, pronounced "myNLP") research lab at the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de/), LMU Munich, directed by [Prof. Dr. Barbara Plank](https://bplank.github.io/).
+We carry out research in Natural Language Processing, an interdisciplinary subdiscipline of Artificial Intelligence at the interface of computer science, linguistics and cognitive science.
 In broad terms, our aim is human-facing NLP: to make NLP models more robust and inclusive, so that they can deal better with underlying shifts in data due to language variation, are fairer and embrace human label variation.
 
 <div class="projects">
@@ -194,9 +193,10 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
     <li>January 24, 2024: On-site <a href="/events/#2024-01-24-rob-van-der-goot">talk</a> by Dr. Rob van der Goot (IT University of Copenhagen)</li>
   </ul>
 
-  To <a href="/events-archive/">earlier events</a> at MaiNLP.
+To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
-  {%- for group in page.groups -%}
+{%- for group in page.groups -%}
+
   <h2 class="category">{{page.[group].title}}</h2>
     <div class="grid">
       {%- for person in page.[group].people -%}
@@ -247,7 +247,6 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
     </div>
   {%- endfor -%}
 
-  
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
     <li>Ercong Nie (2022–2024)</li>
@@ -286,7 +285,6 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
     <li>Anna Barwig (student assistant, 2022–2023)</li>
     <li>Chaeeun Lee (student assistant, 2022–2023)</li>
   </ul>
-  
 
 
   <h2 class="category">MaiNLP resources and code</h2>
@@ -302,19 +300,20 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
     <li><a href="https://www.bidt.digital/">Bayerisches Forschungsinstitut für Digitale Transformation (bidt)</a></li>
   </ul>
 
-  We are also part of:
+We are also part of:
+
   <ul>
     <li><a href="https://ellis.eu/programs/natural-language-processing">ELLIS Europe NLP Program</a></li>
     <li><a href="https://www.ellismunich.ai/">ELLIS Unit Munich</a></li>
   </ul>
 
  <!-- TODO <img src="MCML_Logo.jpg" alt="MCML logo"/> -->
-  
+
   <h2 class="category">Find us</h2>
   We are located at Akademiestraße 7, 80799 Munich, Germany (<a href="https://mainlp.github.io/contact/">→ directions</a>).<br/>
 
-  <a href="https://github.com/mainlp"><i class="fab fa-github"></i> MaiNLP</a><br/>
-  <a href="https://twitter.com/MaiNLPlab"><i class="fab fa-twitter"></i> MaiNLPlab</a><br/>
-  <a href="https://twitter.com/CisLMU"><i class="fab fa-twitter"></i> CisLMU</a>
+<a href="https://github.com/mainlp"><i class="fab fa-github"></i> MaiNLP</a><br/>
+<a href="https://twitter.com/MaiNLPlab"><i class="fab fa-twitter"></i> MaiNLPlab</a><br/>
+<a href="https://twitter.com/CisLMU"><i class="fab fa-twitter"></i> CisLMU</a>
 
 </div>
