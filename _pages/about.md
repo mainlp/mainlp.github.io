@@ -53,7 +53,7 @@ staff:
     - name: Felicia Körner
       description: ELLIS PhD student (2024–)
       website: https://koernerfelicia.github.io/
-      picture: mainlp-logo-500.png
+      picture: felicia.JPG
     - name: Florian Eichin
       description: PhD student (2024–)
       website: https://florian-eichin.com/
@@ -285,7 +285,6 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Anna Barwig (student assistant, 2022–2023)</li>
     <li>Chaeeun Lee (student assistant, 2022–2023)</li>
   </ul>
-
 
   <h2 class="category">MaiNLP resources and code</h2>
   You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">on our github page</a> and <a href="https://huggingface.co/mainlp">on our huggingface page</a>
