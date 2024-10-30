@@ -18,5 +18,5 @@ roomfinder: https://mainlp.github.io/contact/
 img: assets/img/anita.png
 imgalt: Portrait of Anita Keshmirian
 imgside: right
-anchor: 2024-11-11-Anita-Keshmirian
+anchor: 2025-01-13-Anita-Keshmirian
 ---
