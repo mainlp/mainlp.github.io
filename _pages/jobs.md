@@ -14,7 +14,7 @@ PhD opportunities through MCML/ELLIS.
 - For ELLIS 2025 with MaiNLP as primary host, please also send your application to MCML.
 
 
-Open until filled (currently no position):
+Open until filled (currently no position but inquiries are welcome):
   
 We are always interested in hearing from interested candidates. 
 
