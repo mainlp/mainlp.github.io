@@ -96,9 +96,9 @@ support:
     - name: Oliver Kraus
       description: Scientific programmer (2024–)
       picture: mainlp-logo-500.png
-    - name: Anyi Wang (2024-)
-      description: Student assistant (2023–)
-      picture: mainlp-logo-500.png
+    - name: Anyi Wang
+      description: Student assistant (2024–)
+      picture: anyiwang.jpg
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
