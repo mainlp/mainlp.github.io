@@ -46,6 +46,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Raoyuan Zhao
+      description: PhD student (2024–)
+      website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/rzhao/index.html
+      picture: raoyuan-zhao.png
     - name: Andreas Säuberli
       description: PhD student (2024–)
       website: https://saeub.github.io/
