@@ -4,7 +4,7 @@ permalink: /jobs/
 title: Jobs
 description: 
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 Join us at MaiNLP @ LMU Munich / CIS:
