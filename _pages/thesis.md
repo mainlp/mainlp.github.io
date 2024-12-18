@@ -13,7 +13,7 @@ Currently, the following research vectors characterize broad topics in which we 
 
 Unless otherwise specified, all projects can be either at the MSc or BSc level. The exact scope of the project will be determined in a meeting before the start of the project. 
 
-*Important note*: We currently do not supervise industrial MSc/BSc thesis project (Industrieabschlussarbeiten). 
+*Important note*: We currently do not supervise industrial MSc/BSc thesis projects (Industrieabschlussarbeiten). 
 
 Regularly <b>check back here for updates</b> on thesis project suggestions. 
 

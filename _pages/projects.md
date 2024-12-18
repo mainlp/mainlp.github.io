@@ -11,7 +11,7 @@ Content:
 
 * [On-going research projects](#ongoingproj)
 * [Completed research projects](#finishproj)
-* For BSc/MSc thesis projects, please check [here](https://mainlp.github.io/projects/)
+* For BSc/MSc thesis projects, please check [here](https://mainlp.github.io/thesis/)
 
 At MaiNLP we aim to make NLP models more robust, so that they can deal better with underlying shifts in data due to language variation.
 
