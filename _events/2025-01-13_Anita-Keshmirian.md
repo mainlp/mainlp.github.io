@@ -12,7 +12,7 @@ Finally, I will discuss the broader implications of these findings for our under
 speaker: Anita Keshmirian, <br>Assistant Professor of Psychology and Head of Data Science at Forward College in Berlin
 bio: Anita Keshmirian, Ph.D., is an Assistant Professor of Psychology and Head of Data Science at Forward College in Berlin. She completed her Ph.D. at LMU Munich under the supervision of Bahador Bahrami (LMU), Fiery Cushman (Harvard), and Ophelia Deroy (LMU), with subsequent postdoctoral research focusing on Argumentation Machines and Large Language Models at LMU Munich Center for Mathematical Philosophy (MCMP) and the Fraunhofer Institute for Cognitive Systems (IKS). Currently, she is a visiting scientist at the Human-Centered AI division of Helmholtz Munich. Her research interests lie at the intersection of human cognition, causal and moral reasoning, and artificial intelligence, particularly in understanding how both humans and AI models process and represent causal relationships and moral reasoning.
 website: https://forward-college.eu/profiles/faculty/dr-anita-keshmirian/
-time: November 11, 2024; 16:15–17:15
+time: January 13, 2025; 16:15–17:15
 location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
 img: assets/img/anita.png
