@@ -181,6 +181,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>December 6, 2024: Federica Manzi won an <a href="https://clic2024.ilc.cnr.it/awards/">award</a> for her MSc thesis on sexism detection in Italian newspapers at CLIC-it 2024</li>
     <li>August 14, 2024: Barbara gave a <a href="https://2024.aclweb.org/program/keynotes/">keynote at ACL 2024</a> in Bangkok this year</li>
     <li>July 10, 2024: We co-organized a panel on <a href="https://mainlp.github.io/iclave12/">embracing variability in natural language processing</a> at ICLaVE|12</li>
     <li>July 5, 2024: Max successfully defended his PhD thesis. Congratulations!</li>
