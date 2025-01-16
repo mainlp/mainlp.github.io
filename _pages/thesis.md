@@ -33,10 +33,11 @@ Legend:
 
 **Important information for LMU students:** You need to apply for a MSc/BSc thesis project the latest three weeks before the thesis project registration date.
 
-Deadlines for the winter semester 2024-2025:
+<!--Deadlines for the winter semester 2024-2025:
 
 - MSc students apply before **September 4, 2024**
 - BSc students apply before **September 14, 2024**
+-->
 
 Deadlines for the summer semester 2025:
 
