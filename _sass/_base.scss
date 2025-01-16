@@ -840,3 +840,42 @@ align-items: stretch;
   padding: 0 15px 10px 0;
     vertical-align: top;
 }
+
+.accordion-section {
+  margin-bottom: 1rem;
+}
+
+.accordion-header {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  cursor: pointer;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  position: relative;
+}
+
+.accordion-header:hover {
+  background-color: #e9ecef;
+}
+
+.accordion-header::after {
+  content: '+';
+  position: absolute;
+  right: 1rem;
+}
+
+.accordion-header.active::after {
+  content: '-';
+}
+
+.accordion-content {
+  display: none;
+  padding: 1rem;
+  border: 1px solid #dee2e6;
+  border-top: none;
+  border-radius: 0 0 4px 4px;
+}
+
+.accordion-content.active {
+  display: block;
+}
