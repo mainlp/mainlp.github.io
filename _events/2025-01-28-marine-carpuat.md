@@ -8,7 +8,7 @@ website: https://www.cs.umd.edu/~marine/
 time: January 28, 2025; 14:00–15:00
 location: LMU main building (Geschwister-Scholl-Platz 1), room A&nbsp;140
 roomfinder: https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001225_
-img: https://umiacs.umd.edu/sites/default/files/styles/optimized/public/IMG_1083_forweb.jpg
+img: assets/img/marine-carpuat.jpg
 imgalt: Portrait of Marine Carpuat
 imgside: right
 anchor: 2024-01-28-marine-carpuat
