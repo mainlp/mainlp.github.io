@@ -201,7 +201,7 @@ possible here:
   </div>
   <div class="accordion-content">
     {{ "### **Selected Research Projects**
-- *NLP for Job Market Analysis*. Job postings are a rich resource to understand the
+- :hourglass_flowing_sand: *NLP for Job Market Analysis*. Job postings are a rich resource to understand the
 dynamics of the labor market including which skills are demanded, which is also
 important from an educational viewpoint. Recently, the emerging line of work on
 computational job market analysis or NLP for human resources has started to
@@ -290,7 +290,7 @@ lexical signals (and combinations thereof) including, e.g., TF-IDF and QLM (redu
 scope, BSc) and semantic signals obtained from semantic similarity models or LLMs
 (full scope, MSc). This thesis is suitable for students who do not have access to large
 GPUs. **Level: BSc or MSc**.
-- *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
+- :hourglass_flowing_sand: *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
 ubiquitously in virtually all areas of NLP. This includes information retrieval (IR),
 where LLMs are used to, e.g., judge query-document pairs to predict relevance (see
 Fig. 6 in [Yutao et al. (2023)](https://arxiv.org/pdf/2308.07107)). In the context of cross-lingual IR (CLIR), we previously
@@ -313,7 +313,7 @@ engineering, in-context L2R or instruction-tuned LLMs. **Level: MSc.**
   </div>
   <div class="accordion-content">
     {{ "### **Selected Research Projects**
-- *Understanding Indirectness*. Indirectness involves for example indirect answers
+- :hourglass_flowing_sand: *Understanding Indirectness*. Indirectness involves for example indirect answers
 to requests that do not explicitly contain answer clues like Yes, yeah or no. Example:
 Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect
 answers are natural in human dialogue, but very difficult for a conversational AI
@@ -409,7 +409,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
 
 ### **Selected research projects**
 
-- _In-context learning from human preference disagreement_. Aggregating
+- :hourglass_flowing_sand: _In-context learning from human preference disagreement_. Aggregating
   annotations via majority vote could lead to ignoring the opinions of minority groups.
   Learning from individual annotators shows a better result on classification tasks such
   as hate speech detection, emotion detection and natural language inference than
@@ -432,7 +432,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   - Multilingual-focused: Analyze how LLM-generated label distributions vary
     across languages or incorporate multilingual explanation generation as a joint
     task.
-  - Linguistic-focused: Explore existing datasets like liveNLI ([Jiang et al.,
+  - :hourglass_flowing_sand: Linguistic-focused: Explore existing datasets like liveNLI ([Jiang et al.,
     2023](https://aclanthology.org/2023.findings-emnlp.712/)), e-SNLI ([Camburu et al., 2018](https://proceedings.neurips.cc/paper/2018/hash/4c7a167bb329bd92580a99ce422d6fa6-Abstract.html)), and VariErr NLI ([Weber et al., 2024](https://aclanthology.org/2024.acl-long.123/)),
     where different explanations exist for the same label, to classify these
     explanations linguistically and observe the impact on LLM-generated label
