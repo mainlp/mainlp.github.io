@@ -475,7 +475,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   and evaluate if grokking helps to better understand the learning processes of modern
   deep language models. References: [Power et al.](https://arxiv.org/abs/2201.02177), [Huang et al.](https://arxiv.org/abs/2402.15175), [Hupkes et al.](https://arxiv.org/abs/1908.08351v2) **Level:
   MSc**
-- _Understanding prompt instability_. It has been shown that LLMs are very unstable
+- :hourglass_flowing_sand: _Understanding prompt instability_. It has been shown that LLMs are very unstable
   with regard to the prompts and even a small change like an inserted space or
   misspelled word can drastically change the generated output. In this project, we want
   to identify such instability situations and especially explore the reasons behind
