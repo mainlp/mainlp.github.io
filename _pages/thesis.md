@@ -21,6 +21,7 @@ News:
 
 <!-- - 2024, Feb 26: Thank you all for your interest! We are closed for further thesis applications for the upcoming summer semester  -->
 
+- 2025, Jan 27: Updated projects and application deadlines posted
 - 2024, Sep 1: MSc/BSc project applications deadlines posted. See list of project below and how to apply <a href="#howtoapply">here</a>
 
 Legend:
@@ -41,8 +42,8 @@ Legend:
 
 Deadlines for the summer semester 2025:
 
-- MSc students apply before **February 12, 2025**
-- BSc students apply before **February 26, 2025**
+- MSc students apply before **Monday February 10, 2025**
+- BSc students apply before **Monday February 24, 2025**
 
 <!--
 
