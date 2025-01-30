@@ -132,7 +132,7 @@ own parsers. Ideally, the project leads to contributing a new treebank to the
 UD project. Examples of similar corpora: [Siewert et al. 2021](https://aclanthology.org/2021.konvens-1.25/), [Hollenstein &
 Aepli 2014](https://aclanthology.org/W14-5310/), [Cassidy et al. 2022](https://aclanthology.org/2022.acl-long.473/), [Lusito & Maillard 2021](https://aclanthology.org/2021.udw-1.10/), [Blaschke et al. 2024](https://aclanthology.org/2024.lrec-main.953/).
 [Tutorial for UD newcomers](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:webinar-1). **Level: BSc.**
-- *Lexical Resources for Dialects*. NLP for dialect languages is an intriguing
+- :hourglass_flowing_sand:  *Lexical Resources for Dialects*. NLP for dialect languages is an intriguing
 area of research due to the lack of resources (low-resources languages) and
 lack of standardization (high variance). In this project, the goal is to build
 dialect dictionaries by annotating words and phrases with respect to different
@@ -164,7 +164,7 @@ quantitatively, and conduct a qualitative error analysis on the difficult cases.
 For MSc, the research needs to scale up either to multiple dialects (in the
 same or across different language families) or to multiple NLP tasks. **Level:
 BSc or MSc.**
-- *To What Degree do LLMs Understand Bavarian Dialect Variants?* In this
+- :hourglass_flowing_sand: *To What Degree do LLMs Understand Bavarian Dialect Variants?* In this
 project, we aim to comprehensively evaluate existing multilingual and
 German LLMs on Bavarian dialect variants. Your task is to come up with a
 set of evaluation criteria to test existing LLMs in zero-shot and few-shot
@@ -225,7 +225,7 @@ media data. The data will have to be collected (potentially from existing source
 cleaned, and analyzed using NLP techniques to examine various aspects or features
 of interest such as stance, sentiment, the extraction of key players, etc. References:
 [Luo et al., 2020](https://aclanthology.org/2020.findings-emnlp.296v2.pdf), [Stede & Patz, 2021](https://aclanthology.org/2021.nlp4posimpact-1.2.pdf), [Vaid et al., 2022](https://aclanthology.org/2022.acl-srw.35.pdf). **Level: BSc or MSc**.
-- *Better Benchmarks / Mining for Errors in Annotated Datasets*. Benchmark
+- :hourglass_flowing_sand:  *Better Benchmarks / Mining for Errors in Annotated Datasets*. Benchmark
 datasets are essential in empirical research, but even widely-used annotated
 datasets contain mistakes, as annotators inevitably make mistakes (e.g. annotation
 inconsistencies). There are several lines of work in this direction. On the one side,
@@ -266,7 +266,7 @@ of projects on this theme can be:
   interpretation and generalization ; and (2) transitioning to datasets with extensive
   annotations and labels could mitigate the adverse effects of removing noisy labels,
   resulting in a smoother and more reliable label distribution.
-- *Error Analysis of a BERT-based Search Engine*. Multi-stage ranking has become
+- :hourglass_flowing_sand:  *Error Analysis of a BERT-based Search Engine*. Multi-stage ranking has become
 a popular paradigm in information retrieval, this approach a fast first-stage ranker
 generates a candidate set of documents followed by a much slower re-ranker to
 refine the ranking ([Nogueira et al. 2019](https://arxiv.org/abs/1910.14424)). Prior work has shown that better candidate
@@ -276,7 +276,7 @@ analysis of linguistic triggers that cause this behavior. In the second part, th
 to apply and interpret automatically generated explanations from tools such as
 DeepSHAP ([Fernando et al. 2019](https://arxiv.org/abs/1907.06484)) and LIME ([Riberio et al. 2016](https://arxiv.org/abs/1907.06484)). Basic knowledge
 in information retrieval is helpful, but not required. **Level: B.Sc**.
-- *Injecting Lexical Similarity Signals into Neural Information Retrieval (IR) Models*.
+- :hourglass_flowing_sand:  *Injecting Lexical Similarity Signals into Neural Information Retrieval (IR) Models*.
 Early IR models rely on lexical signals (keyword matches) such as BM25, TF-IDF
 and the Query Likelihood Model (QLM) between queries and documents to
 determine their relevance. For a long time lexical retrieval models performed still very
@@ -383,7 +383,7 @@ summarization methods and explore criteria that integrate discourse-level insigh
 German RST news dataset and showed that RST features (in particular nuclearity
 and relations at the sentence-level) are informative, and they were able to transfer
 these findings to various automated summarisation models.) **Level: BSc or MSc**.
-- *Improving Automatic Text Simplification through Elaboration and Personalization*.
+- :hourglass_flowing_sand:  *Improving Automatic Text Simplification through Elaboration and Personalization*.
 Automatic Text Simplification (ATS) aims to make complex texts more
 understandable for different audiences, often by simplifying vocabulary and sentence
 structures. However, research has shown that effective simplification often requires
@@ -420,7 +420,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   preference datasets. How can the model learn from the disagreement in the
   preference data in context? References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Chen et al.,2024](https://arxiv.org/pdf/2406.17600),
   [Zhang et al., 2024](https://arxiv.org/abs/2410.14632). **Level: MSc**.
-- _Enhancing NLI Label Modeling with LLM-Generated Explanations: Annotation,
+- :hourglass_flowing_sand:  _Enhancing NLI Label Modeling with LLM-Generated Explanations: Annotation,
   Multilinguality, and Linguistic Perspectives_. Recent studies ([Chen et al., 2024a](https://aclanthology.org/2024.findings-emnlp.842/); [Chen
   et al., 2024b](https://arxiv.org/abs/2412.13942)) suggest that using human or LLM-generated explanations can help
   LLMs better model human label distributions in Natural Language Inference (NLI).
@@ -433,7 +433,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   - Multilingual-focused: Analyze how LLM-generated label distributions vary
     across languages or incorporate multilingual explanation generation as a joint
     task.
-  - :hourglass_flowing_sand: Linguistic-focused: Explore existing datasets like liveNLI ([Jiang et al.,
+  - Linguistic-focused: Explore existing datasets like liveNLI ([Jiang et al.,
     2023](https://aclanthology.org/2023.findings-emnlp.712/)), e-SNLI ([Camburu et al., 2018](https://proceedings.neurips.cc/paper/2018/hash/4c7a167bb329bd92580a99ce422d6fa6-Abstract.html)), and VariErr NLI ([Weber et al., 2024](https://aclanthology.org/2024.acl-long.123/)),
     where different explanations exist for the same label, to classify these
     explanations linguistically and observe the impact on LLM-generated label
@@ -450,7 +450,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   cognitive aspects (for instance, emotional connotations). This study will build on the
   existing work by [Knupleš et al. (2023)](https://aclanthology.org/2023.conll-1.6/). Expected skills: regression analysis, cluster
   analysis, data visualization. **Level: MSc**.
-- _Human-understandable descriptions of topic clusters_. Topic modelling is a core
+- :hourglass_flowing_sand:  _Human-understandable descriptions of topic clusters_. Topic modelling is a core
   tool of fields like digital humanities and computational social sciences and recent
   developments like BERTTopic and SCA have made it possible to leverage word
   embeddings to find topics. These topic clusters are, however, difficult to analyse and
@@ -542,7 +542,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   A student project could involve investigating under which circumstances and for which NLP tasks gaze data can be beneficial, or whether we can achieve the same effect with artificially synthesized gaze data.
   References: [Hollenstein et al. (2019)](https://arxiv.org/abs/1904.02682), [Sood et al. (2020)](https://proceedings.neurips.cc/paper/2020/hash/460191c72f67e90150a093b4585e7eb4-Abstract.html), [Khurana et al. (2023)](https://aclanthology.org/2023.eacl-main.139/), [Bolliger et al. (2023)](https://aclanthology.org/2023.emnlp-main.960/).
   **Level: MSc**
-- _Investigating Information Asymmetry on Wikipedia_. Information asymmetry (IA)
+- :hourglass_flowing_sand: _Investigating Information Asymmetry on Wikipedia_. Information asymmetry (IA)
   refers to the fact that the volume and type of information on the web varies between
   languages. For example, prior work by [Kolbitsch and Maurer (2006)](https://www.researchgate.net/profile/Josef-Kolbitsch/publication/200772707_The_Transformation_of_the_Web_How_Emerging_Communities_Shape_the_Information_We_Consume/links/00b7d52453fcba84d3000000/The-Transformation-of-the-Web-How-Emerging-Communities-Shape-the-Information-We-Consume.pdf) and [Callahan et
   al. (2011)](https://homes.luddy.indiana.edu/herring/callahan.herring.2011.pdf) find that articles about locally famous people (“local heroes”) are written in
