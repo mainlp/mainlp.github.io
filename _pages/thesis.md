@@ -146,7 +146,7 @@ part consists of using these dictionaries to either 1) systematically investigat
 the linguistic dialect competence of pre-trained language models or 2)
 develop IR-specific resources (dialect stopword lists, dialect lemmatizers,
 dialect stemmers). This project does not need access to GPUs and is **suitable for BSc and MSc students.**
-- *Transfer or translate: how to better work with dialectal data*. Demands for
+- :hourglass_flowing_sand: *Transfer or translate: how to better work with dialectal data*. Demands for
 generalizing NLP pipelines to dialectal data are on the rise. Given current
 LLMs trained in hundreds of languages, there are two common approaches.
 The first approach is to translate (or normalize) dialectal data to its
@@ -344,7 +344,7 @@ not only contributes to linguistic and literary studies but also enhances our
 understanding of how humor reflects and adapts to cultural and linguistic shifts, as well
 as computational creativity, and the evolving role of AI in language generation. **Level:
 MSc.**
-- *Exploring variations in discourse structures across genres and frameworks*.
+- :hourglass_flowing_sand: *Exploring variations in discourse structures across genres and frameworks*.
 Discourse structure plays a pivotal role in understanding how texts convey meaning,
 organize information, and fulfill communicative goals. [The GUM corpus](https://gucorpling.org/gum/), with its
 annotations in both Rhetorical Structure Theory (RST) and the Penn Discourse
