@@ -104,7 +104,7 @@ depend on your background and skills as well as the degree (BSc vs. MSc).
 Additional references: [Gaman ea. 2020](https://aclanthology.org/2020.vardial-1.1/) and other VarDial shared task papers
 for literature on automatic dialect identification, [Nerbonne ea. 2021](https://www.let.rug.nl/nerbonne/papers/Nerbonne-etal-CompDial2020.pdf) and [Wieling & Nerbonne 2015](https://www.annualreviews.org/content/journals/10.1146/annurev-linguist-030514-124930) for introductions to dialectometry; [Madsen ea.
 2022](https://dl.acm.org/doi/pdf/10.1145/3546577) and [Barredo Arrieta ea. 2020](https://www.sciencedirect.com/science/article/pii/S1566253519308103) for overviews of interpretability methods. **Level: BSc or MSc.**
-- *Using LLMs for Slot and Intent Detection for Low-Resource Dialects*.
+- :hourglass_flowing_sand: *Using LLMs for Slot and Intent Detection for Low-Resource Dialects*.
 Digital assistants are becoming wide-spread, yet current technology covers
 only a limited set of languages. How can we best use LLMs or linguistic
 resources to improve slot and intent detection on low-resource language
