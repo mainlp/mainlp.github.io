@@ -324,7 +324,7 @@ datasets or integration of context, for example by modeling longer dialogue cont
 The exact project scope will be determined with the student. References: [Louis et al.,
 2020](https://aclanthology.org/2020.emnlp-main.601/), [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/) and [Sanagavarapu et al., 2022](https://aclanthology.org/2022.naacl-main.345/), [Yusupujiang &
 Ginzburg, 2023](https://aclanthology.org/2023.sigdial-1.30/), [Müller and Plank, 2024](https://aclanthology.org/2024.lrec-main.791/) **Level: MSc (preferred), BSc (possibly)**.
-- *Understanding Humor in “So Bad It’s Good”*. Humor is a complex and
+- :hourglass_flowing_sand: *Understanding Humor in “So Bad It’s Good”*. Humor is a complex and
 multifaceted phenomenon, deeply rooted in linguistic creativity, cultural context, and
 human cognition. Among its many forms, intentional “bad” writing—crafted to amuse
 through its exaggerated flaws—offers a unique lens to study humor mechanisms.
