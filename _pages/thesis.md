@@ -482,7 +482,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   to identify such instability situations and especially explore the reasons behind
   them. References: [Mizrahi et al.](https://aclanthology.org/2024.tacl-1.52/), [Shu et al.](https://aclanthology.org/2024.naacl-long.295/), [Zhao et al.](https://aclanthology.org/2024.findings-emnlp.412/)
   **Level: BSc or MSc**.
-- _Analyzing Conditional Acceptability in Large Language Models_. This project
+- :hourglass_flowing_sand: _Analyzing Conditional Acceptability in Large Language Models_. This project
   explores how large language models assess the truth and acceptability of conditional
   statements (If A, then B). In cognitive psychology, there is an ongoing debate
   regarding the criteria humans use to judge the acceptability of conditionals. For
