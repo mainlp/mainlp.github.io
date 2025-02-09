@@ -458,7 +458,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   this thesis, we will implement and evaluate new techniques for describing topic
   clusters in a more robust and human-understandable way. References:
   [BERTTopic](https://maartengr.github.io/BERTopic/index.html), [SCA](https://arxiv.org/abs/2410.21054), [c-TF-IDF](https://maartengr.github.io/BERTopic/api/ctfidf.html). **Level: BSc**.
-- _Controlling models through state space analysis and manipulation_. Recent
+- :hourglass_flowing_sand: _Controlling models through state space analysis and manipulation_. Recent
   developments in model interpretability, often labeled as mechanistic interpretability,
   have made it possible to get a better understanding of the internal behavior of LLMs.
   In this project, we want to go one step further and leverage these insights to better
