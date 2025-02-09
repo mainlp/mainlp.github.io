@@ -172,7 +172,7 @@ manner, starting from existing benchmarks but with the aim to go beyond
 them, systematically comparing LLMs with traditional fine-tuning approaches,
 and finding out when and why certain methods struggle. Techniques:
 In-depth Evaluation, LLMs, Fine-tuning, Behavioral Testing. **Level: MSc.**
-- *Lexical Dialect Information Retrieval*. Retrieving relevant documents
+- :hourglass_flowing_sand: *Lexical Dialect Information Retrieval*. Retrieving relevant documents
 across language boundaries has been a longstanding task in the IR
 community. In our recent work ([Litschko et al., 2025](https://arxiv.org/abs/2412.12806)), we focus on
 cross-dialect information retrieval (CDIR), where queries are written in
