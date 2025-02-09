@@ -438,7 +438,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
     where different explanations exist for the same label, to classify these
     explanations linguistically and observe the impact on LLM-generated label
     distributions.
-- _Understanding disagreement in human-generated scores_. Large collections of
+- :hourglass_flowing_sand: _Understanding disagreement in human-generated scores_. Large collections of
   human evaluations on a scale (e.g., how concrete word X is on a scale from 1 to 5)
   are crucial for modeling various linguistic phenomena (e.g., figurative language use).
   These collections typically report an average score derived from numerous
