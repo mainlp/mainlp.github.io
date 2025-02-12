@@ -167,6 +167,10 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
+    - name: Yupei Du
+      description: Visiting PhD student, Utrecht University
+      picture: yupei.jpg
+      website: https://yupei.nl/
 ---
 
 Welcome!
@@ -265,7 +269,6 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Zihang Sun (student assistant, 2023–2024)</li>
     <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
@@ -279,6 +282,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Alberto Muñoz-Ortiz (visiting PhD student, Universidade da Coruña, 2023)</li>
+    <li>Zihang Sun (student assistant, 2023–2024)</li>
     <li>Barbara Kovačić (student assistant, 2023–2024)</li>
     <li>Ivo S. Bueno Júnior (student assistant, 2023–2024)</li>
     <li>Yang Sun (student assistant, 2023–2024)</li>
