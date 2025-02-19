@@ -21,6 +21,7 @@ News:
 
 <!-- - 2024, Feb 26: Thank you all for your interest! We are closed for further thesis applications for the upcoming summer semester  -->
 
+- 2025, Feb 19: MSc thesis applications are closed. 
 - 2025, Jan 27: Updated projects and application deadlines posted
 - 2024, Sep 1: MSc/BSc project applications deadlines posted. See list of project below and how to apply <a href="#howtoapply">here</a>
 
@@ -117,7 +118,7 @@ or c) finding novel ways of evaluation like LLMs vs encoder-based models.
 Topics: Cross-linguality, Dataset annotation (particularly suited for students
 interested in covering their own language or dialect not yet covered by
 existing systems including local dialects), Evaluation. **Level: BSc or MSc.**
-- *Creating a dialectal dependency treebank or POS-tagged corpus*. Create
+- :hourglass_flowing_sand: *Creating a dialectal dependency treebank or POS-tagged corpus*. Create
 a small Universal Dependencies (UD; [de Marneffe et al. 2021](https://direct.mit.edu/coli/article/47/2/255/98516/Universal-Dependencies)) treebank in a
 dialect, regional language or other low-resource language that you are
 familiar with and for which no UD corpus exists yet. For a less time-intensive
@@ -215,7 +216,7 @@ Alternatively, the project could focus on career path prediction, the task of pr
 a person's next occupation based on their resume. [See references of MultiSkill
 project](https://mainlp.github.io/projects/#multiskill). See also [Bhola et al., 2020](https://aclanthology.org/2020.coling-main.513.pdf), [Gnehm et al. 2021](https://www.zora.uzh.ch/id/eprint/230653/1/2022.nlpcss_1.2.pdf), [our own ESCOXLM-R model](https://aclanthology.org/2023.acl-long.662.pdf)
 and the [Karrierewege dataset](https://arxiv.org/pdf/2412.14612). **Level: BSc or MSc.**
-- *Climate Change Insights through NLP*. Climate change is a pressing issue
+- :hourglass_flowing_sand: *Climate Change Insights through NLP*. Climate change is a pressing issue
 internationally that is receiving more and more attention everyday. It is influencing
 regulations and decision-making in various parts of society such as politics,
 agriculture, business, and it is discussed extensively on social media. For students
