@@ -100,9 +100,6 @@ support:
     - name: Oliver Kraus
       description: Scientific programmer (2024–)
       picture: mainlp-logo-500.png
-    - name: Anyi Wang
-      description: Student assistant (2024–)
-      picture: anyiwang.jpg
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
@@ -269,6 +266,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>Anyi Wang (student assistant, 2024–2025)</li>
     <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
