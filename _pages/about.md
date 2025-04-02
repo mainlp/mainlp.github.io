@@ -266,7 +266,6 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Anyi Wang (student assistant, 2024–2025)</li>
     <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
@@ -275,11 +274,15 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
+    <!-- visitors --> 
     <li>Sondre Wold (visiting PhD student, University of Oslo, 2024)</li>
     <li>Elena Lloret Pastor (visiting Professor, University of Alicante, 2024)</li>
     <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
     <li>Alberto Muñoz-Ortiz (visiting PhD student, Universidade da Coruña, 2023)</li>
+    <!-- student assistants --> 
+    <li>Huangyan Shan (student assistant, 2023–2025)</li>
+    <li>Anyi Wang (student assistant, 2024–2025)</li>
     <li>Zihang Sun (student assistant, 2023–2024)</li>
     <li>Barbara Kovačić (student assistant, 2023–2024)</li>
     <li>Ivo S. Bueno Júnior (student assistant, 2023–2024)</li>
