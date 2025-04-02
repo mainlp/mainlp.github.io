@@ -109,9 +109,6 @@ support:
     - name: Miriam Winkler
       description: Student assistant (2023–)
       picture: miriam.jpg
-    - name: Huangyan Shan
-      description: Student assistant (2023–)
-      picture: huangyan.jpg
 admin:
   title: Administrative Staff
   people:
