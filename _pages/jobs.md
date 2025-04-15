@@ -14,7 +14,7 @@ Join us at MaiNLP @ LMU Munich / CIS:
 - For ELLIS 2025 with MaiNLP as primary host, please also send your application to MCML.-->
 
 
-Currently we have no position openings. Inquiries are though always welcome, as the situation might change (we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:
+Currently we have no position openings. Inquiries are though always welcome, as the situation might change (for example, we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:
   
 We are always interested in hearing from interested candidates. 
 
