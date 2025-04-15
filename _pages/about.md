@@ -141,6 +141,10 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
+    - name: Domenico De Cristofaro
+      description: External co-supervised PhD student, Unibz
+      website: https://www.linkedin.com/in/domenico-de-cristofaro/
+      picture: mainlp-logo-500.png
     - name: Bolei Ma
       description: External co-supervised PhD student, LMU
       website: https://www.stat.lmu.de/soda/en/team/contact-page/bolei-ma-c9505de7.html
