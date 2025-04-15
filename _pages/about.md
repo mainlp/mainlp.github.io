@@ -242,7 +242,6 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
    <ul>
     <li>Ercong Nie (2022–2024)</li>
     <li>Zonggen Li (2023–2024)</li>
-    <li>Kaiwei Lei (2024-)</li>
     <li>Yurui Zhang (2024–)</li>
     <li>Pingjun Hong (2024–)</li>
     <li>Longfei Zuo (2024–)</li>
@@ -272,6 +271,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <!-- student assistants --> 
     <li>Huangyan Shan (student assistant, 2023–2025)</li>
     <li>Anyi Wang (student assistant, 2024–2025)</li>
+    <li>Kaiwei Lei (student assistant, 2024)</li>
     <li>Zihang Sun (student assistant, 2023–2024)</li>
     <li>Barbara Kovačić (student assistant, 2023–2024)</li>
     <li>Ivo S. Bueno Júnior (student assistant, 2023–2024)</li>
