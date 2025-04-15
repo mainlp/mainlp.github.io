@@ -165,10 +165,6 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
-    - name: Yupei Du
-      description: Visiting PhD student, Utrecht University
-      picture: yupei.jpg
-      website: https://yupei.nl/
 ---
 
 Welcome!
@@ -267,6 +263,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <!-- visitors --> 
+    <li><a href="https://yupei.nl/">Yupei Du</a> (visiting PhD student, Utrecht University, 2025)
     <li>Sondre Wold (visiting PhD student, University of Oslo, 2024)</li>
     <li>Elena Lloret Pastor (visiting Professor, University of Alicante, 2024)</li>
     <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano, 2024)</li>
