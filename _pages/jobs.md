@@ -9,12 +9,12 @@ nav_order: 2
 
 Join us at MaiNLP @ LMU Munich / CIS:
 
-PhD opportunities through MCML/ELLIS.
+<!-- PhD opportunities through MCML/ELLIS.
 - If you are interested in a PhD position at MaiNLP lab, we currently are open for applications through [MCML](https://www.portal.graduatecenter.lmu.de/ocgc/mcml).
-- For ELLIS 2025 with MaiNLP as primary host, please also send your application to MCML.
+- For ELLIS 2025 with MaiNLP as primary host, please also send your application to MCML.-->
 
 
-Open until filled (currently no position but inquiries are welcome):
+Currently we have no position openings. Inquiries are though always welcome, as the situation might change (we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:
   
 We are always interested in hearing from interested candidates. 
 
