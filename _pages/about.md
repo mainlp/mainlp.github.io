@@ -240,12 +240,13 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
-    <li>Ercong Nie (2022–2024)</li>
-    <li>Zonggen Li (2023–2024)</li>
+    <li>Ercong Nie (2022–)</li>
+    <li>Zonggen Li (2023–)</li>
     <li>Yurui Zhang (2024–)</li>
     <li>Pingjun Hong (2024–)</li>
     <li>Longfei Zuo (2024–)</li>
     <li>Yuchen Mao (2024–)</li>
+    <li>Darja Jepifanova (2025-)</li>
   </ul>
   
   <h2 class="category">You?</h2>
