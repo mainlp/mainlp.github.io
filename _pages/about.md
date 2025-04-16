@@ -153,7 +153,7 @@ affiliated:
       description: External co-supervised PhD student, LMU
       website: https://shengqiang-zhang.github.io/
       picture: shengqiang.jpg
-    - name: Patrick Schwabl
+    - name: Patrick Parschan
       description: External mentored PhD student, Department of Media and Communication, LMU Munich
       website: https://patschw.github.io/
       picture: patrick.jpg
