@@ -275,7 +275,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Kaiwei Lei (student assistant, 2024)</li>
     <li>Zihang Sun (student assistant, 2023–2024)</li>
     <li>Barbara Kovačić (student assistant, 2023–2024)</li>
-    <li>Ivo S. Bueno Júnior (student assistant, 2023–2024)</li>
+    <li><a href="https://www.edu.sot.tum.de/en/hctl/team/phd-researchers/ivo-de-souza-bueno-junior/">Ivo S. Bueno Júnior</a> (student assistant, 2023–2024, now PhD student at TUM)</li>
     <li>Yang Sun (student assistant, 2023–2024)</li>
     <li>Marie Kolm (student assistant, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2022–2023)</li>
