@@ -11,5 +11,5 @@ roomfinder: https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001225_
 img: assets/img/marine-carpuat.jpg
 imgalt: Portrait of Marine Carpuat
 imgside: right
-anchor: 2024-01-28-marine-carpuat
+anchor: 2025-01-28-marine-carpuat
 ---
