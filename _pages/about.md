@@ -144,7 +144,7 @@ affiliated:
     - name: Iacer Calixto
       description: Assistant Professor, Amsterdam UMC, University of Amsterdam (UvA), co-supervisor
       website: https://nlp4health-lab.github.io/
-      picture: https://nlp4health-lab.github.io/assets/img/team_icalixto_600x450px.jpg
+      picture: mainlp-logo-500.png
     - name: Saif M. Mohammad
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
