@@ -134,21 +134,32 @@ affiliated:
       website: https://wilkeraziz.github.io/
       picture: wilker.png
     - name: Anna Korhonen
-      description: Full professor at University of Cambridge, co-supervisor
+      description: Full Professor at University of Cambridge, co-supervisor
       website: https://sites.google.com/site/annakorhonen/
       picture: annak.jpg
+    - name: Alessandro Vietti
+      description: Associate Professor, Free University of Bozen-Bolzano, co-supervisor
+      website: https://sites.google.com/site/avietti/home
+      picture: mainlp-logo-500.png
+    - name: Iacer Calixto
+      description: Assistant Professor, Amsterdam UMC, University of Amsterdam (UvA), co-supervisor
+      website: https://nlp4health-lab.github.io/
+      picture: https://nlp4health-lab.github.io/assets/img/team_icalixto_600x450px.jpg
     - name: Saif M. Mohammad
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
     - name: Domenico De Cristofaro
-      description: External co-supervised PhD student, Unibz
+      description: External co-supervised PhD student, Free University of Bozen-Bolzano
       website: https://www.linkedin.com/in/domenico-de-cristofaro/
       picture: mainlp-logo-500.png
     - name: Bolei Ma
       description: External co-supervised PhD student, LMU
       website: https://www.stat.lmu.de/soda/en/team/contact-page/bolei-ma-c9505de7.html
       picture: bolei.png
+    - name: Arnisa Fazla
+      description: External co-supervised PhD student, Amsterdam UMC, University of Amsterdam (UvA)
+      picture: mainlp-logo-500.png
     - name: Shengqiang Zhang
       description: External co-supervised PhD student, LMU
       website: https://shengqiang-zhang.github.io/
@@ -165,6 +176,9 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
+    - name: Anne-Marie Lutgen
+      description: Visiting PhD, Luxembourg University (2025)
+      picture: mainlp-logo-500.png
 ---
 
 Welcome!
