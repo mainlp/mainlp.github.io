@@ -193,6 +193,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>May 2025: We are co-organizing the <a href="https://sites.google.com/view/nlpor2025">First Workshop on Bridging NLP and Public Opinion Research (NLPOR)</a> at COLM 2025 in Montreal, October 10, 2025</li>
     <li>May 3, 2025: Verena gives a <a href="https://noisy-text.github.io/2025/">keynote at the WNUT workshop at NAACL 2025</a> (10th Workshop on Noisy and User-generated Text)  in Albuquerque</li>
     <li>Jan 29, 2025: Barbara gives the <a href="https://www.ai-news.lmu.de/grand-opening-ai-hub">keynote lecture on "Foundations of AI"  at the LMU grand AI-HUB opening</a> in Munich</li>
     <li>Jan 19, 2025: Barbara gives a <a href="https://comedinlp.github.io/">keynote at the CoMeDi workshop at COLING 2025</a> (Context and Meaning—Navigating Disagreements in NLP Annotations) in Abu Dhabi</li>
