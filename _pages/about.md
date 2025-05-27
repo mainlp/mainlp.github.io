@@ -179,6 +179,7 @@ affiliated:
     - name: Anne-Marie Lutgen
       description: Visiting PhD, Luxembourg University (2025)
       picture: mainlp-logo-500.png
+      website: https://www.uni.lu/fhse-en/people/anne-marie-lutgen/
 ---
 
 Welcome!
