@@ -46,6 +46,9 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Leah Michel
+      description: External PhD student (2025–), Siemens
+      picture: mainlp-logo-500.png
     - name: Raoyuan Zhao
       description: PhD student (2024–)
       website: https://www.cis.uni-muenchen.de/personen/mitarbeiter/rzhao/index.html
