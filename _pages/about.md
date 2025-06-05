@@ -48,6 +48,7 @@ staff:
       picture: robert.png
     - name: Leah Michel
       description: External PhD student (2025–), Siemens
+      website: # 
       picture: leah.png
     - name: Raoyuan Zhao
       description: PhD student (2024–)
@@ -179,10 +180,10 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
-    - name: Anne-Marie Lutgen
-      description: Visiting PhD, Luxembourg University (2025)
+    - name: Walter Paci 
+      description: Visiting PhD, Università degli Studi di Firenze (2025)
       picture: mainlp-logo-500.png
-      website: https://www.uni.lu/fhse-en/people/anne-marie-lutgen/
+      website: #
 ---
 
 Welcome!
@@ -283,6 +284,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <!-- visitors --> 
+    <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
     <li><a href="https://yupei.nl/">Yupei Du</a> (visiting PhD student, Utrecht University, 2025)</li>
     <li>Sondre Wold (visiting PhD student, University of Oslo, 2024)</li>
     <li>Elena Lloret Pastor (visiting Professor, University of Alicante, 2024)</li>
