@@ -33,7 +33,7 @@ staff:
     - name: Silvia Casola
       description: Postdoc (2024–)
       website: https://scholar.google.it/citations?user=h6Nw1QIAAAAJ
-      picture: mainlp-logo-500.png
+      picture: silvia.jpeg
     - name: Yang Janet Liu
       description: Postdoc (2024–)
       website: https://janetlauyeung.github.io/
