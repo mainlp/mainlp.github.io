@@ -21,10 +21,7 @@ News:
 
 <!-- - 2024, Feb 26: Thank you all for your interest! We are closed for further thesis applications for the upcoming summer semester  -->
 
-- 2025, Feb 24: BSc thesis applications are closed. 
-- 2025, Feb 19: MSc thesis applications are closed. 
-- 2025, Jan 27: Updated projects and application deadlines posted
-- 2024, Sep 1: MSc/BSc project applications deadlines posted. See list of project below and how to apply <a href="#howtoapply">here</a>
+- 2025, June 22: MSc/BSc project applications deadlines posted. See list of project below and how to apply <a href="#howtoapply">here</a>
 
 Legend:
 
@@ -42,10 +39,17 @@ Legend:
 - BSc students apply before **September 14, 2024**
 -->
 
-Deadlines for the summer semester 2025:
+<!--Deadlines for the summer semester 2025:
 
 - MSc students apply before **Monday February 10, 2025**
 - BSc students apply before **Monday February 24, 2025**
+-->
+
+Deadlines for the winter semester 2025-2026:
+
+- MSc students apply before **September 1, 2025**
+- BSc students apply before **September 14, 2025**
+
 
 <!--
 
@@ -106,6 +110,7 @@ depend on your background and skills as well as the degree (BSc vs. MSc).
 Additional references: [Gaman ea. 2020](https://aclanthology.org/2020.vardial-1.1/) and other VarDial shared task papers
 for literature on automatic dialect identification, [Nerbonne ea. 2021](https://www.let.rug.nl/nerbonne/papers/Nerbonne-etal-CompDial2020.pdf) and [Wieling & Nerbonne 2015](https://www.annualreviews.org/content/journals/10.1146/annurev-linguist-030514-124930) for introductions to dialectometry; [Madsen ea.
 2022](https://dl.acm.org/doi/pdf/10.1145/3546577) and [Barredo Arrieta ea. 2020](https://www.sciencedirect.com/science/article/pii/S1566253519308103) for overviews of interpretability methods. **Level: BSc or MSc.**
+<!--
 - :hourglass_flowing_sand: *Using LLMs for Slot and Intent Detection for Low-Resource Dialects*.
 Digital assistants are becoming wide-spread, yet current technology covers
 only a limited set of languages. How can we best use LLMs or linguistic
@@ -148,7 +153,18 @@ part consists of using these dictionaries to either 1) systematically investigat
 the linguistic dialect competence of pre-trained language models or 2)
 develop IR-specific resources (dialect stopword lists, dialect lemmatizers,
 dialect stemmers). This project does not need access to GPUs and is **suitable for BSc and MSc students.**
-- :hourglass_flowing_sand: *Transfer or translate: how to better work with dialectal data*. Demands for
+-->
+
+- *To What Degree do LLMs Understand Bavarian Dialect Variants?* In this
+project, we aim to comprehensively evaluate existing multilingual and
+German LLMs on Bavarian dialect variants. Your task is to come up with a
+set of evaluation criteria to test existing LLMs in zero-shot and few-shot
+manner, starting from existing benchmarks but with the aim to go beyond
+them, systematically comparing LLMs with traditional fine-tuning approaches,
+and finding out when and why certain methods struggle. Techniques:
+In-depth Evaluation, LLMs, Fine-tuning, Behavioral Testing. **Level: MSc.**
+
+- *Transfer or translate: how to better work with dialectal data*. Demands for
 generalizing NLP pipelines to dialectal data are on the rise. Given current
 LLMs trained in hundreds of languages, there are two common approaches.
 The first approach is to translate (or normalize) dialectal data to its
@@ -166,15 +182,9 @@ quantitatively, and conduct a qualitative error analysis on the difficult cases.
 For MSc, the research needs to scale up either to multiple dialects (in the
 same or across different language families) or to multiple NLP tasks. **Level:
 BSc or MSc.**
-- :hourglass_flowing_sand: *To What Degree do LLMs Understand Bavarian Dialect Variants?* In this
-project, we aim to comprehensively evaluate existing multilingual and
-German LLMs on Bavarian dialect variants. Your task is to come up with a
-set of evaluation criteria to test existing LLMs in zero-shot and few-shot
-manner, starting from existing benchmarks but with the aim to go beyond
-them, systematically comparing LLMs with traditional fine-tuning approaches,
-and finding out when and why certain methods struggle. Techniques:
-In-depth Evaluation, LLMs, Fine-tuning, Behavioral Testing. **Level: MSc.**
-- :hourglass_flowing_sand: *Lexical Dialect Information Retrieval*. Retrieving relevant documents
+
+<!-- 
+- *Lexical Dialect Information Retrieval*. Retrieving relevant documents
 across language boundaries has been a longstanding task in the IR
 community. In our recent work ([Litschko et al., 2025](https://arxiv.org/abs/2412.12806)), we focus on
 cross-dialect information retrieval (CDIR), where queries are written in
@@ -192,7 +202,7 @@ possible here:
       as dialect translation models. **Suitable for B.Sc. students.**
   3. Extend CDIR to multi-dialect retrieval, where the corpus
       contains documents in different dialects. The goal of this topic is to investigate weak vs. strong alignment of IR models ([Roy et al., 2020](https://aclanthology.org/2020.emnlp-main.477/) with respect to dialects. **Suitable for B.Sc. and M.Sc. students.**
-
+-->
 " | markdownify }}
 
   </div>
@@ -204,7 +214,7 @@ possible here:
   </div>
   <div class="accordion-content">
     {{ "### **Selected Research Projects**
-- :hourglass_flowing_sand: *NLP for Job Market Analysis*. Job postings are a rich resource to understand the
+- *NLP for Job Market Analysis*. Job postings are a rich resource to understand the
 dynamics of the labor market including which skills are demanded, which is also
 important from an educational viewpoint. Recently, the emerging line of work on
 computational job market analysis or NLP for human resources has started to
@@ -217,7 +227,7 @@ Alternatively, the project could focus on career path prediction, the task of pr
 a person's next occupation based on their resume. [See references of MultiSkill
 project](https://mainlp.github.io/projects/#multiskill). See also [Bhola et al., 2020](https://aclanthology.org/2020.coling-main.513.pdf), [Gnehm et al. 2021](https://www.zora.uzh.ch/id/eprint/230653/1/2022.nlpcss_1.2.pdf), [our own ESCOXLM-R model](https://aclanthology.org/2023.acl-long.662.pdf)
 and the [Karrierewege dataset](https://arxiv.org/pdf/2412.14612). **Level: BSc or MSc.**
-- :hourglass_flowing_sand: *Climate Change Insights through NLP*. Climate change is a pressing issue
+- *Climate Change Insights through NLP*. Climate change is a pressing issue
 internationally that is receiving more and more attention everyday. It is influencing
 regulations and decision-making in various parts of society such as politics,
 agriculture, business, and it is discussed extensively on social media. For students
@@ -227,7 +237,7 @@ media data. The data will have to be collected (potentially from existing source
 cleaned, and analyzed using NLP techniques to examine various aspects or features
 of interest such as stance, sentiment, the extraction of key players, etc. References:
 [Luo et al., 2020](https://aclanthology.org/2020.findings-emnlp.296v2.pdf), [Stede & Patz, 2021](https://aclanthology.org/2021.nlp4posimpact-1.2.pdf), [Vaid et al., 2022](https://aclanthology.org/2022.acl-srw.35.pdf). **Level: BSc or MSc**.
-- :hourglass_flowing_sand:  *Better Benchmarks / Mining for Errors in Annotated Datasets*. Benchmark
+-  *Better Benchmarks / Mining for Errors in Annotated Datasets*. Benchmark
 datasets are essential in empirical research, but even widely-used annotated
 datasets contain mistakes, as annotators inevitably make mistakes (e.g. annotation
 inconsistencies). There are several lines of work in this direction. On the one side,
@@ -268,7 +278,7 @@ of projects on this theme can be:
   interpretation and generalization ; and (2) transitioning to datasets with extensive
   annotations and labels could mitigate the adverse effects of removing noisy labels,
   resulting in a smoother and more reliable label distribution.
-- :hourglass_flowing_sand:  *Error Analysis of a BERT-based Search Engine*. Multi-stage ranking has become
+-  *Error Analysis of a BERT-based Search Engine*. Multi-stage ranking has become
 a popular paradigm in information retrieval, this approach a fast first-stage ranker
 generates a candidate set of documents followed by a much slower re-ranker to
 refine the ranking ([Nogueira et al. 2019](https://arxiv.org/abs/1910.14424)). Prior work has shown that better candidate
@@ -293,7 +303,7 @@ lexical signals (and combinations thereof) including, e.g., TF-IDF and QLM (redu
 scope, BSc) and semantic signals obtained from semantic similarity models or LLMs
 (full scope, MSc). This thesis is suitable for students who do not have access to large
 GPUs. **Level: BSc or MSc**.
-- :hourglass_flowing_sand: *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
+<!-- - *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
 ubiquitously in virtually all areas of NLP. This includes information retrieval (IR),
 where LLMs are used to, e.g., judge query-document pairs to predict relevance (see
 Fig. 6 in [Yutao et al. (2023)](https://arxiv.org/pdf/2308.07107)). In the context of cross-lingual IR (CLIR), we previously
@@ -305,6 +315,7 @@ The focus of this thesis is to (a) explore whether LLMs also suffer from monolin
 overfitting and (b) if replacing random tokens with their translations improve their
 CLIR performance. This question can be investigated through the lens of prompt
 engineering, in-context L2R or instruction-tuned LLMs. **Level: MSc.**
+    -->
 " | markdownify }}
 
   </div>
@@ -316,7 +327,7 @@ engineering, in-context L2R or instruction-tuned LLMs. **Level: MSc.**
   </div>
   <div class="accordion-content">
     {{ "### **Selected Research Projects**
-- :hourglass_flowing_sand: *Understanding Indirectness*. Indirectness involves for example indirect answers
+- *Understanding Indirectness*. Indirectness involves for example indirect answers
 to requests that do not explicitly contain answer clues like Yes, yeah or no. Example:
 Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect
 answers are natural in human dialogue, but very difficult for a conversational AI
@@ -326,66 +337,8 @@ datasets or integration of context, for example by modeling longer dialogue cont
 The exact project scope will be determined with the student. References: [Louis et al.,
 2020](https://aclanthology.org/2020.emnlp-main.601/), [Damgaard et al., 2021](https://aclanthology.org/2021.codi-main.1/) and [Sanagavarapu et al., 2022](https://aclanthology.org/2022.naacl-main.345/), [Yusupujiang &
 Ginzburg, 2023](https://aclanthology.org/2023.sigdial-1.30/), [Müller and Plank, 2024](https://aclanthology.org/2024.lrec-main.791/) **Level: MSc (preferred), BSc (possibly)**.
-- :hourglass_flowing_sand: *Understanding Humor in “So Bad It’s Good”*. Humor is a complex and
-multifaceted phenomenon, deeply rooted in linguistic creativity, cultural context, and
-human cognition. Among its many forms, intentional “bad” writing—crafted to amuse
-through its exaggerated flaws—offers a unique lens to study humor mechanisms.
-The [Bulwer-Lytton Fiction Contest (BLFC)](https://www.bulwer-lytton.com/about) is an annual competition challenging
-participants to compose humorously terrible opening sentences for fictional works
-([The Lyttle Lytton Contest](https://adamcadre.ac/lyttle/) conveys the similar idea but limits entrants to 25 words).
-Despite its lighthearted premise, the BLFC contest provides a rich corpus for
-exploring how linguistic, narrative, and cultural factors converge to produce humor. In
-the meantime, with the prevalent use of large language models (LLMs) and its
-capability of generating (more or less) creative text (e.g. [Chakrabarty et al., CHI
-2024](https://dl.acm.org/doi/10.1145/3613904.3642731), [Chen & Ding, EMNLP-findings, 2023](https://aclanthology.org/2023.findings-emnlp.858/)), a comparative study between human-
-and LLM-generated entrants also adds a novel dimension to this exploration ([Horvitz
-et al., ACL 2024](https://aclanthology.org/2024.acl-short.76/), [Baranov et al., EMNLP 2023](https://aclanthology.org/2023.emnlp-main.845/)). By combining computational analysis of linguistic patterns, qualitative
-examination of narrative techniques, and (potentially) audience perception studies, this
-thesis aims to provide insights into humor’s underlying mechanisms. This thesis project
-not only contributes to linguistic and literary studies but also enhances our
-understanding of how humor reflects and adapts to cultural and linguistic shifts, as well
-as computational creativity, and the evolving role of AI in language generation. **Level:
-MSc.**
-- :hourglass_flowing_sand: *Exploring variations in discourse structures across genres and frameworks*.
-Discourse structure plays a pivotal role in understanding how texts convey meaning,
-organize information, and fulfill communicative goals. [The GUM corpus](https://gucorpling.org/gum/), with its
-annotations in both Rhetorical Structure Theory (RST) and the Penn Discourse
-Treebank (PDTB) frameworks, presents a unique opportunity to examine how
-rhetorical relations vary across genres and frameworks. This thesis proposes a
-comprehensive investigation into the interplay between genre-specific discourse
-strategies and the theoretical underpinnings of these annotation frameworks.
-Through a combination of quantitative and qualitative analyses, this research will
-contribute to a deeper understanding of genre-dependent discourse patterns,
-provide insights into the compatibility and limitations of RST and PDTB, and inform
-the design of discourse-aware NLP systems that are robust across genres. For a
-Master’s thesis project, the project should also involve an investigation of
-incorporating genre-specific discourse patterns into a downstream task (e.g.,
-summarization or question answering) to see if performance can be improved. **Level:
-BSc or MSc**.
-- *Evaluating extractive summarization with discourse features across genres*.
-Rhetorical Structure Theory, or RST, which models texts hierarchically through
-rhetorical relations between Elementary Discourse Units (EDUs), offers a
-theoretically grounded method for identifying central discourse units (CDUs) that
-represent the gist of a document. This discourse-driven perspective could provide
-valuable insights for improving summarization techniques. However, CDUs are not
-always synonymous with effective summaries. CDUs may not encapsulate the most
-crucial content for all text genres or align with human intuitions of summary quality.
-Genre effects—variations in rhetorical structures across text types—further
-complicate the relationship between CDUs and summary efficacy. While prior work
-(e.g., [Li et al., SIGDIAL 2016](https://aclanthology.org/W16-3617/); [Xu et al., ACL 2020](https://aclanthology.org/2020.acl-main.451/); [Hewett & Stede, COLING 2022](https://aclanthology.org/2022.coling-1.63/))
-has demonstrated the utility of discourse structures for extractive or near-extractive
-summarization, the specific potential of CDUs and their interaction with other salient
-textual elements remains underexplored. This proposed thesis project addresses this
-gap by evaluating the summarization quality of CDUs, their containing sentences,
-and other salient units (e.g., sentences with different salience values) across multiple
-genres. For a MSc’s level project, this thesis project is also expected to
-systematically assess how RST-informed approaches compare to traditional
-summarization methods and explore criteria that integrate discourse-level insights.
-(For instance, [Hewett & Stede (2022)](https://aclanthology.org/2022.coling-1.63/) conducted experiments and analyses on a
-German RST news dataset and showed that RST features (in particular nuclearity
-and relations at the sentence-level) are informative, and they were able to transfer
-these findings to various automated summarisation models.) **Level: BSc or MSc**.
-- :hourglass_flowing_sand:  *Improving Automatic Text Simplification through Elaboration and Personalization*.
+
+- *Improving Automatic Text Simplification through Elaboration and Personalization*.
 Automatic Text Simplification (ATS) aims to make complex texts more
 understandable for different audiences, often by simplifying vocabulary and sentence
 structures. However, research has shown that effective simplification often requires
@@ -412,7 +365,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
 
 ### **Selected research projects**
 
-- :hourglass_flowing_sand: _In-context learning from human preference disagreement_. Aggregating
+-  _In-context learning from human preference disagreement_. Aggregating
   annotations via majority vote could lead to ignoring the opinions of minority groups.
   Learning from individual annotators shows a better result on classification tasks such
   as hate speech detection, emotion detection and natural language inference than
@@ -422,7 +375,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   preference datasets. How can the model learn from the disagreement in the
   preference data in context? References: [Davani et al., 2022](https://aclanthology.org/2022.tacl-1.6/), [Chen et al.,2024](https://arxiv.org/pdf/2406.17600),
   [Zhang et al., 2024](https://arxiv.org/abs/2410.14632). **Level: MSc**.
-- :hourglass_flowing_sand:  _Enhancing NLI Label Modeling with LLM-Generated Explanations: Annotation,
+-  _Enhancing NLI Label Modeling with LLM-Generated Explanations: Annotation,
   Multilinguality, and Linguistic Perspectives_. Recent studies ([Chen et al., 2024a](https://aclanthology.org/2024.findings-emnlp.842/); [Chen
   et al., 2024b](https://arxiv.org/abs/2412.13942)) suggest that using human or LLM-generated explanations can help
   LLMs better model human label distributions in Natural Language Inference (NLI).
@@ -440,7 +393,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
     where different explanations exist for the same label, to classify these
     explanations linguistically and observe the impact on LLM-generated label
     distributions.
-- :hourglass_flowing_sand: _Understanding disagreement in human-generated scores_. Large collections of
+-  _Understanding disagreement in human-generated scores_. Large collections of
   human evaluations on a scale (e.g., how concrete word X is on a scale from 1 to 5)
   are crucial for modeling various linguistic phenomena (e.g., figurative language use).
   These collections typically report an average score derived from numerous
@@ -452,7 +405,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   cognitive aspects (for instance, emotional connotations). This study will build on the
   existing work by [Knupleš et al. (2023)](https://aclanthology.org/2023.conll-1.6/). Expected skills: regression analysis, cluster
   analysis, data visualization. **Level: MSc**.
-- :hourglass_flowing_sand:  _Human-understandable descriptions of topic clusters_. Topic modelling is a core
+-  _Human-understandable descriptions of topic clusters_. Topic modelling is a core
   tool of fields like digital humanities and computational social sciences and recent
   developments like BERTTopic and SCA have made it possible to leverage word
   embeddings to find topics. These topic clusters are, however, difficult to analyse and
@@ -460,7 +413,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   this thesis, we will implement and evaluate new techniques for describing topic
   clusters in a more robust and human-understandable way. References:
   [BERTTopic](https://maartengr.github.io/BERTopic/index.html), [SCA](https://arxiv.org/abs/2410.21054), [c-TF-IDF](https://maartengr.github.io/BERTopic/api/ctfidf.html). **Level: BSc**.
-- :hourglass_flowing_sand: _Controlling models through state space analysis and manipulation_. Recent
+- _Controlling models through state space analysis and manipulation_. Recent
   developments in model interpretability, often labeled as mechanistic interpretability,
   have made it possible to get a better understanding of the internal behavior of LLMs.
   In this project, we want to go one step further and leverage these insights to better
@@ -478,13 +431,13 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   and evaluate if grokking helps to better understand the learning processes of modern
   deep language models. References: [Power et al.](https://arxiv.org/abs/2201.02177), [Huang et al.](https://arxiv.org/abs/2402.15175), [Hupkes et al.](https://arxiv.org/abs/1908.08351v2) **Level:
   MSc**
-- :hourglass_flowing_sand: _Understanding prompt instability_. It has been shown that LLMs are very unstable
+-  _Understanding prompt instability_. It has been shown that LLMs are very unstable
   with regard to the prompts and even a small change like an inserted space or
   misspelled word can drastically change the generated output. In this project, we want
   to identify such instability situations and especially explore the reasons behind
   them. References: [Mizrahi et al.](https://aclanthology.org/2024.tacl-1.52/), [Shu et al.](https://aclanthology.org/2024.naacl-long.295/), [Zhao et al.](https://aclanthology.org/2024.findings-emnlp.412/)
   **Level: BSc or MSc**.
-- :hourglass_flowing_sand: _Analyzing Conditional Acceptability in Large Language Models_. This project
+<!-- -  _Analyzing Conditional Acceptability in Large Language Models_. This project
   explores how large language models assess the truth and acceptability of conditional
   statements (If A, then B). In cognitive psychology, there is an ongoing debate
   regarding the criteria humans use to judge the acceptability of conditionals. For
@@ -501,6 +454,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   human cognitive patterns and identify opportunities to improve their processing of
   conditional logic.
   **Level: BSc or MSc**
+  --> 
 - _Unveiling the Mechanisms of Soft Prompt Tuning in Cross-Lingual Transfer: An
   Interpretability-Driven Study_. This research aims to investigate why Soft Prompt
   Tuning (SPT) outperforms full-parameter fine-tuning (FT) in cross-lingual transfer
@@ -544,7 +498,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   A student project could involve investigating under which circumstances and for which NLP tasks gaze data can be beneficial, or whether we can achieve the same effect with artificially synthesized gaze data.
   References: [Hollenstein et al. (2019)](https://arxiv.org/abs/1904.02682), [Sood et al. (2020)](https://proceedings.neurips.cc/paper/2020/hash/460191c72f67e90150a093b4585e7eb4-Abstract.html), [Khurana et al. (2023)](https://aclanthology.org/2023.eacl-main.139/), [Bolliger et al. (2023)](https://aclanthology.org/2023.emnlp-main.960/).
   **Level: MSc**
-- :hourglass_flowing_sand: _Investigating Information Asymmetry on Wikipedia_. Information asymmetry (IA)
+-  _Investigating Information Asymmetry on Wikipedia_. Information asymmetry (IA)
   refers to the fact that the volume and type of information on the web varies between
   languages. For example, prior work by [Kolbitsch and Maurer (2006)](https://www.researchgate.net/profile/Josef-Kolbitsch/publication/200772707_The_Transformation_of_the_Web_How_Emerging_Communities_Shape_the_Information_We_Consume/links/00b7d52453fcba84d3000000/The-Transformation-of-the-Web-How-Emerging-Communities-Shape-the-Information-We-Consume.pdf) and [Callahan et
   al. (2011)](https://homes.luddy.indiana.edu/herring/callahan.herring.2011.pdf) find that articles about locally famous people (“local heroes”) are written in
