@@ -288,7 +288,7 @@ analysis of linguistic triggers that cause this behavior. In the second part, th
 to apply and interpret automatically generated explanations from tools such as
 DeepSHAP ([Fernando et al. 2019](https://arxiv.org/abs/1907.06484)) and LIME ([Riberio et al. 2016](https://arxiv.org/abs/1907.06484)). Basic knowledge
 in information retrieval is helpful, but not required. **Level: B.Sc**.
-- :hourglass_flowing_sand:  *Injecting Lexical Similarity Signals into Neural Information Retrieval (IR) Models*.
+- *Injecting Lexical Similarity Signals into Neural Information Retrieval (IR) Models*.
 Early IR models rely on lexical signals (keyword matches) such as BM25, TF-IDF
 and the Query Likelihood Model (QLM) between queries and documents to
 determine their relevance. For a long time lexical retrieval models performed still very
