@@ -198,7 +198,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
-    <li>June 24 and 26, 2025: Felicia gives three workshops on AI for second- and third-grade students, organized with the Munich Center for Machine Learning and Gemeinde Bücherei Eching</a></li>
+    <li>June 24 and 26, 2025: Felicia gives three workshops on AI for second- and third-grade students, organized with the Munich Center for Machine Learning and Gemeinde Bücherei Eching</li>
     <li>May 27, 2025: Janet gives a <a href="https://www.cl.uni-heidelberg.de/english/colloquium/cl_colloquium/index.mhtml">talk at the Computational Linguistics Colloquium of the Heidelberg Institute for Theoretical Studies</a></li>
     <li>May 2025: We are co-organizing the <a href="https://sites.google.com/view/nlpor2025">First Workshop on Bridging NLP and Public Opinion Research (NLPOR)</a> at COLM 2025 in Montreal, October 10, 2025</li>
     <li>May 3, 2025: Verena gives a <a href="https://noisy-text.github.io/2025/">keynote at the WNUT workshop at NAACL 2025</a> (10th Workshop on Noisy and User-generated Text)  in Albuquerque</li>
