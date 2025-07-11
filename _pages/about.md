@@ -198,6 +198,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>July 3, 2025: Barbara gives an invited <a href="https://uni-freiburg.de/hpcl-de/hermann-paul-vorlesungen/">Hermann-Paul lecture</a> at the Center for Advanced Studies in Freiburg (FRIAS)</li>
     <li>June 24 and 26, 2025: Felicia gives three workshops on AI for second- and third-grade students, organized with the Munich Center for Machine Learning and Gemeinde Bücherei Eching</li>
     <li>May 27, 2025: Janet gives a <a href="https://www.cl.uni-heidelberg.de/english/colloquium/cl_colloquium/index.mhtml">talk at the Computational Linguistics Colloquium of the Heidelberg Institute for Theoretical Studies</a></li>
     <li>May 2025: We are co-organizing the <a href="https://sites.google.com/view/nlpor2025">First Workshop on Bridging NLP and Public Opinion Research (NLPOR)</a> at COLM 2025 in Montreal, October 10, 2025</li>
