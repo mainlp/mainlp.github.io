@@ -285,14 +285,6 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
-    <!-- visitors --> 
-    <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
-    <li><a href="https://yupei.nl/">Yupei Du</a> (visiting PhD student, Utrecht University, 2025)</li>
-    <li>Sondre Wold (visiting PhD student, University of Oslo, 2024)</li>
-    <li>Elena Lloret Pastor (visiting Professor, University of Alicante, 2024)</li>
-    <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano, 2024)</li>
-    <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
-    <li>Alberto Muñoz-Ortiz (visiting PhD student, Universidade da Coruña, 2023)</li>
     <!-- student assistants --> 
     <li>Huangyan Shan (student assistant, 2023–2025)</li>
     <li>Anyi Wang (student assistant, 2024–2025)</li>
@@ -307,7 +299,18 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Anna Barwig (student assistant, 2022–2023)</li>
     <li>Chaeeun Lee (student assistant, 2022–2023)</li>
   </ul>
-
+  
+  <h2 class="category">MaiNLP alumni visitors</h2>
+  <ul>
+     <!-- visitors --> 
+    <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
+    <li><a href="https://yupei.nl/">Yupei Du</a> (visiting PhD student, Utrecht University, 2025)</li>
+    <li>Sondre Wold (visiting PhD student, University of Oslo, 2024)</li>
+    <li>Elena Lloret Pastor (visiting Professor, University of Alicante, 2024)</li>
+    <li>Kassem Sabeh (visiting PhD student, Free University of Bozen-Bolzano, 2024)</li>
+    <li>Simone Ciciliano (visiting MA student, Free University of Bozen-Bolzano, 2024)</li>
+    <li>Alberto Muñoz-Ortiz (visiting PhD student, Universidade da Coruña, 2023)</li>
+  </ul>
   <h2 class="category">MaiNLP resources and code</h2>
   You can find resources (data, code, repositories) released by MaiNLP lab members <a href="https://github.com/mainlp/">on our github page</a> and <a href="https://huggingface.co/mainlp">on our huggingface page</a>
 
