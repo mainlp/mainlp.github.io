@@ -113,6 +113,9 @@ support:
     - name: Miriam Winkler
       description: Student assistant (2023–)
       picture: miriam.jpg
+    - name: Xinyuan Cheng
+      description: Student assistant (2025–)
+      picture: mainlp-logo-500.png
 admin:
   title: Administrative Staff
   people:
@@ -172,10 +175,6 @@ affiliated:
       description: External mentored PhD student, Department of Media and Communication, LMU Munich
       website: https://patschw.github.io/
       picture: patrick.jpg
-    - name: Shanshan Xu
-      description: External mentored PhD student, Legal Tech group, Technical University of Munich
-      website: https://sxu3.github.io/
-      picture: shanshan.jpeg
     - name: Cornelia Gruber
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
@@ -277,6 +276,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023-2025), now postdoc at University of Copenhagen</li>
     <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
