@@ -107,9 +107,6 @@ support:
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
-    - name: Chengzhi Hu
-      description: Student assistant (2023–)
-      picture: chengzhi.png
     - name: Miriam Winkler
       description: Student assistant (2023–)
       picture: miriam.jpg
@@ -262,12 +259,8 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
-    <li>Ercong Nie (2022–)</li>
-    <li>Zonggen Li (2023–)</li>
     <li>Yurui Zhang (2024–)</li>
-    <li>Pingjun Hong (2024–)</li>
     <li>Longfei Zuo (2024–)</li>
-    <li>Yuchen Mao (2024–)</li>
     <li>Darja Jepifanova (2025-)</li>
   </ul>
   
@@ -286,6 +279,11 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <!-- student assistants --> 
+    <li>Ercong Nie (student assistant, 2022–2025)</li>
+    <li>Chengzhi Hu (student assistant, 2023-2025), now PhD student at TUM</li>
+    <li>Zonggen Li (2023–2025)</li>
+    <li>Pingjun Hong (2024–2025), now PhD student at University of Vienna</li>
+    <li>Yuchen Mao (2024–), now PhD student at Saarland University</li>
     <li>Huangyan Shan (student assistant, 2023–2025)</li>
     <li>Anyi Wang (student assistant, 2024–2025)</li>
     <li>Kaiwei Lei (student assistant, 2024)</li>
