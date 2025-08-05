@@ -280,10 +280,10 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <!-- student assistants --> 
     <li>Ercong Nie (student assistant, 2022–2025)</li>
     <li>Chengzhi Hu (student assistant, 2023-2025), now PhD student at TUM</li>
-    <li>Zonggen Li (2023–2025)</li>
     <li>Pingjun Hong (2024–2025), now PhD student at University of Vienna</li>
     <li>Yuchen Mao (2024–), now PhD student at Saarland University</li>
     <li>Huangyan Shan (student assistant, 2023–2025)</li>
+    <li>Zonggen Li (2023–2025)</li>
     <li>Anyi Wang (student assistant, 2024–2025)</li>
     <li>Kaiwei Lei (student assistant, 2024)</li>
     <li>Zihang Sun (student assistant, 2023–2024)</li>
