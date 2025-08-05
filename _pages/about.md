@@ -176,10 +176,7 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
-    - name: Walter Paci 
-      description: Visiting PhD, Università degli Studi di Firenze (2025)
-      picture: mainlp-logo-500.png
-      website: #
+
 ---
 
 Welcome!
@@ -301,6 +298,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   <h2 class="category">MaiNLP alumni visitors</h2>
   <ul>
      <!-- visitors --> 
+    <li>Walter Paci (visiting PhD student, Università degli Studi di Firenze, 2025)</li>
     <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
     <li><a href="https://yupei.nl/">Yupei Du</a> (visiting PhD student, Utrecht University, 2025)</li>
     <li>Sondre Wold (visiting PhD student, University of Oslo, 2024)</li>
