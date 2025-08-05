@@ -259,6 +259,8 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Yurui Zhang (2024–)</li>
     <li>Longfei Zuo (2024–)</li>
     <li>Darja Jepifanova (2025-)</li>
+    <li>Katharina Halser (2025-)</li>
+    <li>Emma Minh Nguyet Luong (2025-)</li> 
   </ul>
   
   <h2 class="category">You?</h2>
