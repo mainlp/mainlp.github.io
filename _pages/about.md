@@ -34,10 +34,6 @@ staff:
       description: Postdoc (2024–)
       website: https://scholar.google.it/citations?user=h6Nw1QIAAAAJ
       picture: silvia.jpeg
-    - name: Yang Janet Liu
-      description: Postdoc (2024–)
-      website: https://janetlauyeung.github.io/
-      picture: janet.png
     - name: Siyao (Logan) Peng
       description: Postdoc (2023–)
       website: https://logan-siyao-peng.github.io/
@@ -268,6 +264,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (Postdoc, 2024-2025), now assistant professor at the University of Pittsburgh</li>
     <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023-2025), now postdoc at University of Copenhagen</li>
     <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
