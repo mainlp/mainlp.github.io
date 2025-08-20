@@ -13,7 +13,7 @@ Join us at MaiNLP @ LMU Munich / CIS:
 - If you are interested in a PhD position at MaiNLP lab, we currently are open for applications through [MCML](https://www.portal.graduatecenter.lmu.de/ocgc/mcml).
 - For ELLIS 2025 with MaiNLP as primary host, please also send your application to MCML.-->
 
-HiWi Positions - Multilingual Natural Language Inference Project: apply before August 25 (open until filled); see <a href="assets/pdf/hiwi-ad-MultilingualNLI.pdf" target="_blank">job description</a>.
+<strong>HiWi Position - Multilingual Natural Language Inference Project: apply before August 25 2025 (open until filled)</strong>; see <a href="/assets/pdf/hiwi-ad-MultilingualNLI.pdf" target="_blank">job description</a>.
 
 Currently we have no position openings. Inquiries are though always welcome, as the situation might change (for example, we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:
   
