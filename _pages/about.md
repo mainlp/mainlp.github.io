@@ -182,11 +182,9 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
 
 <div class="projects">
   <h2 class="category">News</h2>
-<!--   <ul>
-    
-  </ul> -->
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>August 22, 2025: <b>New</b> job openings at MaiNLP, see <a href="https://mainlp.github.io/jobs/">our jobs page for details</a>
     <li>August 21, 2025: Philipp and Barbara featuring in <a href="https://ellis.eu/news/collaborative-science-in-action-pan-european-ellis-collaboration-leads-to-influential-nlp-publication">ELLIS news on Collaborative Science in Action</a>
     <li>August 18, 2025: Verena and Barbara featuring in BR's (Bayerische Rundfunk) <a href="https://aiformedia.network/bedtime-stories-reveal-how-automatic-speech-recognition-struggles-with-bavarian-dialect/">AI for Media Network news</a>  
     <li>July 3, 2025: Barbara gives an invited <a href="https://uni-freiburg.de/hpcl-de/hermann-paul-vorlesungen/">Hermann-Paul lecture</a> at the Center for Advanced Studies in Freiburg (FRIAS)</li>
