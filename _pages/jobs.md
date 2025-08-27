@@ -18,7 +18,7 @@ Join us at MaiNLP @ LMU Munich / CIS:
 
 <b>Scientific programmer</b>, apply before August 28 2025 (open until filled); see <a href="/assets/pdf/Scientific programmer-MaiNLP.pdf" target="_blank">job description</a>.
 
-Currently we have no PhD/postdoc position openings. Inquiries are though always welcome, as the situation might change (for example, we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:
+<!--Currently we have no PhD/postdoc position openings. Inquiries are though always welcome, as the situation might change (for example, we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:-->
   
 We are always interested in hearing from interested candidates. 
 
