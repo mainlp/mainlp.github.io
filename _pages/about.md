@@ -97,9 +97,6 @@ staff:
 support:
   title: Support Staff
   people:
-    - name: Oliver Kraus
-      description: Scientific programmer (2024–)
-      picture: mainlp-logo-500.png
     - name: Sebastian Loftus
       description: Student assistant (2023–)
       picture: sebastian.jpg
@@ -264,6 +261,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>Oliver Kraus (Scientific programmer, 2024–2025), now PhD student at Saarland University</li>
     <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (Postdoc, 2024-2025), now assistant professor at the University of Pittsburgh</li>
     <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023-2025), now postdoc at University of Copenhagen</li>
     <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
