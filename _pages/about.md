@@ -45,7 +45,7 @@ staff:
     - name: Jana Grimm
       description: PhD student (2025–)
       website: #
-      picture: jana.jpeg
+      picture: jana.jpg
     - name: Leah Michel
       description: External PhD student (2025–), Siemens
       website: # 
