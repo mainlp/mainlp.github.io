@@ -42,6 +42,10 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Jana Grimm
+      description: PhD student (2025–)
+      website: #
+      picture: mainlp-logo-500.png
     - name: Leah Michel
       description: External PhD student (2025–), Siemens
       website: # 
