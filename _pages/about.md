@@ -45,7 +45,7 @@ staff:
     - name: Jana Grimm
       description: PhD student (2025–)
       website: #
-      picture: mainlp-logo-500.png
+      picture: jana.jpeg
     - name: Leah Michel
       description: External PhD student (2025–), Siemens
       website: # 
