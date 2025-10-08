@@ -101,9 +101,6 @@ staff:
 support:
   title: Support Staff
   people:
-    - name: Sebastian Loftus
-      description: Student assistant (2023–)
-      picture: sebastian.jpg
     - name: Miriam Winkler
       description: Student assistant (2023–)
       picture: miriam.jpg
@@ -150,6 +147,9 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
+    - name: Sebastian Loftus
+      description: External mentored PhD student, UCLouvain, Belgium
+      picture: sebastian.jpg
     - name: Domenico De Cristofaro
       description: External co-supervised PhD student, Free University of Bozen-Bolzano
       website: https://www.linkedin.com/in/domenico-de-cristofaro/
@@ -277,6 +277,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
     <!-- student assistants --> 
     <li>Ercong Nie (student assistant, 2022–2025)</li>
+    <li>Sebastian Loftus (student assistant, 2023-2025), now PhD student at UCLouvain</li>
     <li>Chengzhi Hu (student assistant, 2023-2025), now PhD student at TUM</li>
     <li>Pingjun Hong (2024–2025), now PhD student at University of Vienna</li>
     <li>Yuchen Mao (2024–), now PhD student at Saarland University</li>
