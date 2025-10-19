@@ -14,9 +14,11 @@ Join us at MaiNLP @ LMU Munich / CIS:
 - For ELLIS 2025 with MaiNLP as primary host, please also send your application to MCML.-->
 
 <!--<b>HiWi Position on Multilingual Natural Language Inference</b>, apply before August 25 2025 (open until filled); see <a href="/assets/pdf/hiwi-ad-MultilingualNLI.pdf" target="_blank">job description</a>.-->
-<b>Postdoc position</b>, apply by September 18 2025 (open until filled); see <a href="/assets/pdf/Postdoc-position-2026.pdf" target="_blank">job description</a>.
 
 <b>Scientific programmer</b>, apply before October 24 2025 (extended deadline, open until filled); see <a href="/assets/pdf/Scientific programmer-MaiNLP.pdf" target="_blank">job description</a>.
+
+<b>Postdoc position</b>, apply by September 18 2025 (open until filled); see <a href="/assets/pdf/Postdoc-position-2026.pdf" target="_blank">job description</a>.
+
 
 <!--Currently we have no PhD/postdoc position openings. Inquiries are though always welcome, as the situation might change (for example, we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:-->
   
