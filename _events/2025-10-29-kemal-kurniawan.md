@@ -9,6 +9,6 @@ location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
 img: assets/img/kemal.jpg
 imgalt: Portrait of Kemal Kurniawan
-imgside: left
+imgside: right
 anchor: 2025-10-29-kemal-kurniawan
 ---
