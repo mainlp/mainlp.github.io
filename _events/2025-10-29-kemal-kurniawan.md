@@ -3,12 +3,12 @@ title: "Human Label Variation: Training, Evaluation, and its Impact on Fairness"
 abstract: "<p>Humans often disagree on the best label for a given instance, and this disagreement can be genuine (i.e. not due to errors). This is captured by the notion of human label variation (HLV), challenging the standard assumption that a labelled instance has a single ground truth and instead embracing the natural variation in human annotation to train and evaluate models. While various training methods and metrics for HLV have been proposed, it is still unclear which methods and metrics perform best in what settings. In the first part of this talk, I will present (1) our new HLV evaluation metric based on fuzzy set theory and (2) our extensive study into the best HLV training methods and evaluation metrics. One of the key findings is that some of the simplest methods in incorporating HLV into training result in substantial performance gains. Given the well-established trade-off between performance and model fairness, I will present our investigation into the interplay between HLV and fairness in the second part of the talk. One exciting finding is that without explicit debiasing, HLV can improve both performance and fairness, highlighting its potential as an efficient strategy to develop fairer models.</p>"
 speaker: Kemal Kurniawan <br/>(Research Fellow at The University of Melbourne)
 bio: 'Kemal Kurniawan is a Research Fellow in the Natural Language Processing group at the School of Computing and Information Systems, University of Melbourne and a 2025 DAAD AInet Fellow. His research is characterised by a focus on disadvantaged groups, such as speakers of underrepresented languages and marginalised cohorts in Australian society. The latter is facilitated through a collaboration with Justice Connect, a non-profit providing free legal assistance. Generating tangible real-world impacts, in 2025 the collaboration was: (a) selected as a Finalist of the Engagement Australia Award for the Excellence in Community Engagement category and (b) recognised with an award for Excellence in Engagement for Public Value and Social Inclusion by the Faculty of Engineering and IT, University of Melbourne. He has published in leading NLP venues such as Computational Linguistics (recently accepted), ACL, NAACL, and EACL. His work has been recognised with a Best Paper award in ALTA 2024 and an Outstanding Paper award in EACL 2023. Recently, he has developed an interest in neurosymbolic methods, Responsible AI, and Green AI.'
-website: 
+website: https://kkurniawan.com/
 time: October 29, 2025; 10:30-11:30
 location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
-img: 
-imgalt: 
+img: assets/img/kemal.jpg
+imgalt: Portrait of Kemal Kurniawan
 imgside: left
 anchor: 2025-10-29-kemal-kurniawan
 ---
