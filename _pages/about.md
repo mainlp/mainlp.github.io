@@ -177,6 +177,10 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
+    - name: Benedetta Muscato
+      description: Visiting PhD student, Scuola Normale Superiore (Pisa)
+      picture: benedetta.jpeg
+      website: https://kdd.isti.cnr.it/people/muscato-benedetta
 
 ---
 
