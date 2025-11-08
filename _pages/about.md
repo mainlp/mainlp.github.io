@@ -167,11 +167,11 @@ affiliated:
       picture: mainlp-logo-500.png
     - name: Shengqiang Zhang
       description: External co-supervised PhD student, LMU
-      website: https://shengqiang-zhang.github.io/
-      picture: shengqiang.jpg
+      website: #
+      picture: mainlp-logo-500.png
     - name: Patrick Parschan
       description: External mentored PhD student, Department of Media and Communication, LMU Munich
-      website: https://patschw.github.io/
+      website: #
       picture: patrick.jpg
     - name: Cornelia Gruber
       description: External mentored PhD student, Institute of Statistics, LMU
