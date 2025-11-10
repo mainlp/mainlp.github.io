@@ -22,7 +22,7 @@ Table of contents:
 - [Adding a new page](#adding-a-new-page)
 - [GitHub security alerts](#github-security-alerts)
 - [Adding new plug-ins](#adding-new-plug-ins)
-- [Build issues](#build-deploy-issues)
+- [Build issues](#builddeploy-issues)
 
 ## Previewing changes locally
 
@@ -155,8 +155,8 @@ bundle install
 
 ## Build/deploy issues
 
-Either click on the red X next to the commit, or go to https://github.com/mainlp/mainlp.github.io/actions and select the most recent run. Check if the note is on the "build" or the "deploy" side. Click on the corresponding button and go to the error message -- sometimes that's already helpful on its own, other times the error message is a good starting point for googling in case this issue or a similar one is discussed in some GitHub issue or on StackOverflow. Also check recent issues at https://github.com/jekyll/jekyll/issues?q=is%3Aissue and at https://github.com/alshedivat/al-folio/issues?q=is%3Aissue.
+Either click on the red X next to the commit, or go to the [Actions tab](https://github.com/mainlp/mainlp.github.io/actions) and select the most recent run. Check if the note is on the "build" or the "deploy" side. Click on the corresponding button and go to the error message -- sometimes that's already helpful on its own, other times the error message is a good starting point for googling in case this issue or a similar one is discussed in some GitHub issue or on StackOverflow. Also check recent issues in the [jekyll repo](https://github.com/jekyll/jekyll/issues?q=is%3Aissue) and the [al-folio repo](https://github.com/alshedivat/al-folio/issues?q=is%3Aissue).
 
 Files to have a look at when troubleshooting build issues regarding dependency conflicts:
-- Gemfile (in case of missing packages, or packages whose version should be changed). To see the change reflected locally, you also need to run `bundle install` in your local version.
-- https://github.com/mainlp/mainlp.github.io/blob/main/.github/workflows/jekyll.yml (sometimes updating the ruby version can help if there are conflicts that otherwise seem hard to understand)
+- [Gemfile](https://github.com/mainlp/mainlp.github.io/blob/main/Gemfile) (in case of missing packages, or packages whose version should be changed). To see the change reflected locally, you also need to run `bundle install` in your local version.
+- [.github/workflows/jekyll.yml](https://github.com/mainlp/mainlp.github.io/blob/main/.github/workflows/jekyll.yml) (sometimes updating the ruby version can help if there are conflicts that otherwise seem hard to understand)
