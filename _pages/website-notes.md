@@ -22,7 +22,7 @@ Table of contents:
 - [Adding a new page](#adding-a-new-page)
 - [GitHub security alerts](#github-security-alerts)
 - [Adding new plug-ins](#adding-new-plug-ins)
-- [Build issues](#builddeploy-issues)
+- [Build/deploy issues](#builddeploy-issues)
 
 ## Previewing changes locally
 
