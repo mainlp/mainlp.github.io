@@ -151,3 +151,9 @@ gem update gem-name-here
 bundle update gem-name-here
 bundle install
 ```
+
+## Build issues
+
+Files to have a look at when troubleshooting build issues regarding dependency conflicts
+- Gemfile
+- https://github.com/mainlp/mainlp.github.io/blob/main/.github/workflows/jekyll.yml (sometimes changing the ruby version can help if there are nonsensical conflicts)
