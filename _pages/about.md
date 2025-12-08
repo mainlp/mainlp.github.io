@@ -165,6 +165,10 @@ affiliated:
     - name: Arnisa Fazla
       description: External co-supervised PhD student, Amsterdam UMC, University of Amsterdam (UvA)
       picture: mainlp-logo-500.png
+    - name: Veronika Aures
+      description: External co-supervised PhD student, LMU
+      website: #
+      picture: mainlp-logo-500.png
     - name: Shengqiang Zhang
       description: External co-supervised PhD student, LMU
       website: #
