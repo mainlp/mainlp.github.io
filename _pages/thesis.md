@@ -25,7 +25,7 @@ News:
 
 Legend:
 
-- :hourglass_flowing_sand: topic currently reserved
+- :hourglass_flowing_sand: new topics currently under development, stay tuned!
 - ~~strikethrough~~ topic no longer available
 
 <a name="howtoapply"/>
@@ -45,12 +45,17 @@ Legend:
 - BSc students apply before **Monday February 24, 2025**
 -->
 
+<!--
 Deadlines for the winter semester 2025-2026:
 
 - MSc students apply before **September 1, 2025**
 - BSc students apply before **September 14, 2025**
+-->
 
+Deadlines for the summer semester 2025-2026:
 
+- MSc students apply before **Monday February 9, 2026**
+- BSc students apply before **Monday February 16, 2026**
 <!--
 
 * MSc students apply before **February 15, 2024**
