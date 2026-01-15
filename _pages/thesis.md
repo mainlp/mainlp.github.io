@@ -21,11 +21,11 @@ News:
 
 <!-- - 2024, Feb 26: Thank you all for your interest! We are closed for further thesis applications for the upcoming summer semester  -->
 
-- 2025, June 22: MSc/BSc project applications deadlines posted. See list of project below and how to apply <a href="#howtoapply">here</a>
+- 2026, Jan 15: MSc/BSc project applications deadlines posted. New topics currently under development, stay tuned!
 
 Legend:
 
-- :hourglass_flowing_sand: new topics currently under development, stay tuned!
+- :hourglass_flowing_sand: reserved
 - ~~strikethrough~~ topic no longer available
 
 <a name="howtoapply"/>
