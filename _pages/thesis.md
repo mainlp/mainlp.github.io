@@ -86,6 +86,26 @@ This research vector covers methods and resources for processing dialectal, low-
 **References:** [Bartelds & Wieling 2022](https://aclanthology.org/2022.naacl-main.273/), [Bafna et al. 2025](https://aclanthology.org/2025.acl-long.989/), [Shim et al. 2026](https://arxiv.org/pdf/2601.02906).
 **Level: BSc or MSc.** 
 
+- *Methods for mining low-resource parallel corpora.* Parallel corpora are critical for developing and evaluating dedicated machine translation systems, as well as general-purpose large language models capable of translation. One strategy for obtaining such corpora is to mine unstructured text corpora (typically web crawls) for parallel sentences. However, standard methods typically score candidate sentences via cosine distance of their sentence embeddings, a method which requires strong sentence encoders. Such sentence encoders are typically weaker for very low-resource languages, including language varieties such as dialects. Strategies include: bootstrapping, building classifiers, coming up with simple heuristics such as word-edit distance, or relying on meta-data like HTML tags. Depending on the student's interest and academic level, this project can focus more or less on specific directions such as: evaluating the impact of different methods, methods for scoring candidate sentences, or strategies for obtaining candidate sentences.
+**References:** [Improving Parallel Sentence Mining for Low-Resource and Endangered Languages - ACL Anthology](https://aclanthology.org/2025.acl-short.17/), [Obtaining Parallel Sentences in Low-Resource Language Pairs with Minimal Supervision - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9365574/)
+**Level: BSc or MSc.**
+
+- *Synthetic language variation for robust NLP.* Robust NLP entails models that can process human language variation, such as dialects and other language varieties. These varieties are typically characterized by high variation due to their orthography, lexicography, syntax, each of which present challenges to NLP. Furthermore, these varieties are typically low-resourced, such that we widely rely on transfer from standard language data to language varieties in building NLP models. One strategy for improving robustness to linguistic variation is to introduce synthetic variation. This can range from naive perturbation of characters in order to induce more varied tokenization of standard training data, to targeted de-standardization of training data.
+**References:** [Improving Zero-Shot Cross-lingual Transfer Between Closely Related Languages by Injecting Character-Level Noise - ACL Anthology Neural](https://aclanthology.org/2022.findings-acl.321/), [Text Normalization for Luxembourgish Using Real-Life Variation Data - ACL Anthology](https://aclanthology.org/2025.vardial-1.9/)
+**Level: BSc or MSc** (scope adjusted by languages covered, and complexity of the approaches).
+
+- *Universal Dependencies for Underrepresented Language Varieties.* Universal Dependencies (UD) provides a cross-linguistically consistent framework for syntactic annotation, yet many language varieties and genres remain underrepresented. This thesis explores how existing UD annotations for a related standard language can be adapted to support annotation of a lower-resource variety or underrepresented genre (e.g., a regional variety, informal writing, or domain-specific text). The project will involve selecting a small corpus, analyzing where standard-language annotation guidelines break down, and producing a limited but linguistically principled UD annotation or conversion strategy. Additionally, one would analyze annotation challenges and experiment with downstream UD parsing. 
+**Level: BSc or MSc** (scope adjusted by dataset size and depth of linguistic analysis and experiments).
+
+
+- *Cross-lingual Semantic Disagreement in Human Annotations.* Human judgments about meaning often diverge across languages. This thesis investigates such cross-lingual semantic disagreement by comparing annotations produced independently in two languages spoken by the student (e.g., German–English, Mandarin–English, Russian–German). One could choose to work on NLP tasks such as natural language inference, sentiment or stance classification, discourse relation labeling, etc. The project will involve selecting a small parallel or comparable dataset (or conducting the translation yourself), designing a controlled annotation setup, and analyzing where and why label distributions diverge across languages. The goal is not to resolve disagreements, but to characterize systematic patterns of variation and relate them to linguistic differences such as tense, aspect, definiteness, evidentiality, or pragmatic conventions. 
+**Level: BSc or MSc** (scope adjusted by dataset size and depth of linguistic analysis and experiments).
+
+
+- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect (Litschko et al., 2025) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to "understand" the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model (Millour and Fort, 2019; Weissweiler and Fraser, 2018). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
+**Level: BSc or MSc** (adjusted scope includes dialect-specific model adaptation).
+
+<!--
 - *NLP for dialectal/non-standard language data*. You are welcome to propose
 thesis projects related to processing dialectal or non-standard language data.
 Selected example projects are given below. Please include the following information
@@ -114,8 +134,6 @@ depend on your background and skills as well as the degree (BSc vs. MSc).
 Additional references: [Gaman ea. 2020](https://aclanthology.org/2020.vardial-1.1/) and other VarDial shared task papers
 for literature on automatic dialect identification, [Nerbonne ea. 2021](https://www.let.rug.nl/nerbonne/papers/Nerbonne-etal-CompDial2020.pdf) and [Wieling & Nerbonne 2015](https://www.annualreviews.org/content/journals/10.1146/annurev-linguist-030514-124930) for introductions to dialectometry; [Madsen ea.
 2022](https://dl.acm.org/doi/pdf/10.1145/3546577) and [Barredo Arrieta ea. 2020](https://www.sciencedirect.com/science/article/pii/S1566253519308103) for overviews of interpretability methods. **Level: BSc or MSc.**
-
-<!--
 - :hourglass_flowing_sand: *Using LLMs for Slot and Intent Detection for Low-Resource Dialects*.
 Digital assistants are becoming wide-spread, yet current technology covers
 only a limited set of languages. How can we best use LLMs or linguistic
@@ -158,7 +176,7 @@ part consists of using these dictionaries to either 1) systematically investigat
 the linguistic dialect competence of pre-trained language models or 2)
 develop IR-specific resources (dialect stopword lists, dialect lemmatizers,
 dialect stemmers). This project does not need access to GPUs and is **suitable for BSc and MSc students.**
--->
+
 
 - *To What Degree do LLMs Understand Bavarian Dialect Variants?* In this
 project, we aim to comprehensively evaluate existing multilingual and
@@ -187,8 +205,6 @@ quantitatively, and conduct a qualitative error analysis on the difficult cases.
 For MSc, the research needs to scale up either to multiple dialects (in the
 same or across different language families) or to multiple NLP tasks. **Level:
 BSc or MSc.**
-
-<!-- 
 - *Lexical Dialect Information Retrieval*. Retrieving relevant documents
 across language boundaries has been a longstanding task in the IR
 community. In our recent work ([Litschko et al., 2025](https://arxiv.org/abs/2412.12806)), we focus on
