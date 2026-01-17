@@ -231,7 +231,7 @@ possible here:
 
 <div class="accordion-section">
   <div class="accordion-header" onclick="toggleAccordion(this)">
-    V2: Data-centric NLP, NLP Applications, High-Quality Information Extraction and Retrieval 
+    V2: NLP Applications, Summarization and Information Retrieval 
   </div>
   <div class="accordion-content">
     {{ "
