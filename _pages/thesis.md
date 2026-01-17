@@ -83,9 +83,7 @@ Reach out if you have questions, using the email above.
 This research vector covers methods and resources for processing dialectal, low-resource, and multilingual language data. It focuses on improving robustness, fairness, and coverage of NLP systems across languages and varieties, including cross-lingual transfer and data-efficient learning.
 ### **Thesis projects**
 - *Computational Dialectology.* Language usage often differs based on sociodemographic background, where linguistic differences based on the geographical origin of the speaker are typically studied in the field of dialectology. While qualitative studies into dialectal differences have yielded valuable insights into language variation, such studies often rely on labor-intensive data collection, annotation, and analysis. As such, computational approaches to dialect differences have emerged as a possible method towards the large-scale study of dialects. For students interested in this project, multiple directions are possible, including (but not limited to): (a) interpretability of what features dialect models rely on for differentiation, (b) creation of (parallel) resources for dialect continua, (c) development of new methods to quantify dialectal or sociolinguistic variation, (d) adapting existing models to better accommodate dialect variation.
-    
-References: [Bartelds & Wieling 2022](https://aclanthology.org/2022.naacl-main.273/), Bafna et al. 2025, Shim et al. 2026.
-
+**References:** [Bartelds & Wieling 2022](https://aclanthology.org/2022.naacl-main.273/), [Bafna et al. 2025](https://aclanthology.org/2025.acl-long.989/), [Shim et al. 2026](https://arxiv.org/pdf/2601.02906).
 **Level: BSc or MSc.** 
 
 - *NLP for dialectal/non-standard language data*. You are welcome to propose
