@@ -102,7 +102,7 @@ This research vector covers methods and resources for processing dialectal, low-
 **Level: BSc or MSc** (scope adjusted by dataset size and depth of linguistic analysis and experiments).
 
 
-- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect (Litschko et al., 2025) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to \"understand\" the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model (Millour and Fort, 2019; Weissweiler and Fraser, 2018). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
+- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect ([Litschko et al., 2025](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.762.pdf)) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to \"understand\" the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model ([Millour and Fort, 2019](https://hal.science/hal-02280002v1/preview/Proceedings_of_Recent_Advances_in_Natural_Language_Processing.pdf); [Weissweiler and Fraser, 2018](https://link.springer.com/chapter/10.1007/978-3-319-73706-5_8)). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
 **Level: BSc or MSc** (adjusted scope includes dialect-specific model adaptation).
 
 <!--
@@ -231,10 +231,34 @@ possible here:
 
 <div class="accordion-section">
   <div class="accordion-header" onclick="toggleAccordion(this)">
-    V2: Data-centric NLP, NLP Applications, High-Quality Information Extraction and Retrieval 
+    V2: NLP Applications, Summarization and Information Retrieval 
   </div>
   <div class="accordion-content">
-    {{ "### **Selected Research Projects**
+    {{ "
+This theme covers applied NLP methods for impactful real-world domains (e.g., climate change, labor markets, education) and core applications such as summarization, information retrieval.
+### **Thesis projects**
+(todo)
+- *NLP for Computational Job Market Analysis.* Job postings and career paths are a rich resource to understand the dynamics of the labor market. For example, to track how  skills demands change, how career paths are affected and how educational demands may shift. Such changes have large social implications, as they can inform strategic long-term decisions of governments to react to changing structural demands in the labor force. Recently, the emerging line of work on computational job market analysis (also known as NLP for human resources) has started to provide data resources and models for automatic job market analysis, such as the identification and extraction of skills in job postings, or the prediction of career paths. For students interested in real-world applications, this theme provides multiple thesis projects for two application domains: i) understanding skills in job postings (e.g. cross-lingual or cross-domain skill and knowledge extraction to data sources like job postings, patents or scientific articles) See references of MultiSkill project. See also Bhola et al., 2020, Gnehm et al. 2021, our own ESCOXLM-R model  or ii) career path prediction, which is the task of predicting a person's next occupation based on their resume. See the Karrierewege paper. 
+**Level: BSc or MSc.**
+Climate Change Insights through NLP. Climate change is a pressing global issue that is receiving more and more attention. It is influencing regulations and decision-making in various parts of society such as politics, agriculture, business, and it is discussed extensively on social media. For students interested in real-world societal applications, this project aims to contribute insights on the discussion surrounding climate change. Example projects: Analyzing social media data. The data will have to be collected (potentially from existing sources), cleaned, and analyzed using NLP techniques to examine various aspects or features of interest such as stance, sentiment, the extraction of key players, etc. References: Luo et al., 2020, Stede & Patz, 2021, Vaid et al., 2022. Level: BSc or MSc.
+
+Multi agent debate for summarization or simplification. Automatic summarization (or simplification) is often performed in an end-to-end manner, using a single model (e.g., an LLM). Recent work on multi-agent systems suggests that “interaction” between LLMs can improve reasoning and reduce errors. This project explores whether multi-agent debate can improve summarization (or simplification) quality by having agents summarize the same document, critique each other's summaries, and provide a final version. The project might investigate, e.g., the effect of prompting different agents with different priorities (factuality, conciseness, etc), whether debate improves performance compared to single-pass summaries and/or whether certain aggregation strategies (rounds of critique, voting, consensus-building) outperform others.
+References: Du et al, ICLR 2024; Koupaee et al, NAACL 2025; Wan et al., NAACL 2025 
+Level: MSc (preferred); adaptation to BSc is also possible.
+Other projects in summarization or simplification (e.g., resource building, multilinguality) are also possible depending on the student interests.
+
+Improving the Cross-Lingual Alignment of IR Models. Machine Translation (MT) and Cross-Lingual Information Retrieval (CLIR) are two interconnected Natural Language Processing (NLP) tasks. In CLIR, MT is typically used to translate queries at retrieval time (translate test) or to translate training data (translate train). Recent studies have proposed a novel approach: aligning the representation spaces of MT models with those of large language models to improve their performance in multilingual NLP tasks (Acharya et al., 2025; Schmidt et al., 2024; Yoon et al., 2024). The goal of this project is to investigate the effectiveness of aligning internal representations within LLM-based IR models, and compare their performance to translation-based methods for CLIR across both high- and low-resource languages. Depending on the student’s interests, the focus of this project can be on cross-lingual retrieval or reranking. 
+Level: MSc.
+
+Evaluating the quality and difficulty of exam questions. When high-stakes educational assessments (like university entrance exams) are being developed, they usually need to be piloted with a large sample of test takers to make sure that the questions are of appropriate quality and difficulty. Recently, researchers have tried to use LLMs to predict these properties automatically, either directly or by simulating test takers at various levels of ability. However, out-of-the box LLMs are not very good at this. A student project could experiment with fine-tuning LLMs to match different ability levels or to directly evaluate properties such as item difficulty, discrimination, or guessability.
+References: Yaneva et al. (2024), Acquaye et al (2025), Liu et al. (2025), Gorgun & Bulut (2024), Laverghetta et al. (2022)
+Level: MSc.
+
+Medical NLP. NLP studies on medical texts often rely on synthetic data due to privacy and accessibility constraints. If you are interested in working in this domain, please check this entry again in a couple of days for more information.
+Level: MSc.
+
+<!--
+### **Selected Research Projects**
 - *NLP for Job Market Analysis*. Job postings are a rich resource to understand the
 dynamics of the labor market including which skills are demanded, which is also
 important from an educational viewpoint. Recently, the emerging line of work on
@@ -324,7 +348,7 @@ lexical signals (and combinations thereof) including, e.g., TF-IDF and QLM (redu
 scope, BSc) and semantic signals obtained from semantic similarity models or LLMs
 (full scope, MSc). This thesis is suitable for students who do not have access to large
 GPUs. **Level: BSc or MSc**.
-<!-- - *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
+- *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
 ubiquitously in virtually all areas of NLP. This includes information retrieval (IR),
 where LLMs are used to, e.g., judge query-document pairs to predict relevance (see
 Fig. 6 in [Yutao et al. (2023)](https://arxiv.org/pdf/2308.07107)). In the context of cross-lingual IR (CLIR), we previously
@@ -336,7 +360,7 @@ The focus of this thesis is to (a) explore whether LLMs also suffer from monolin
 overfitting and (b) if replacing random tokens with their translations improve their
 CLIR performance. This question can be investigated through the lens of prompt
 engineering, in-context L2R or instruction-tuned LLMs. **Level: MSc.**
-    -->
+-->
 " | markdownify }}
 
   </div>
