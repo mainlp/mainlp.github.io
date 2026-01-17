@@ -79,7 +79,7 @@ Reach out if you have questions, using the email above.
     V1: NLP for Dialects, Low-resource and Multilinguality
   </div>
   <div class="accordion-content">
-  {{ "
+  {{ '
 This research vector covers methods and resources for processing dialectal, low-resource, and multilingual language data. It focuses on improving robustness, fairness, and coverage of NLP systems across languages and varieties, including cross-lingual transfer and data-efficient learning.
 ### **Thesis projects**
 - *Computational Dialectology.* Language usage often differs based on sociodemographic background, where linguistic differences based on the geographical origin of the speaker are typically studied in the field of dialectology. While qualitative studies into dialectal differences have yielded valuable insights into language variation, such studies often rely on labor-intensive data collection, annotation, and analysis. As such, computational approaches to dialect differences have emerged as a possible method towards the large-scale study of dialects. For students interested in this project, multiple directions are possible, including (but not limited to): (a) interpretability of what features dialect models rely on for differentiation, (b) creation of (parallel) resources for dialect continua, (c) development of new methods to quantify dialectal or sociolinguistic variation, (d) adapting existing models to better accommodate dialect variation.
@@ -224,7 +224,7 @@ possible here:
   3. Extend CDIR to multi-dialect retrieval, where the corpus
       contains documents in different dialects. The goal of this topic is to investigate weak vs. strong alignment of IR models ([Roy et al., 2020](https://aclanthology.org/2020.emnlp-main.477/) with respect to dialects. **Suitable for B.Sc. and M.Sc. students.**
 -->
-" | markdownify }}
+' | markdownify }}
 
   </div>
 </div>
