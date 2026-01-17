@@ -79,7 +79,7 @@ Reach out if you have questions, using the email above.
     V1: NLP for Dialects, Low-resource and Multilinguality
   </div>
   <div class="accordion-content">
-  {{ '
+  {{ "
 This research vector covers methods and resources for processing dialectal, low-resource, and multilingual language data. It focuses on improving robustness, fairness, and coverage of NLP systems across languages and varieties, including cross-lingual transfer and data-efficient learning.
 ### **Thesis projects**
 - *Computational Dialectology.* Language usage often differs based on sociodemographic background, where linguistic differences based on the geographical origin of the speaker are typically studied in the field of dialectology. While qualitative studies into dialectal differences have yielded valuable insights into language variation, such studies often rely on labor-intensive data collection, annotation, and analysis. As such, computational approaches to dialect differences have emerged as a possible method towards the large-scale study of dialects. For students interested in this project, multiple directions are possible, including (but not limited to): (a) interpretability of what features dialect models rely on for differentiation, (b) creation of (parallel) resources for dialect continua, (c) development of new methods to quantify dialectal or sociolinguistic variation, (d) adapting existing models to better accommodate dialect variation.
@@ -102,7 +102,7 @@ This research vector covers methods and resources for processing dialectal, low-
 **Level: BSc or MSc** (scope adjusted by dataset size and depth of linguistic analysis and experiments).
 
 
-- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect (Litschko et al., 2025) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to "understand" the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model (Millour and Fort, 2019; Weissweiler and Fraser, 2018). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
+- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect (Litschko et al., 2025) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to \"understand\" the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model (Millour and Fort, 2019; Weissweiler and Fraser, 2018). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
 **Level: BSc or MSc** (adjusted scope includes dialect-specific model adaptation).
 
 <!--
@@ -224,7 +224,7 @@ possible here:
   3. Extend CDIR to multi-dialect retrieval, where the corpus
       contains documents in different dialects. The goal of this topic is to investigate weak vs. strong alignment of IR models ([Roy et al., 2020](https://aclanthology.org/2020.emnlp-main.477/) with respect to dialects. **Suitable for B.Sc. and M.Sc. students.**
 -->
-' | markdownify }}
+" | markdownify }}
 
   </div>
 </div>
