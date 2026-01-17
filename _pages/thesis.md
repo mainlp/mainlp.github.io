@@ -102,7 +102,7 @@ This research vector covers methods and resources for processing dialectal, low-
 **Level: BSc or MSc** (scope adjusted by dataset size and depth of linguistic analysis and experiments).
 
 
-- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect ([Litschko et al., 2025](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.762.pdf)) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to &quot;understand&quot; the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model ([Millour and Fort, 2019](https://hal.science/hal-02280002v1/preview/Proceedings_of_Recent_Advances_in_Natural_Language_Processing.pdf); [Weissweiler and Fraser, 2018](https://link.springer.com/chapter/10.1007/978-3-319-73706-5_8)). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
+- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect (Litschko et al., 2025) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to &quot;understand&quot; the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model (Millour and Fort, 2019; Weissweiler and Fraser, 2018). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
 **Level: BSc or MSc** (adjusted scope includes dialect-specific model adaptation).
 
 <!--
@@ -231,7 +231,7 @@ possible here:
 
 <div class="accordion-section">
   <div class="accordion-header" onclick="toggleAccordion(this)">
-    V2: NLP Applications, Summarization and Information Retrieval 
+    V2: Data-centric NLP, NLP Applications, High-Quality Information Extraction and Retrieval 
   </div>
   <div class="accordion-content">
     {{ "
@@ -348,7 +348,7 @@ lexical signals (and combinations thereof) including, e.g., TF-IDF and QLM (redu
 scope, BSc) and semantic signals obtained from semantic similarity models or LLMs
 (full scope, MSc). This thesis is suitable for students who do not have access to large
 GPUs. **Level: BSc or MSc**.
-- *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
+<!-- - *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
 ubiquitously in virtually all areas of NLP. This includes information retrieval (IR),
 where LLMs are used to, e.g., judge query-document pairs to predict relevance (see
 Fig. 6 in [Yutao et al. (2023)](https://arxiv.org/pdf/2308.07107)). In the context of cross-lingual IR (CLIR), we previously
@@ -360,7 +360,7 @@ The focus of this thesis is to (a) explore whether LLMs also suffer from monolin
 overfitting and (b) if replacing random tokens with their translations improve their
 CLIR performance. This question can be investigated through the lens of prompt
 engineering, in-context L2R or instruction-tuned LLMs. **Level: MSc.**
--->
+    -->
 " | markdownify }}
 
   </div>
