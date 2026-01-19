@@ -121,16 +121,16 @@ student assistants:
   title: Student assistants
   people:
     - name: Longfei Zuo 
-      description: Student assistant for teaching(2024–)
+      description: Student assistant for teaching (2024–)
       picture: mainlp-logo-500.png
     - name: Darja Jepifanova
-      description: Student assistant for teaching(2025–)
+      description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
     - name: Katharina Halser
-      description: Student assistant for teaching(2025–)
+      description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
     - name: Emma Minh Nguyet Luong
-      description: Student assistant for teaching(2025–)
+      description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
 
 affiliated:
