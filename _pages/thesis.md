@@ -81,7 +81,9 @@ Reach out if you have questions, using the email above.
   <div class="accordion-content">
   {{ "
 This research vector covers methods and resources for processing dialectal, low-resource, and multilingual language data. It focuses on improving robustness, fairness, and coverage of NLP systems across languages and varieties, including cross-lingual transfer and data-efficient learning.
+
 ### **Thesis projects**
+
 - *Computational Dialectology.* Language usage often differs based on sociodemographic background, where linguistic differences based on the geographical origin of the speaker are typically studied in the field of dialectology. While qualitative studies into dialectal differences have yielded valuable insights into language variation, such studies often rely on labor-intensive data collection, annotation, and analysis. As such, computational approaches to dialect differences have emerged as a possible method towards the large-scale study of dialects. For students interested in this project, multiple directions are possible, including (but not limited to): (a) interpretability of what features dialect models rely on for differentiation, (b) creation of (parallel) resources for dialect continua, (c) development of new methods to quantify dialectal or sociolinguistic variation, (d) adapting existing models to better accommodate dialect variation.
 **References:** [Bartelds & Wieling 2022](https://aclanthology.org/2022.naacl-main.273/), [Bafna et al. 2025](https://aclanthology.org/2025.acl-long.989/), [Shim et al. 2026](https://arxiv.org/pdf/2601.02906).
 **Level: BSc or MSc.** 
@@ -102,7 +104,7 @@ This research vector covers methods and resources for processing dialectal, low-
 **Level: BSc or MSc** (scope adjusted by dataset size and depth of linguistic analysis and experiments).
 
 
-- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect (Litschko et al., 2025) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to &quot;understand&quot; the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model (Millour and Fort, 2019; Weissweiler and Fraser, 2018). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
+- *Dialect Variation Dictionaries and Evaluation.* A large amount of culture-specific knowledge is captured in dialect corpora. However, dialects pose a challenge due to their limited resources and high variability, with words frequently spelled differently, reflecting regional pronunciations. This thesis extends our previous research on the Bavarian dialect ([Litschko et al., 2025](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.762.pdf)) by exploring another dialect. The project consists of two main components: 1) Annotating pairs of German and dialect words to determine whether they are equivalent translations. A dataset will be provided for this purpose. 2a) Evaluating the ability of LLMs to &quot;understand&quot; the dialect through translation and word-pair classification tasks, or 2b) building and evaluating a rule-based lexical normalization model ([Millour and Fort, 2019](https://hal.science/hal-02280002v1/preview/Proceedings_of_Recent_Advances_in_Natural_Language_Processing.pdf); [Weissweiler and Fraser, 2018](https://link.springer.com/chapter/10.1007/978-3-319-73706-5_8)). To successfully complete this thesis, it is essential that the student has a strong understanding of one of the following dialects: Alemannic (Alemannisch), Palatinate (Pfälzisch), North Frisian (Nordfriesisch), Saterland Frisian (Saterfriesisch), Low German (Niederdeutsch), Colognian (Kölsch). Dialects of other languages can potentially also be considered, please reach out to us. 
 **Level: BSc or MSc** (adjusted scope includes dialect-specific model adaptation).
 
 <!--
@@ -231,10 +233,37 @@ possible here:
 
 <div class="accordion-section">
   <div class="accordion-header" onclick="toggleAccordion(this)">
-    V2: Data-centric NLP, NLP Applications, High-Quality Information Extraction and Retrieval 
+    V2: NLP Applications, Summarization and Information Retrieval 
   </div>
   <div class="accordion-content">
-    {{ "### **Selected Research Projects**
+    {{ "
+This theme covers applied NLP methods for impactful real-world domains (e.g., climate change, labor markets, education) and core applications such as summarization, information retrieval.
+
+### **Thesis projects**
+
+- *NLP for Computational Job Market Analysis.* Job postings and career paths are a rich resource to understand the dynamics of the labor market. For example, to track how  skills demands change, how career paths are affected and how educational demands may shift. Such changes have large social implications, as they can inform strategic long-term decisions of governments to react to changing structural demands in the labor force. Recently, the emerging line of work on computational job market analysis (also known as NLP for human resources) has started to provide data resources and models for automatic job market analysis, such as the identification and extraction of skills in job postings, or the prediction of career paths. For students interested in real-world applications, this theme provides multiple thesis projects for two application domains: i) understanding skills in job postings (e.g. cross-lingual or cross-domain skill and knowledge extraction to data sources like job postings, patents or scientific articles) See references of [MultiSkill](https://mainlp.github.io/projects/#multiskill) project. See also [Bhola et al., 2020](https://aclanthology.org/2020.coling-main.513.pdf), [Gnehm et al. 2021](https://www.zora.uzh.ch/id/eprint/230653/1/2022.nlpcss_1.2.pdf), our own [ESCOXLM-R](https://aclanthology.org/2023.acl-long.662.pdf) model  or ii) career path prediction, which is the task of predicting a person's next occupation based on their resume. See the [Karrierewege](https://arxiv.org/pdf/2412.14612) paper. 
+**Level: BSc or MSc.**
+
+- *Climate Change Insights through NLP.* Climate change is a pressing global issue that is receiving more and more attention. It is influencing regulations and decision-making in various parts of society such as politics, agriculture, business, and it is discussed extensively on social media. For students interested in real-world societal applications, this project aims to contribute insights on the discussion surrounding climate change. Example projects: Analyzing social media data. The data will have to be collected (potentially from existing sources), cleaned, and analyzed using NLP techniques to examine various aspects or features of interest such as stance, sentiment, the extraction of key players, etc. **References:** [Luo et al., 2020](https://aclanthology.org/2020.findings-emnlp.296v2.pdf), [Stede & Patz, 2021](https://aclanthology.org/2021.nlp4posimpact-1.2.pdf), [Vaid et al., 2022](https://aclanthology.org/2022.acl-srw.35.pdf). 
+**Level: BSc or MSc.**
+
+- *Multi agent debate for summarization or simplification.* Automatic summarization (or simplification) is often performed in an end-to-end manner, using a single model (e.g., an LLM). Recent work on multi-agent systems suggests that “interaction” between LLMs can improve reasoning and reduce errors. This project explores whether multi-agent debate can improve summarization (or simplification) quality by having agents summarize the same document, critique each other's summaries, and provide a final version. The project might investigate, e.g., the effect of prompting different agents with different priorities (factuality, conciseness, etc), whether debate improves performance compared to single-pass summaries and/or whether certain aggregation strategies (rounds of critique, voting, consensus-building) outperform others.
+**References:** [Du et al, ICLR 2024](https://openreview.net/forum?id=QAwaaLJNCk); [Koupaee et al, NAACL 2025](https://aclanthology.org/2025.naacl-long.609.pdf?utm_source=chatgpt.com); [Wan et al., NAACL 2025](https://aclanthology.org/2025.naacl-long.498/) 
+**Level: MSc** (preferred); adaptation to BSc is also possible.
+Other projects in summarization or simplification (e.g., resource building, multilinguality) are also possible depending on the student interests.
+
+- *Improving the Cross-Lingual Alignment of IR Models.* Machine Translation (MT) and Cross-Lingual Information Retrieval (CLIR) are two interconnected Natural Language Processing (NLP) tasks. In CLIR, MT is typically used to translate queries at retrieval time (translate test) or to translate training data (translate train). Recent studies have proposed a novel approach: aligning the representation spaces of MT models with those of large language models to improve their performance in multilingual NLP tasks ([Acharya et al., 2025](https://aclanthology.org/2025.naacl-long.220.pdf); [Schmidt et al., 2024](https://aclanthology.org/2024.findings-emnlp.394.pdf); [Yoon et al., 2024](https://aclanthology.org/2024.acl-long.405/)). The goal of this project is to investigate the effectiveness of aligning internal representations within LLM-based IR models, and compare their performance to translation-based methods for CLIR across both high- and low-resource languages. Depending on the student’s interests, the focus of this project can be on cross-lingual retrieval or reranking. 
+**Level: MSc.**
+
+- *Evaluating the quality and difficulty of exam questions.* When high-stakes educational assessments (like university entrance exams) are being developed, they usually need to be piloted with a large sample of test takers to make sure that the questions are of appropriate quality and difficulty. Recently, researchers have tried to use LLMs to predict these properties automatically, either directly or by simulating test takers at various levels of ability. However, out-of-the box LLMs are not very good at this. A student project could experiment with fine-tuning LLMs to match different ability levels or to directly evaluate properties such as item difficulty, discrimination, or guessability.
+**References:** [Yaneva et al. (2024)](https://aclanthology.org/2024.bea-1.39/), [Acquaye et al (2025)](https://arxiv.org/abs/2601.09953), [Liu et al. (2025)](https://doi.org/10.1111/bjet.13570), [Gorgun & Bulut (2024)](https://doi.org/10.1111/emip.12663), [Laverghetta et al. (2022)](https://doi.org/10.1007/978-3-031-04572-1_12)
+**Level: MSc.**
+
+- *Medical NLP.* NLP studies on medical texts often rely on synthetic data due to privacy and accessibility constraints. If you are interested in working in this domain, please check this entry again in a couple of days for more information.
+**Level: MSc.**
+
+<!--
+### **Selected Research Projects**
 - *NLP for Job Market Analysis*. Job postings are a rich resource to understand the
 dynamics of the labor market including which skills are demanded, which is also
 important from an educational viewpoint. Recently, the emerging line of work on
@@ -324,7 +353,7 @@ lexical signals (and combinations thereof) including, e.g., TF-IDF and QLM (redu
 scope, BSc) and semantic signals obtained from semantic similarity models or LLMs
 (full scope, MSc). This thesis is suitable for students who do not have access to large
 GPUs. **Level: BSc or MSc**.
-<!-- - *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
+- *Do LLMs suffer from lexical biases in learning to rank (L2R)?* LLMs are used
 ubiquitously in virtually all areas of NLP. This includes information retrieval (IR),
 where LLMs are used to, e.g., judge query-document pairs to predict relevance (see
 Fig. 6 in [Yutao et al. (2023)](https://arxiv.org/pdf/2308.07107)). In the context of cross-lingual IR (CLIR), we previously
@@ -336,7 +365,7 @@ The focus of this thesis is to (a) explore whether LLMs also suffer from monolin
 overfitting and (b) if replacing random tokens with their translations improve their
 CLIR performance. This question can be investigated through the lens of prompt
 engineering, in-context L2R or instruction-tuned LLMs. **Level: MSc.**
-    -->
+-->
 " | markdownify }}
 
   </div>
@@ -347,7 +376,51 @@ engineering, in-context L2R or instruction-tuned LLMs. **Level: MSc.**
     V3: Natural Language Understanding, Semantic & Pragmatics, Computational Social Science
   </div>
   <div class="accordion-content">
-    {{ "### **Selected Research Projects**
+    {{ "
+This theme covers aspects of uncertainty and ambiguity in human language and perception, including human label variation, subjective judgments, and cognitive factors affecting interpretation. It explores how NLP systems can model, reason about, and interact with uncertainty across text and multimodal settings, or how gaze data can inform modeling or evaluation, with an emphasis on human-centered evaluation and design.
+    
+### **Thesis projects**
+
+- *Characterizing Ambiguity and Errors in Open-Domain QA Datasets.* Benchmark datasets are central to progress in open-domain question answering (QA), yet they often contain unresolved ambiguities or annotation errors (cf. [Klie et al. 2023](https://direct.mit.edu/coli/article/49/1/157/113280/Annotation-Error-Detection-Analyzing-the-Past-and), [Weber-Genzel et al. 2024](https://aclanthology.org/2024.acl-long.123.pdf)) that affect both model training and evaluation. This project focuses on a systematic data analysis of open-QA benchmarks like [AmbigQA](https://nlp.cs.washington.edu/ambigqa/) to characterize common sources of ambiguity (e.g., entity, event, and temporal ambiguity or underspecification, see for example [Tang et al., 2025](https://arxiv.org/pdf/2504.12113)) and may identify possible annotation errors in existing QA datasets. **BSc-level:** Using exploratory data analysis, annotation and predictive modeling with lightweight traditional interpretable classifiers, to investigate whether surface-level features can be used to identify and predict different ambiguity or error types. The outcome is a taxonomy of ambiguity and errors in open-QA datasets, empirical insights into how frequently these phenomena occur, and a prototype classifier to identify the ambiguity categories. 
+**MSc-level** extensions include using LLMs for ambiguity characterization and generation and analysis of multiple interpretations ([Saparina & Lapata, 2025](https://arxiv.org/abs/2511.10453)), analyze LLM model output behavior (e.g. like in language-vision [Testoni et al., 2025](https://aclanthology.org/2025.emnlp-main.1206/) or text-based LLMs [Sedova et al, 2025](https://aclanthology.org/2024.findings-emnlp.1003/)), or alternatively, connect ambiguity characterizations identified in the first step to model-internal mechanisms like uncertainty or probing. The outcome is a taxonomy of ambiguity and errors in open-QA datasets, and an evaluation of how LLM output behavior (types of answer) or model-internal mechanisms relate to input ambiguity. 
+**Level: BSc or MSc.**
+
+- *Interpreting Visual Ambiguity:* Humans and Vision-Language Models. The objective of this thesis is to investigate ambiguity in images and to compare how humans and Vision-Language Models perceive and resolve such ambiguity. Ambiguous images often contain multiple salient elements or support multiple plausible interpretations. While humans show attention shifts depending on context, expectations, and individual differences, what models do? Depending on the student’s interests, this thesis can focus more on modeling approaches or on human strategies for processing ambiguity (e.g., through behavioral or eye-tracking experiments). **References:** [Hindennach et al., 2024](https://dl.acm.org/doi/10.1145/3649902.3656356), [Testoni et al., 2025](https://aclanthology.org/2025.emnlp-main.1206.pdf)
+**Level: MSc.**
+
+- *Beyond Probability Metrics:* Evaluating Free-Form Rationales for Disagreement: Current approaches to Human Label Variation (HLV) mostly treat the problem as a distribution-matching task. We evaluate models using metrics like KL-divergence or Jensen-Shannon Distance to see if the predicted probabilities align with the crowd. However, getting the numbers right doesn't mean the model understands the disagreement. A model might predict a 60/40 split for the wrong reasons, or hallucinate a conflict where none exists. As we move towards "Glass-Box" NLP, we need models that can explicitly justify why a sample is ambiguous through Explanations ([Chen et al. 2025a](https://aclanthology.org/2025.findings-acl.562/)) or Chain-of-Thought (CoT, [Chen et al. 2025b](https://aclanthology.org/2025.emnlp-main.1682/)).
+While we have metrics for label distributions, we lack a robust framework for evaluating the quality of the reasoning behind the variation. How do we judge if a free-text explanation accurately captures a pragmatic ambiguity versus a semantic one? Does the generated CoT truly reflect the linguistic nuance that causes humans to disagree? This thesis aims to design an evaluation framework for Free-Form HLV Rationales. The student will move beyond standard overlaps (like BLEU/ROUGE) and develop metrics—potentially LLM-based or taxonomy-guided (e.g., using LITEX, [Hong et al. 2025a](https://aclanthology.org/2025.emnlp-main.1728/))—to assess: 1. Faithfulness: Does the explanation actually align with the predicted label distribution? 2. Coverage: Does the CoT capture all valid perspectives (the "Yes" view and the "No" view) or does it collapse into a single viewpoint? 3. Linguistic Validity: Can we quantify the "quality" of the ambiguity detection? 
+**Level: MSc.**
+
+- *Ambiguity or Preference? Disentangling Variation Sources via Personalized Modeling:* When humans disagree on an NLP task, it usually stems from two distinct sources ([Hong, 2025b](https://arxiv.org/abs/2510.16458)): Linguistic Ambiguity (the text itself is unclear/vague) or Annotator Preference (the human has specific biases, background knowledge, or subjectivity). Current HLV models tend to mix these into a single "noise" distribution. However, true Human-Centric NLU requires a model to know who is speaking. A sentence might be ambiguous to everyone (global uncertainty), or it might only be interpreted differently by people with specific cultural backgrounds (local preference). We currently struggle to separate "what is in the text" from "what is in the head." Can we simulate specific human Personas to model preference? If we condition a model on a specific persona, does the variation disappear (implying the variation was preference-based) or persist (implying the variation is intrinsic ambiguity)?
+This thesis explores Personalized HLV to disentangle ambiguity from preference. The student will investigate: 1. Persona Injection: Can we prompt LLMs with specific annotator profiles (e.g., "skeptical linguist" vs. "imaginative writer") to replicate specific human biases? ([Sorensen et al. 2025](https://aclanthology.org/2025.emnlp-main.106/),[Li et al. 2025](https://arxiv.org/abs/2505.18071)) 2. Decomposition: By measuring how much the output distribution shifts when the persona changes, can we quantify the "Subjectivity Score" of a dataset? 3. Disentanglement: The goal is to propose a method that separates instances where clarification is needed (ambiguity) from instances where personalization is needed (preference). 
+**Level: MSc.**
+
+- *Aggregating Individual Opinions through Discourse:* Human vs. Chain-of-Thought Reasoning. Public discourse often consists of multiple, partially conflicting individual opinions that may be synthesized into a coherent collective interpretation. This thesis investigates how humans and language models differ in aggregating such opinions, with a particular focus on the role of discourse structure and reasoning strategies. These opinion pieces could come from different news agencies, Wikipedia articles, political debates, discussion forums, etc. The student will examine whether humans and LLMs preserve disagreement (e.g., minority viewpoints) and how they build argumentative structure. The study is well-suited for students interested in discourse analysis, evaluation of language models, and the representation of multiple voices.
+**Level: MSc.**
+
+- *Synthetic data for metrics meta evaluation.* Automatic metrics (including LLMs-as-judges) are typically meta-evaluated by measuring their correlation with human scores or preferences. However, this evaluation is often global (making it difficult to diagnose when and why a metric fails), and human judgments are expensive and complex to collect. An alternative is behavioural testing, e.g., checklist-like approaches ([Ribeiro et al., ACL 2020](https://aclanthology.org/2020.acl-main.442/)), where targeted perturbations are designed to probe sensitivity to specific phenomena. This approach uses challenge sets to better understand metrics failure modes and test for specific biases. The goal of this project is to explore methods for automatically generating synthetic test sets for metric meta-evaluation, to assess their validity and limitations, and to use them to systematically benchmark evaluation metrics (including LLM-based judges). Depending on student interests, the project may focus on multilingual settings, specific evaluation dimensions (e.g., factuality or societal bias), robustness to perturbations, or other task- or domain-specific aspects. References include: [Sai et al., EMNLP 2021](https://aclanthology.org/2021.emnlp-main.575.pdf),  [Ye et al., ICLR 2025](https://iclr.cc/virtual/2025/poster/31088). 
+**Level: BSc or MSc.**
+
+- *Pseudoword generation.* Pseudowords are words that look and sound like they could exist in a particular language, but don’t actually have any meaning. Pseudowords are frequently used in (psycho)linguistic studies to investigate how humans learn and process language (e.g., [lexical decision](https://en.wikipedia.org/wiki/Lexical_decision_task)). Often, pseudowords need to fulfill certain criteria, e.g., they should appear like a specific part of speech. However, it is quite difficult to come up with good pseudowords manually. Previous approaches have often been based on phonotactic templates or Markov chains. Neural networks also have the potential to work well. A student project could involve implementing and evaluating a new pseudoword generator for a less-studied language. Depending on interest and available resources, the approach could be rule-based, or based on statistical or neural models.
+**References:** [Keuleers & Brysbaert (2010)](https://doi.org/10.3758/BRM.42.3.627), [New et al. (2024)](https://doi.org/10.1177/17470218231164373)
+**Level: BSc or MSc.**
+
+- *Interpreting Irony in Multimodal Memes.* Internet memes are a widely used form of online communication ([Shifman, 2013](https://onlinelibrary.wiley.com/doi/full/10.1111/jcc4.12013)) and often express irony, where the literal meaning of the text or image differs from the intended message. This mismatch makes automatic meme understanding difficult, as multimodal large language models (MLLMs) may assign incorrect sentiment or intent labels when they rely on surface-level cues ([Fersini et al., 2022](https://aclanthology.org/2022.semeval-1.74/), [Nguyen et al., 2025](https://aclanthology.org/2025.acl-long.927/)). Previous research ([Ilic et al., 2018](https://aclanthology.org/W18-6202.pdf)) has studied irony and sarcasm in text and has addressed meme classification tasks ([Kiela et al., 2020](https://proceedings.nips.cc/paper_files/paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf), [Liu et al., 2022](https://aclanthology.org/2022.emnlp-main.476/)), but the specific ways in which irony arises from text, images, or their interaction are not yet fully understood. The goal of this thesis is to analyze how irony is constructed in multimodal memes and to evaluate how MLLMs detect and explain ironic meaning. Possible research directions include defining or refining a taxonomy of irony in memes, annotating or analyzing existing meme datasets, and assessing model performance in irony detection and explanation, including consistency between predicted labels and generated explanations as well as common error patterns. 
+**Level: BSc**, adaptation to MSc possible.
+
+- *Gaze data for NLP.* The way in which our eyes move when reading a text can tell us a lot about the cognitive processes required for language understanding. For example, longer reading times indicate higher processing difficulty. In the past 10 years, a line of research has emerged that attempts to use gaze data obtained by eye tracking to improve NLP models for various tasks (e.g., [Barrett et al., 2016](https://aclanthology.org/P16-2094/), [Hollenstein & Zhang, 2019](https://aclanthology.org/N19-1001/), [Deng et al., 2023](https://aclanthology.org/2023.emnlp-main.400/), [Alaçam et al., 2024](https://aclanthology.org/2024.emnlp-main.11/)). A student project could involve investigating under which circumstances and for which NLP tasks gaze data can be beneficial, or whether we can achieve the same effect with artificially synthesized gaze data. References: [Hollenstein et al. (2019)](https://arxiv.org/abs/1904.02682), [Sood et al. (2020)](https://proceedings.neurips.cc/paper/2020/hash/460191c72f67e90150a093b4585e7eb4-Abstract.html), [Khurana et al. (2023)](https://aclanthology.org/2023.eacl-main.139/), [Bolliger et al. (2023)](https://aclanthology.org/2023.emnlp-main.960/).
+**Level: MSc.**
+
+- *Tracking eye movements during annotation.* Data annotation in NLP often involves subjective judgements or depends on how the annotators understand a given text. Eye tracking can be used to measure which parts of a text people pay most attention to. We can use this information to try to explain why different annotators choose different labels for the same text, which can also inform NLP models. A student project could involve collecting eye-tracking data for an annotation task where humans are known to disagree sometimes, and/or using existing eye-tracking data to analyze and explain annotation behavior.
+**References:** [Alaçam et al. (2024)](https://doi.org/10.18653/v1/2024.emnlp-main.11), [Joshi et al. (2014)](https://doi.org/10.3115/v1/p14-2007)
+**Level: MSc**, BSc possible (using existing gaze data).
+
+- *(Eye-)Tracking the processing of  visual representations of abstract concepts.* Visual representations of concrete concepts (e.g., banana) tend to be more consistent across images and interpretations than those of abstract concepts (e.g., joy), which show a lot of variability in both visual representations and semantic interpretations. This thesis investigates how humans process visual representations of abstract concepts using eye tracking techniques. By analyzing gaze patterns and attention distributions, this project aims to highlight various processing strategies associated with abstractness. **References:** [Tater et al. 2024](https://aclanthology.org/2024.emnlp-main.1203.pdf), [Tater et al. 2025](https://aclanthology.org/2025.emnlp-main.417/), [McRae et al. 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12328)
+**Level: MSc.**
+
+<!--
+### **Selected Research Projects**
 - *Understanding Indirectness*. Indirectness involves for example indirect answers
 to requests that do not explicitly contain answer clues like Yes, yeah or no. Example:
 Q: Do you wanna crash on the couch? A: I gotta go home sometime. Indirect
@@ -372,16 +445,43 @@ elaboration and context during simplification? b) Personalization: How can
 simplification techniques be personalized to specific user groups (e.g., children,
 non-native speakers, or individuals with disabilities)? Other topics in the area of ATS are also possible. **Level: MSc** (projects on a
 lower scope in the domain of ATS are also possible).
+-->
     " | markdownify }}
   </div>
 </div>
 
 <div class="accordion-section">
   <div class="accordion-header" onclick="toggleAccordion(this)">
-    V4: Human-centric Natural Language Understanding: Uncertainty, Perception, Cognition, Vision, Social and Cultural Aware NLP, Interpretability
+    V4: Understanding Complex Model Behavior (LLMs/VLMs, Agents)
   </div>
   <div class="accordion-content">
-    {{ "Some general references for this section: References: [Plank, 2016](https://arxiv.org/abs/1608.07836), [Plank, 2022
+    {{ "
+
+### **Thesis projects**
+
+- *Aggregation and Multi-Agent Systems.* Multi-Agent Systems (MAS) are ensembles of Language Models that solve tasks as a group. The performance of MAS improves with a higher diversity between agents and their individual solutions. However, to evaluate the performance, the models need to consent or their individual answers must be aggregated. This project offers multiple directions: either aiming at understanding the impact of aggregation on the group solution or analyzing the diversity of the individual solutions. Example projects: a) Comparing different aggregation methods and evaluating the faithfulness of LMs generating the final answer (for Master students: improving existing aggregation methods / comparing the impact on different multi-agent approaches); b) making non-aggregated solutions comprehensible for humans, e.g. through visualization, summarization, and/or formalization (for Master students: + evaluation of non-aggregated solutions / comparing different multi-agent approaches); c) other projects regarding MAS. References: [Du et al. (2024)](https://dl-acm-org.emedien.ub.uni-muenchen.de/doi/10.5555/3692070.3692537), [Casola et al. (2023)](https://aclanthology.org/2023.emnlp-main.212/), [Surowiecki (2005) (Introduction)](https://opac.ub.lmu.de/Record/3146851?sid=71261150).
+**Level: BSc or MSc.**
+
+- *Analyzing shortcut learning in VLMs across NLI and visual entailment:* Vision-language models (VLMs) achieve strong performance on many tasks, yet they can exhibit shortcut learning, where predictions rely on simple input patterns rather than on a full use of the available evidence. For LLMs, this behavior has been observed in NLI, which asks whether a hypothesis follows from a given premise. Prior work has shown that models can often solve NLI by relying mainly on cues in the hypothesis, without fully capturing the relationship between the premise and the hypothesis ([Poliak et al., 2018](https://aclanthology.org/S18-2023/), [Yuan et al., 2024](https://aclanthology.org/2024.emnlp-main.679/)). In visual entailment, the premise is an image rather than a text ([Xie et al., 2019](https://arxiv.org/abs/1901.06706), [Kayser et al., 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Kayser_E-ViL_A_Dataset_and_Benchmark_for_Natural_Language_Explanations_in_ICCV_2021_paper.pdf)). The goal of this project is to investigate whether similar shortcut behavior occurs in vision-language models when performing visual entailment, and to analyze which visual and textual information models rely on when making inferences. The scope can be adjusted for BSc or MSc, for example by varying the number of models, prompting strategies, or the depth and types of cues analyzed. 
+**Level: BSc or MSc.**
+
+Data Mining and LLM-as-a-Judge to better understand LLM behavior: While the behavior of LLMs and their nuanced and complex output data is challenging to evaluate, data mining approaches can be leveraged to explain model behavior, to bring structure into evaluation and to gain new insights, e.g. on cultural biases or task failure [1]. In this thesis project, we want to take this approach further by evaluating the use of newly proposed data mining algorithms and/or the combination of LLM-as-a-Judge with data mining processes. The project offers the possibility to work on a technical evaluation of methods as well as develop and evaluate a new method. **References:** [1] [https://aclanthology.org/2025.acl-long.985/](https://aclanthology.org/2025.acl-long.985/)
+**Level: MSc.**
+
+Understanding Post-Training Effects Through Model Behavior Analysis and Interpretability: Post-training has become an essential technique to adapt pretrained language models, e.g. to improve instruction following [1] or abilities for underrepresented languages [2], or to align model behavior with safety standards [3]. Correctly adapting models through post-training is, however, a complex and difficult process which can e.g. trigger broad misalignments and unexpected effects like safety failures [4]. To better control post-training, it is crucial to better understand how models change during the process.  
+
+This thesis will study the effects of post-training through a dual lens. Through model behavior analysis tools like Spotlight [5], it will explore how a model changes with respect to non-performance metrics like gender [6] and cultural biases [7]. Using probing, logic lense or other interpretability techniques, it will then go one step further and also start explaining how these changes occur within the model. Depending on scope and resource availability, this thesis can either work with existing model (checkpoints) or post-train specific model aspects.
+[1] [Ouyang et al. (2022): Training language models to follow instructions with human feedback. arXiv 2203.02155.](https://arxiv.org/pdf/2203.02155)
+[2] [Yu et al. (2026): AfriqueLLM: How Data Mixing and Model Architecture Impact Continued Pre-training for African Languages. arXiv 2601.06395.](https://arxiv.org/pdf/2601.06395)
+[3] [Grattafiori et al. (2024): The Llama 3 Herd of Models. arXiv 2407.21783.](https://arxiv.org/pdf/2407.21783)
+[4] [Betley et al. (2026): Training large language models on narrow tasks can lead to broad misalignment. Nature.](https://www.nature.com/articles/s41586-025-09937-5)
+[5] [Hedderich et al. (2025): What’s the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns. Proceedings of ACL.](https://aclanthology.org/2025.acl-long.985.pdf)
+[6] [De-Arteaga et al (2019): Bias in Bios: A Case Study of Semantic Representation Bias in High-Stakes Settings. Proceedings of the Conference on Fairness, Accountability and Transparency.](https://arxiv.org/pdf/1901.09451)
+[7] [Zhao et al. (2025): MAKIEval: A Multilingual Automatic WiKidata-based Framework for Cultural Awareness Evaluation for LLMs. Findings of EMNLP.](https://aclanthology.org/2025.findings-emnlp.1256.pdf)
+**Level: MSc.**
+
+<!--    
+Some general references for this section: References: [Plank, 2016](https://arxiv.org/abs/1608.07836), [Plank, 2022
 EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/abs/2405.02411)
 
 ### **Selected research projects**
@@ -458,7 +558,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   to identify such instability situations and especially explore the reasons behind
   them. References: [Mizrahi et al.](https://aclanthology.org/2024.tacl-1.52/), [Shu et al.](https://aclanthology.org/2024.naacl-long.295/), [Zhao et al.](https://aclanthology.org/2024.findings-emnlp.412/)
   **Level: BSc or MSc**.
-<!-- -  _Analyzing Conditional Acceptability in Large Language Models_. This project
+- _Analyzing Conditional Acceptability in Large Language Models_. This project
   explores how large language models assess the truth and acceptability of conditional
   statements (If A, then B). In cognitive psychology, there is an ongoing debate
   regarding the criteria humans use to judge the acceptability of conditionals. For
@@ -475,7 +575,6 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   human cognitive patterns and identify opportunities to improve their processing of
   conditional logic.
   **Level: BSc or MSc**
-  --> 
 - _Unveiling the Mechanisms of Soft Prompt Tuning in Cross-Lingual Transfer: An
   Interpretability-Driven Study_. This research aims to investigate why Soft Prompt
   Tuning (SPT) outperforms full-parameter fine-tuning (FT) in cross-lingual transfer
@@ -533,6 +632,7 @@ EMNLP](https://arxiv.org/abs/2211.02570), [Yang et al., 2024](https://arxiv.org/
   expected to investigate different ways of applying unsupervised semantic similarity
   models (e.g. BERTScore proposed in [Zhang et al. (2019)](https://arxiv.org/abs/1904.09675)) or LLMs to identify IA.
   **This thesis is suitable for BSc students (under a reduced scope) and MSc students.**
+  --> 
   " | markdownify }}
     </div>
   </div>
