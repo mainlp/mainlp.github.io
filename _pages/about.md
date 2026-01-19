@@ -105,12 +105,6 @@ staff:
 support:
   title: Support Staff
   people:
-    - name: Miriam Winkler
-      description: Student assistant (2023–)
-      picture: miriam.jpg
-    - name: Xinyuan Cheng
-      description: Student assistant (2025–)
-      picture: mainlp-logo-500.png
 admin:
   title: Administrative Staff
   people:
@@ -120,6 +114,9 @@ admin:
     - name: Karl Ischebeck
       description: IT technician, system administrator
       picture: karl.jpg
+    - name: Xinyuan Cheng
+      description: Scientific programmer (2026–)
+      picture: mainlp-logo-500.png
 affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
   people:
@@ -276,6 +273,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>Miriam Winkler (Student assistant, 2023–2025)</li>
     <li>Oliver Kraus (Scientific programmer, 2024–2025), now PhD student at Saarland University</li>
     <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (Postdoc, 2024-2025), now assistant professor at the University of Pittsburgh</li>
     <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023-2025), now postdoc at University of Copenhagen</li>
