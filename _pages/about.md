@@ -308,7 +308,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   <h2 class="category">MaiNLP alumni student assistants</h2>
   <ul>      
      <!-- student assistants --> 
-    <li>Miriam Winkler (Student assistant, 2023–2025)</li>
+    <li>Miriam Winkler (student assistant, 2023–2025)</li>
     <li>Ercong Nie (student assistant, 2022–2025)</li>
     <li>Sebastian Loftus (student assistant, 2023-2025), now PhD student at UCLouvain</li>
     <li>Chengzhi Hu (student assistant, 2023-2025), now PhD student at TUM</li>
