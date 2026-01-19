@@ -260,8 +260,8 @@ Other projects in summarization or simplification (e.g., resource building, mult
 **References:** [Yaneva et al. (2024)](https://aclanthology.org/2024.bea-1.39/), [Acquaye et al (2025)](https://arxiv.org/abs/2601.09953), [Liu et al. (2025)](https://doi.org/10.1111/bjet.13570), [Gorgun & Bulut (2024)](https://doi.org/10.1111/emip.12663), [Laverghetta et al. (2022)](https://doi.org/10.1007/978-3-031-04572-1_12)
 **Level: MSc.**
 
-- *Medical NLP.* NLP studies on medical texts often rely on synthetic data due to privacy and accessibility constraints. If you are interested in working in this domain, please check this entry again in a couple of days for more information.
-**Level: MSc.**
+- *Negations, uncertainty, and hypothetical or conditional statements in medical texts.* In clinical notes, these cues may alter the interpretation of a medical situation, and it is crucial to correctly identify them and their scope. This thesis will focus on how well traditional systems (e.g., [Chapman et al., 2001](https://pubmed.ncbi.nlm.nih.gov/12123149/)) and large language models perform at identifying such linguistic cues and on their scope in clinical documentation (for comparable studies cf. [Su et al. 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC12092861) and [van Es et al. 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9830789)). Students may either rely on existing gold-standard datasets ([BioScope](https://rgai.inf.u-szeged.hu/node/105), [NUBes](https://github.com/Vicomtech/NUBes-negation-uncertainty-biomedical-corpus), [IULA](https://eines.iula.upf.edu/brat//#/NegationOnCR_IULA/negation_iac_2_corr), ...) and emphasize modeling to improve performance, or create novel annotations from accessible clinical document corpora ([MIMIC](https://physionet.org/content/mimiciv/3.1/), [Cardio:DE](https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/AFYQDY), ...). Cross-lingual and cross-domain transfer learning may be included, given the scope of the thesis (cf. [Almudaifer et al. 2024](https://pubmed.ncbi.nlm.nih.gov/38849884/)).
+**Level: BSc or MSc.**
 
 <!--
 ### **Selected Research Projects**
