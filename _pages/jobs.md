@@ -15,7 +15,7 @@ Join us at MaiNLP @ LMU Munich / CIS:
 
 <!--<b>HiWi Position on Multilingual Natural Language Inference</b>, apply before August 25 2025 (open until filled); see <a href="/assets/pdf/hiwi-ad-MultilingualNLI.pdf" target="_blank">job description</a>.-->
 
-<b>Scientific programmer</b>, apply before October 30 2025 (extended deadline, open until filled); see <a href="/assets/pdf/Scientific-programmer-2026.pdf" target="_blank">job description</a>.
+<!--<b>Scientific programmer</b>, apply before October 30 2025 (extended deadline, open until filled); see <a href="/assets/pdf/Scientific-programmer-2026.pdf" target="_blank">job description</a>.-->
 
 <b>Postdoc position</b>, apply by September 18 2025 (open until filled); see <a href="/assets/pdf/Postdoc-position-2026.pdf" target="_blank">job description</a>.
 
