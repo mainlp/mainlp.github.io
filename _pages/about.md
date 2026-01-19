@@ -116,7 +116,7 @@ admin:
       picture: karl.jpg
     - name: Xinyuan Cheng
       description: Scientific programmer (2026–)
-      picture: mainlp-logo-500.png
+      picture: xinyuan.jpg
 affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
   people:
