@@ -102,9 +102,7 @@ staff:
       description: Affiliated ELLIS PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
       picture: joris.jpg
-support:
-  title: Support Staff
-  people:
+
 admin:
   title: Administrative Staff
   people:
@@ -118,6 +116,23 @@ admin:
       description: Scientific programmer (2026–)
       website: https://noah-13.github.io/xinyuan-cheng/
       picture: xinyuan.jpg
+      
+student assistant:
+  title: Student assistants
+  people:
+    - name: Longfei Zuo 
+      descriptions: (2024–)
+      picture: mainlp-logo-500.png
+    - name: Darja Jepifanova
+      descriptions: (2025–)
+      picture: mainlp-logo-500.png
+    - name: Katharina Halser
+      descriptions: (2025–)
+      picture: mainlp-logo-500.png
+    - name: Emma Minh Nguyet Luong
+      descriptions: (2025–)
+      picture: mainlp-logo-500.png
+
 affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
   people:
@@ -261,6 +276,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     </div>
   {%- endfor -%}
 
+  <!--
   <h2 class="category">Support staff and student assistants for teaching</h2>
    <ul>
     <li>Longfei Zuo (2024–)</li>
@@ -268,13 +284,13 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Katharina Halser (2025-)</li>
     <li>Emma Minh Nguyet Luong (2025-)</li> 
   </ul>
+  -->
   
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Miriam Winkler (Student assistant, 2023–2025)</li>
     <li>Oliver Kraus (Scientific programmer, 2024–2025), now PhD student at Saarland University</li>
     <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (Postdoc, 2024-2025), now assistant professor at the University of Pittsburgh</li>
     <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023-2025), now postdoc at University of Copenhagen</li>
@@ -286,7 +302,13 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
     <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
-    <!-- student assistants --> 
+  
+  </ul>
+  
+  <h2 class="category">MaiNLP alumni student assistants</h2>
+  <ul>      
+     <!-- student assistants --> 
+    <li>Miriam Winkler (Student assistant, 2023–2025)</li>
     <li>Ercong Nie (student assistant, 2022–2025)</li>
     <li>Sebastian Loftus (student assistant, 2023-2025), now PhD student at UCLouvain</li>
     <li>Chengzhi Hu (student assistant, 2023-2025), now PhD student at TUM</li>
