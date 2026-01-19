@@ -14,7 +14,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
-groups: [staff, support, admin, affiliated]
+groups: [staff, admin, student assistants, affiliated]
 staff:
   title: Research Staff
   people:
@@ -117,7 +117,7 @@ admin:
       website: https://noah-13.github.io/xinyuan-cheng/
       picture: xinyuan.jpg
       
-student assistant:
+student assistants:
   title: Student assistants
   people:
     - name: Longfei Zuo 
