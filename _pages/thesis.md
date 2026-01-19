@@ -469,8 +469,8 @@ lower scope in the domain of ATS are also possible).
 **Level: MSc.**
 
 - *Understanding Post-Training Effects Through Model Behavior Analysis and Interpretability:* Post-training has become an essential technique to adapt pretrained language models, e.g. to improve instruction following [1] or abilities for underrepresented languages [2], or to align model behavior with safety standards [3]. Correctly adapting models through post-training is, however, a complex and difficult process which can e.g. trigger broad misalignments and unexpected effects like safety failures [4]. To better control post-training, it is crucial to better understand how models change during the process.  
-
 This thesis will study the effects of post-training through a dual lens. Through model behavior analysis tools like Spotlight [5], it will explore how a model changes with respect to non-performance metrics like gender [6] and cultural biases [7]. Using probing, logic lense or other interpretability techniques, it will then go one step further and also start explaining how these changes occur within the model. Depending on scope and resource availability, this thesis can either work with existing model (checkpoints) or post-train specific model aspects.
+**References:**
 [1] [Ouyang et al. (2022): Training language models to follow instructions with human feedback. arXiv 2203.02155.](https://arxiv.org/pdf/2203.02155)
 [2] [Yu et al. (2026): AfriqueLLM: How Data Mixing and Model Architecture Impact Continued Pre-training for African Languages. arXiv 2601.06395.](https://arxiv.org/pdf/2601.06395)
 [3] [Grattafiori et al. (2024): The Llama 3 Herd of Models. arXiv 2407.21783.](https://arxiv.org/pdf/2407.21783)
