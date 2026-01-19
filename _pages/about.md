@@ -116,6 +116,7 @@ admin:
       picture: karl.jpg
     - name: Xinyuan Cheng
       description: Scientific programmer (2026–)
+      website: https://noah-13.github.io/xinyuan-cheng/
       picture: xinyuan.jpg
 affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
