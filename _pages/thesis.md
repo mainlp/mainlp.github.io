@@ -65,7 +65,7 @@ It should contain a single pdf with the following information:
 - CV, your study program, full grade transcript
 - Level: BSc or MSc thesis project
 - Which theme or project interests you (optional: we are open to project proposals related to the research vectors or on-going research projects). If you are interested in multiple, list your preferences for up to **four** (ranked list: first priority, second priority, third priority, fourth priority)
-- Languages you speak
+- Languages and dialects you speak
 - Your favorite project so far, and why
 - Your knowledge and interest in data annotation, data analysis and machine learning/deep learning (including which toolkits you are familiar with)
 - Whether you have access to GPU resources (and which)
