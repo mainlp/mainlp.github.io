@@ -1,6 +1,51 @@
 ---
 ---
 
+@inproceedings{zhao-etal-2025-makieval,
+    title = "{MAKIE}val: A Multilingual Automatic {W}i{K}idata-based Framework for Cultural Awareness Evaluation for {LLM}s",
+    author = "Zhao, Raoyuan  and
+      Chen, Beiduo  and
+      Plank, Barbara  and
+      Hedderich, Michael A.",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.1256/",
+    doi = "10.18653/v1/2025.findings-emnlp.1256",
+    pages = "23104--23136",
+    ISBN = "979-8-89176-335-7",
+    abstract = "Large language models (LLMs) are used globally across many languages, but their English-centric pretraining raises concerns about cross-lingual disparities for cultural awareness, often resulting in biased outputs. However, comprehensive multilingual evaluation remains challenging due to limited benchmarks and questionable translation quality. To better assess these disparities, we introduce MAKIEval, an automatic multilingual framework for evaluating cultural awareness in LLMs across languages, regions, and topics. MAKIEval evaluates open-ended text generation, capturing how models express culturally grounded knowledge in natural language. Leveraging Wikidata{'}s multilingual structure as a cross-lingual anchor, it automatically identifies cultural entities in model outputs and links them to structured knowledge, enabling scalable, language-agnostic evaluation without manual annotation or translation. We then introduce four metrics that capture complementary dimensions of cultural awareness: granularity, diversity, cultural specificity, and consensus across languages. We assess 7 LLMs developed from different parts of the world, encompassing both open-source and proprietary systems, across 13 languages, 19 countries and regions, and 6 culturally salient topics (e.g., food, clothing). Notably, we find that models tend to exhibit stronger cultural awareness in English, suggesting that English prompts more effectively activate culturally grounded knowledge. We publicly release our code and data."
+}
+
+@inproceedings{litschko-etal-2025-make,
+    title = "Make Every Letter Count: Building Dialect Variation Dictionaries from Monolingual Corpora",
+    author = "Litschko, Robert  and
+      Blaschke, Verena  and
+      Burkhardt, Diana  and
+      Plank, Barbara  and
+      Frassinelli, Diego",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.762/",
+    doi = "10.18653/v1/2025.findings-emnlp.762",
+    pages = "14157--14174",
+    ISBN = "979-8-89176-335-7",
+    abstract = "Dialects exhibit a substantial degree of variation due to the lack of a standard orthography. At the same time, the ability of Large Language Models (LLMs) to process dialects remains largely understudied. To address this gap, we use Bavarian as a case study and investigate the lexical dialect understanding capability of LLMs by examining how well they recognize and translate dialectal terms across different parts-of-speech. To this end, we introduce DiaLemma, a novel annotation framework for creating dialect variation dictionaries from monolingual data only, and use it to compile a ground truth dataset consisting of 100K human-annotated German-Bavarian word pairs. We evaluate how well nine state-of-the-art LLMs can judge Bavarian terms as dialect translations, inflected variants, or unrelated forms of a given German lemma. Our results show that LLMs perform best on nouns and lexically similar word pairs, and struggle most in distinguishing between direct translations and inflected variants. Interestingly, providing additional context in the form of example usages improves the translation performance, but reduces their ability to recognize dialect variants. This study highlights the limitations of LLMs in dealing with orthographic dialect variation and emphasizes the need for future work on adapting LLMs to dialects."
+}
+
 @inproceedings{testoni-etal-2025-racquet,
     title = "{RA}c{QUE}t: Unveiling the Dangers of Overlooked Referential Ambiguity in Visual {LLM}s",
     author = "Testoni, Alberto  and
