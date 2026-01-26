@@ -58,7 +58,7 @@ Deadlines for the summer semester 2025-2026:
 - MSc students apply before **Monday February 9, 2026**
 - BSc students apply before **Monday February 16, 2026**
 
-To apply, please send your application material with subject "[BSc (or MSc) thesis project at MaiNLP - inquiry [Name and which semester]" to: **thesisplank@cis.lmu.de**
+To apply, please send your application material with subject "[BSc (or MSc) thesis project at MaiNLP - inquiry Name and which semester]" to: **thesisplank@cis.lmu.de**
 
 It should contain a single pdf with the following information:
 
