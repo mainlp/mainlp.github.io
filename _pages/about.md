@@ -313,7 +313,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Sebastian Loftus (student assistant, 2023-2025), now PhD student at UCLouvain</li>
     <li>Chengzhi Hu (student assistant, 2023-2025), now PhD student at TUM</li>
     <li>Pingjun Hong (student assistant, 2024–2025), now PhD student at University of Vienna</li>
-    <li>Yuchen Mao (student assistant, 2024–), now PhD student at Saarland University</li>
+    <li>Yuchen Mao (student assistant, 2024–2025), now PhD student at Saarland University</li>
     <li>Huangyan Shan (student assistant, 2023–2025)</li>
     <li>Yurui Zhang (student assistant, 2024–2025)</li>
     <li>Zonggen Li (student assistant, 2023–2025)</li>
