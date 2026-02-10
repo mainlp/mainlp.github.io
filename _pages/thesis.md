@@ -21,6 +21,7 @@ News:
 
 <!-- - 2024, Feb 26: Thank you all for your interest! We are closed for further thesis applications for the upcoming summer semester  -->
 
+- 2026, Feb 10: MSc thesis application deadline has passed
 - 2026, Jan 15: MSc/BSc project applications deadlines posted. ~~New topics currently under development, stay tuned!~~
 - 2026, Jan 19: New thesis topics posted.
 
