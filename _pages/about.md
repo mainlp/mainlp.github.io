@@ -120,18 +120,13 @@ admin:
 student assistants:
   title: Student assistants
   people:
-    - name: Longfei Zuo 
-      description: Student assistant for teaching (2024–)
-      picture: mainlp-logo-500.png
     - name: Darja Jepifanova
       description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
     - name: Katharina Halser
       description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
-    - name: Emma Minh Nguyet Luong
-      description: Student assistant for teaching (2025–)
-      picture: mainlp-logo-500.png
+    
 
 affiliated:
   title: Affiliated members (e.g. co-supervisors, co-supervised or mentored external PhD students, guest researchers and visitors)
@@ -182,10 +177,6 @@ affiliated:
       description: External co-supervised PhD student, LMU
       website: #
       picture: mainlp-logo-500.png
-    - name: Shengqiang Zhang
-      description: External co-supervised PhD student, LMU
-      website: #
-      picture: mainlp-logo-500.png
     - name: Patrick Parschan
       description: External mentored PhD student, Department of Media and Communication, LMU Munich
       website: #
@@ -194,10 +185,6 @@ affiliated:
       description: External mentored PhD student, Institute of Statistics, LMU
       picture: cg.jpg
       website: https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/gruber/index.html
-    - name: Benedetta Muscato
-      description: Visiting PhD student, Scuola Normale Superiore (Pisa)
-      picture: benedetta.jpeg
-      website: https://kdd.isti.cnr.it/people/muscato-benedetta
 
 ---
 
@@ -291,6 +278,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li>Shengqiang Zhang (External co-supervised PhD student LMU, 2023-2025)</li>
     <li>Oliver Kraus (Scientific programmer, 2024–2025), now PhD student at Saarland University</li>
     <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (Postdoc, 2024-2025), now assistant professor at the University of Pittsburgh</li>
     <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023-2025), now postdoc at University of Copenhagen</li>
@@ -307,7 +295,8 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
   <h2 class="category">MaiNLP alumni student assistants</h2>
   <ul>      
-     <!-- student assistants --> 
+    <li>Emma Minh Nguyet Luong (student assistant, 2025)</li>
+    <li>Longfei Zuo (student assistant, 2024–2025)</li>
     <li>Miriam Winkler (student assistant, 2023–2025)</li>
     <li>Ercong Nie (student assistant, 2022–2025)</li>
     <li>Sebastian Loftus (student assistant, 2023-2025), now PhD student at UCLouvain</li>
@@ -333,6 +322,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   <h2 class="category">MaiNLP alumni visitors</h2>
   <ul>
      <!-- visitors --> 
+    <li><a href="https://kdd.isti.cnr.it/people/muscato-benedetta/">Benedetta Muscato</a> (Visiting PhD student, Scuola Normale Superiore (Pisa), 2025)</li>
     <li>Walter Paci (visiting PhD student, Università degli Studi di Firenze, 2025)</li>
     <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
     <li><a href="https://yupei.nl/">Yupei Du</a> (visiting PhD student, Utrecht University, 2025)</li>
