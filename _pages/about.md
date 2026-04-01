@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 
 groups: [staff, admin, student assistants, affiliated]
 staff:
-  title: Research Staff
+  title: Research staff
   people:
     - name: Barbara Plank
       description: Prof. Dr. and Chair for AI and Computational Linguistics, Head of MaiNLP and Co-director CIS
@@ -30,14 +30,14 @@ staff:
       description: Junior Research Group Leader
       website: https://www.michael-hedderich.de/
       picture: michael.jpg
+    - name: Mahdi Dhaini
+      description: Postdoc (2026–)
+      website: https://scholar.google.com/citations?user=JifHTiwAAAAJ
+      picture: mainlp-logo-500.png      
     - name: Silvia Casola
       description: Postdoc (2024–)
       website: https://scholar.google.it/citations?user=h6Nw1QIAAAAJ
       picture: silvia.jpeg
-    - name: Siyao (Logan) Peng
-      description: Postdoc (2023–)
-      website: https://logan-siyao-peng.github.io/
-      picture: logan.jpeg
     - name: Robert Litschko
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
@@ -82,29 +82,25 @@ staff:
       description: ELLIS PhD student (2024–)
       website: https://mckysse.github.io/
       picture: beiduo.jpg
-    - name: Philipp Mondorf
-      description: PhD student (2023–)
-      website: https://pmmon.github.io/
-      picture: philipp.jpg
-    - name: Xinpeng Wang
-      description: PhD student (2022–)
-      website: https://xinpeng-wang.github.io/
-      picture: xinpeng.jpg
-    - name: Verena Blaschke
-      description: PhD student (2022–)
-      website: https://verenablaschke.github.io/
-      picture: verena.png
     - name: Elena Senger
       description: External PhD student (2023–), Fraunhofer IMW
       website: https://elenasenger.netlify.app/
       picture: elena.jpg
+    - name: Philipp Mondorf
+      description: PhD student (2023–)
+      website: https://pmmon.github.io/
+      picture: philipp.jpg
+    - name: Verena Blaschke
+      description: PhD student (2022–)
+      website: https://verenablaschke.github.io/
+      picture: verena.png
     - name: Joris Baan
       description: Affiliated ELLIS PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
       picture: joris.jpg
 
 admin:
-  title: Administrative Staff
+  title: Administrative staff
   people:
     - name: Paravee Jungbauer
       description: Assistant
@@ -120,6 +116,9 @@ admin:
 student assistants:
   title: Student assistants
   people:
+    - name: Jasmin Orth
+      description: Student assistant for research/teaching (2026–)
+      picture: mainlp-logo-500.png
     - name: Darja Jepifanova
       description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
@@ -275,17 +274,19 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
-  
+
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li>Shengqiang Zhang (External co-supervised PhD student LMU, 2023-2025)</li>
-    <li>Oliver Kraus (Scientific programmer, 2024–2025), now PhD student at Saarland University</li>
-    <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (Postdoc, 2024-2025), now assistant professor at the University of Pittsburgh</li>
-    <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023-2025), now postdoc at University of Copenhagen</li>
-    <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
+    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026), now intern at Meta</li>
+    <li><a href="https://logan-siyao-peng.github.io/">Siyao (Logan) Peng</a> (postdoc, 2023–2026)</li>
+    <li>Shengqiang Zhang (external co-supervised PhD student LMU, 2023–2025)</li>
+    <li>Oliver Kraus (scientific programmer, 2024–2025), now PhD student at Saarland University</li>
+    <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (postdoc, 2024–2025), now assistant professor at the University of Pittsburgh</li>
+    <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023–2025), now postdoc at University of Copenhagen</li>
+    <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen and University of Tokyo</li>
     <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
     <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
-    <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at Aalborg University, Copenhagen</li>
+    <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at University of Copenhagen</li>
     <li>Jian Lan (PhD student, 2023–2024)</li>
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
     <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
