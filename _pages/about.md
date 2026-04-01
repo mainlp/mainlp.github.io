@@ -358,8 +358,7 @@ We are also part of:
   <h2 class="category">Find us</h2>
   We are located at Akademiestraße 7, 80799 Munich, Germany (<a href="https://mainlp.github.io/contact/">→ directions</a>).<br/>
 
-<a href="https://github.com/mainlp"><i class="fab fa-github"></i> MaiNLP</a><br/>
-<a href="https://twitter.com/MaiNLPlab"><i class="fab fa-twitter"></i> MaiNLPlab</a><br/>
-<a href="https://twitter.com/CisLMU"><i class="fab fa-twitter"></i> CisLMU</a>
+<i class="fab fa-github" title="GitHub"/> <a title="GitHub" href="https://github.com/mainlp">MaiNLP</a><br/>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/bluesky.svg" width="15" height="15" title="Bluesky"> <a title="Bluesky" href="https://bsky.app/profile/mainlp.bsky.social">mainlp.bsky.social</a>
 
 </div>
