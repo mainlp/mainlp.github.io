@@ -158,6 +158,8 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
+    - name: Ahan Chatterjee
+      description: External PhD student, BaDW
     - name: Sebastian Loftus
       description: External mentored PhD student, UCLouvain, Belgium
       picture: sebastian.jpg
