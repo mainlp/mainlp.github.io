@@ -6,7 +6,7 @@ bio: '<p>Els Lefever is associate professor at the LT3 language and translation 
 time: June 8, 2026; 9:00
 location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
-img: assets/img/els-lefever.jpg
+img: assets/img/els.jpg
 imgalt: Portrait of Els Lefever
 imgside: right
 anchor: 2026-06-08-els-lefever.md
