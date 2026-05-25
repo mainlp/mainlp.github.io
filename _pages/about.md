@@ -279,7 +279,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   Join us! <a href="/jobs">→Open positions</a>
 
    <h2 class="category">Impressions</h2>
-   <img src="assets/img/mainlp-at-lrec2026.png" width=400px />
+   <img src="assets/img/mainlp-at-lrec2026.png" width="50%" />
 
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
