@@ -304,13 +304,13 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   <h2 class="category">MaiNLP alumni student assistants</h2>
   <ul>      
     <li>Emma Minh Nguyet Luong (student assistant, 2025)</li>
-    <li>Longfei Zuo (student assistant, 2024–2025)</li>
-    <li>Miriam Winkler (student assistant, 2023–2025)</li>
-    <li>Ercong Nie (student assistant, 2022–2025)</li>
-    <li>Sebastian Loftus (student assistant, 2023-2025), now PhD student at UCLouvain</li>
-    <li>Chengzhi Hu (student assistant, 2023-2025), now PhD student at TUM</li>
-    <li>Pingjun Hong (student assistant, 2024–2025), now PhD student at University of Vienna</li>
-    <li>Yuchen Mao (student assistant, 2024–2025), now PhD student at Saarland University</li>
+    <li>Longfei Zuo (student assistant, 2024–2025) &rarr; PhD student at TUM</li>
+    <li>Miriam Winkler (student assistant, 2023–2025)  &rarr; in industry</li>
+    <li>Ercong Nie (student assistant, 2022–2025) &rarr; tenure-track assistant professor in AI and language science at the School of Foreign Languages of Shanghai Jiao Tong</li>
+    <li>Sebastian Loftus (student assistant, 2023-2025) &rarr; PhD student at UCLouvain</li>
+    <li>Chengzhi Hu (student assistant, 2023-2025) &rarr; PhD student at TUM</li>
+    <li>Pingjun Hong (student assistant, 2024–2025) &rarr; PhD student at University of Vienna</li>
+    <li>Yuchen Mao (student assistant, 2024–2025) &rarr; PhD student at Saarland University</li>
     <li>Huangyan Shan (student assistant, 2023–2025)</li>
     <li>Yurui Zhang (student assistant, 2024–2025)</li>
     <li>Zonggen Li (student assistant, 2023–2025)</li>
@@ -318,11 +318,11 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li>Kaiwei Lei (student assistant, 2024)</li>
     <li>Zihang Sun (student assistant, 2023–2024)</li>
     <li>Barbara Kovačić (student assistant, 2023–2024)</li>
-    <li>Ivo S. Bueno Júnior (student assistant, 2023–2024), now PhD student at TUM</li>
+    <li>Ivo S. Bueno Júnior (student assistant, 2023–2024) &rarr; PhD student at TUM</li>
     <li>Yang Sun (student assistant, 2023–2024)</li>
     <li>Marie Kolm (student assistant, 2023)</li>
     <li>Sif Dam Sonniks (student assistant, 2022–2023)</li>
-    <li>Bolei Ma (student assistant, 2022–2023), now PhD student at LMU</li>
+    <li>Bolei Ma (student assistant, 2022–2023) &rarr; PhD student at LMU</li>
     <li>Anna Barwig (student assistant, 2022–2023)</li>
     <li>Chaeeun Lee (student assistant, 2022–2023)</li>
   </ul>
