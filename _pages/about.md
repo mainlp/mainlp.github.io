@@ -202,6 +202,7 @@ In broad terms, our aim is human-facing NLP: to make NLP models more robust and 
   <h2 class="category">News</h2>
 <!-- <h3 style="font-size: 1rem; font-weight: bolder;">Events</h3> -->
   <ul>
+    <li>May 16, 2026: Barbara gives a keynote on <em>Beyond the Standard: Dialectal Variation at the Heart of NLP"</em> at the <a href="https://dialres.github.io/dialres/index.html">Dialects in NLP — A Resource Perspective</a> Workshop at LREC 2026</li>
     <li>October 23, 2025: Verena and Barbara featuring in a <a href="https://www.ardmediathek.de/video/capriccio/warum-ki-kein-bairisch-versteht/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDA2MzQzQTAvc2VjdGlvbi83NDc3YzM4OS1jMjZlLTQ2YTItOTYxOS04NzNhOTA3YWNiNGY">tv segment on BR (Bayerischer Rundfunk)</a></li>
     <li>August 21, 2025: Philipp and Barbara featuring in <a href="https://ellis.eu/news/collaborative-science-in-action-pan-european-ellis-collaboration-leads-to-influential-nlp-publication">ELLIS news on Collaborative Science in Action</a></li>
     <li>August 18, 2025: Verena and Barbara featuring in BR's (Bayerischer Rundfunk) <a href="https://aiformedia.network/bedtime-stories-reveal-how-automatic-speech-recognition-struggles-with-bavarian-dialect/">AI for Media Network news</a></li>
