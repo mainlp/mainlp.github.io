@@ -283,7 +283,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; Meta &rarr; NYU Data Science Research Fellow</li>
+    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; Meta &rarr; NYU Center for Data Science Faculty Fellow</li>
     <li><a href="https://logan-siyao-peng.github.io/">Siyao (Logan) Peng</a> (postdoc, 2023–2026)</li>
     <li>Shengqiang Zhang (external co-supervised PhD student LMU, 2023–2025)</li>
     <li>Oliver Kraus (scientific programmer, 2024–2025) &rarr; PhD student at Saarland University</li>
@@ -304,7 +304,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   <ul>      
     <li>Emma Minh Nguyet Luong (student assistant, 2025)</li>
     <li>Longfei Zuo (student assistant, 2024–2025) &rarr; PhD student at TUM</li>
-    <li>Miriam Winkler (student assistant, 2023–2025)  &rarr; in industry</li>
+    <li>Miriam Winkler (student assistant, 2023–2025)  &rarr; masitcon GmbH</li>
     <li>Ercong Nie (student assistant, 2022–2025) &rarr; tenure-track assistant professor in AI and language science at the School of Foreign Languages of Shanghai Jiao Tong</li>
     <li>Sebastian Loftus (student assistant, 2023-2025) &rarr; PhD student at UCLouvain</li>
     <li>Chengzhi Hu (student assistant, 2023-2025) &rarr; PhD student at TUM</li>
