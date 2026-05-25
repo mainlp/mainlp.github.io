@@ -125,6 +125,12 @@ student assistants:
     - name: Katharina Halser
       description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
+    - name: Ziyun Zhang
+      description: Student assistant for teaching (2026–)
+      picture: mainlp-logo-500.png
+    - name: Siyuan Wang
+      description: Student assistant for teaching (2026–)
+      picture: mainlp-logo-500.png
     
 
 affiliated:
@@ -268,36 +274,26 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
       {%- endfor -%}
     </div>
   {%- endfor -%}
-
-  <!--
-  <h2 class="category">Support staff and student assistants for teaching</h2>
-   <ul>
-    <li>Longfei Zuo (2024–)</li>
-    <li>Darja Jepifanova (2025-)</li>
-    <li>Katharina Halser (2025-)</li>
-    <li>Emma Minh Nguyet Luong (2025-)</li> 
-  </ul>
-  -->
   
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
 
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026), now intern at Meta</li>
+    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; Meta &rarr; NYU Data Science Research Fellow</li>
     <li><a href="https://logan-siyao-peng.github.io/">Siyao (Logan) Peng</a> (postdoc, 2023–2026)</li>
     <li>Shengqiang Zhang (external co-supervised PhD student LMU, 2023–2025)</li>
-    <li>Oliver Kraus (scientific programmer, 2024–2025), now PhD student at Saarland University</li>
-    <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (postdoc, 2024–2025), now assistant professor at the University of Pittsburgh</li>
-    <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023–2025), now postdoc at University of Copenhagen</li>
-    <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen and University of Tokyo</li>
-    <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024), now postdoc at IT University of Copenhagen</li>
-    <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024), now in industry</li>
-    <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024), now postdoc at University of Copenhagen</li>
+    <li>Oliver Kraus (scientific programmer, 2024–2025) &rarr; PhD student at Saarland University</li>
+    <li><a href="https://janetlauyeung.github.io/">Yang Janet Liu</a> (postdoc, 2024–2025) &rarr; assistant professor at the University of Pittsburgh</li>
+    <li><a href="https://sxu3.github.io/">Shanshan Xu</a> (External mentored PhD student TUM, 2023–2025) &rarr; postdoc University of Copenhagen</li>
+    <li><a href="https://mxij.me/">Max Müller-Eberstein</a> (PhD student ITU, 2020–2024) &rarr; postdoc IT University of Copenhagen and University of Tokyo</li>
+    <li><a href="https://elisabassignana.github.io/">Elisa Bassignana</a> (PhD student ITU, 2020–2024) &rarr; postdoc IT University of Copenhagen</li>
+    <li><a href="https://scholar.google.com/citations?user=OKbS2VAAAAAJ">Leon Weber-Genzel</a> (postdoc, 2022–2024) &rarr; smedo GmbH</li>
+    <li><a href="https://jjzha.github.io/">Mike Zhang</a> (PhD student ITU, 2020–2024) &rarr; postdoc University of Copenhagen</li>
     <li>Jian Lan (PhD student, 2023–2024)</li>
     <li><a href="https://dteodore.github.io/">Daniela Teodorescu</a> (PhD student, 2023–2024)</li>
-    <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023), now at Silo AI</li>
-    <li>Katya Artemova (postdoc, 2022–2023), now at Toloka AI</li>
+    <li><a href="https://mariabarrett.github.io/">Maria Barrett</a> (postdoc ITU, 2020–2023) &rarr; Silo AI</li>
+    <li>Katya Artemova (postdoc, 2022–2023) &rarr;  Toloka AI</li>
   
   </ul>
   
@@ -330,7 +326,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   <h2 class="category">MaiNLP alumni visitors</h2>
   <ul>
      <!-- visitors --> 
-    <li><a href="https://kdd.isti.cnr.it/people/muscato-benedetta/">Benedetta Muscato</a> (Visiting PhD student, Scuola Normale Superiore (Pisa), 2025)</li>
+    <li><a href="https://kdd.isti.cnr.it/people/muscato-benedetta/">Benedetta Muscato</a> (Visiting PhD student, Scuola Normale Superiore Pisa, 2025)</li>
     <li>Walter Paci (visiting PhD student, Università degli Studi di Firenze, 2025)</li>
     <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
     <li><a href="https://yupei.nl/">Yupei Du</a> (visiting PhD student, Utrecht University, 2025)</li>
