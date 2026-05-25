@@ -149,7 +149,7 @@ affiliated:
     - name: Raffaella Bernardi
       description: Associate Professor, Free University of Bozen-Bolzano, co-supervisor
       website: https://www.unibz.it/it/faculties/engineering/academic-staff/person/2311-raffaella-bernardi
-      picture: mainlp-logo-500.png
+      picture: raffaella.jpg
     - name: Alessandro Vietti
       description: Associate Professor, Free University of Bozen-Bolzano, co-supervisor
       website: https://sites.google.com/site/avietti/home
