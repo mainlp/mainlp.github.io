@@ -278,6 +278,9 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   <h2 class="category">You?</h2>
   Join us! <a href="/jobs">→Open positions</a>
 
+   <h2 class="category">Impressions</h2>
+   <img src="assets/img/mainlp-at-lrec2026.png" width=400px />
+
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
     <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; Meta &rarr; NYU Data Science Research Fellow</li>
