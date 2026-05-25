@@ -146,6 +146,10 @@ affiliated:
       description: Full Professor at University of Cambridge, co-supervisor
       website: https://sites.google.com/site/annakorhonen/
       picture: annak.jpg
+    - name: Raffaella Bernardi
+      description: Associate Professor, Free University of Bozen-Bolzano, co-supervisor
+      website: https://www.unibz.it/it/faculties/engineering/academic-staff/person/2311-raffaella-bernardi
+      picture: mainlp-logo-500.png
     - name: Alessandro Vietti
       description: Associate Professor, Free University of Bozen-Bolzano, co-supervisor
       website: https://sites.google.com/site/avietti/home
