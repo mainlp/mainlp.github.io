@@ -351,6 +351,8 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://www.bayern.de/politik/hightech-agenda/">Bayerische Staatsregierung HTA</a></li>
     <li><a href="https://mcml.ai/">Munich Center for Machine Learning (MCML)</a></li>
     <li><a href="https://www.bidt.digital/">Bayerisches Forschungsinstitut für Digitale Transformation (bidt)</a></li>
+    <li><a href="https://imminent.translated.com/">Translated, Imminent Research Grant</a></li>
+ 
   </ul>
 
 We are also part of:
