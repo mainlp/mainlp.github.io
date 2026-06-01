@@ -42,6 +42,14 @@ staff:
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
       picture: robert.png
+    - name: Martin Bär
+      description: External PhD student (2026–), Heimat Bayern
+      website: #
+      picture: martin.jpg 
+    - name: Ahan Chatterjee
+      description: External PhD student (2026–), BaDW
+      website: #
+      picture: mainlp-logo-500.png
     - name: Monica Riedler
       description: ELLIS PhD student (2025–)
       website: https://scholar.google.com/citations?user=--blFl0AAAAJ&hl
@@ -168,8 +176,14 @@ affiliated:
       description: Senior Research Scientist at the National Research Council Canada (NRC)
       website: https://www.saifmohammad.com/
       picture: saif.png
-    - name: Ahan Chatterjee
-      description: External PhD student, BaDW
+    - name: Lars Bülow
+      description: Professor, LMU Munich, co-supervisor
+      website: https://www.sprachlit.lmu.de/de/die-fakultaet/personen/kontaktseite/lars-buelow-93ab2239.html
+      picture: mainlp-logo-500.png
+    - name: Wessel Poelman
+      description: Visiting PhD student, KU Leuven, Belgium
+      website: https://wesselpoelman.nl/
+      picture: wessel.jpg
     - name: Sebastian Loftus
       description: External mentored PhD student, UCLouvain, Belgium
       picture: sebastian.jpg
