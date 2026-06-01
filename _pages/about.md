@@ -43,7 +43,7 @@ staff:
       website: https://rlitschk.github.io/
       picture: robert.png
     - name: Martin Bär
-      description: External PhD student (2026–), Heimat Bayern
+      description: External researcher (2026–), Heimat Bayern
       website: #
       picture: martin.jpg 
     - name: Ahan Chatterjee
