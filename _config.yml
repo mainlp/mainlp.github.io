@@ -184,9 +184,6 @@ scholar:
   bibliography_template:
     - bib
     - highlight
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
@@ -246,7 +243,6 @@ imagemagick:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips:
   false # enables automatic tooltip links generated
   # for each section titles on pages and posts
@@ -273,8 +269,6 @@ fontawesome:
 jquery:
   version: "3.6.0"
   integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-mathjax:
-  version: "3.2.0"
 mdb:
   version: "4.20.0"
   integrity:
