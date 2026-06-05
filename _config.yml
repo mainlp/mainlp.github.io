@@ -127,7 +127,6 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives  # todo: remove or set up
   - jekyll-compress-images
   - jekyll-feed
   - jekyll-imagemagick
@@ -153,23 +152,6 @@ jekyll-minifier:
   exclude: ["robots.txt"]
   # uglifier_args:
   #   harmony: true
-
-# -----------------------------------------------------------------------------
-# Jekyll Archives
-# -----------------------------------------------------------------------------
-
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
-
-display_tags: ["formatting", "images", "links", "math", "code"] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
