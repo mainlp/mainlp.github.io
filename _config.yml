@@ -136,6 +136,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap  # creates sitemap for search engines
   - jekyll-target-blank
+  - jemoji
 
 # Sitemap settings
 defaults:
