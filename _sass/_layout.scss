@@ -1,6 +1,7 @@
 /******************************************************************************
  * Content
  ******************************************************************************/
+@use "variables" as v;
 
 body {
   padding-bottom: 70px;
@@ -23,7 +24,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: $max-content-width;
+  max-width: v.$max-content-width;
 }
 
 // Profile

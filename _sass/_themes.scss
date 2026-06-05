@@ -1,21 +1,22 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
+@use "variables" as v;
  
 :root {
-  --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
-  --global-code-fg-color: #{$mainlp-dark-blue};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$mainlp-green};
-  --global-hover-color: #{$mainlp-light-blue};
-  --global-footer-bg-color: #{$mainlp-dark-blue};
-  --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #{$grey-color};
-  --global-divider-color: #{$mainlp-dark-blue};
-  --global-card-bg-color: #{$white-color};
+  --global-bg-color: #{v.$white-color};
+  --global-code-bg-color: #{v.$code-bg-color-light};
+  --global-code-fg-color: #{v.$mainlp-dark-blue};
+  --global-text-color: #{v.$black-color};
+  --global-text-color-light: #{v.$grey-color};
+  --global-theme-color: #{v.$mainlp-green};
+  --global-hover-color: #{v.$mainlp-light-blue};
+  --global-footer-bg-color: #{v.$mainlp-dark-blue};
+  --global-footer-text-color: #{v.$grey-color-light};
+  --global-footer-link-color: #{v.$white-color};
+  --global-distill-app-color: #{v.$grey-color};
+  --global-divider-color: #{v.$mainlp-dark-blue};
+  --global-card-bg-color: #{v.$white-color};
 
   .fa-sun {
     display : none;
@@ -35,18 +36,18 @@
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
-  --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #{$grey-color-light};
-  --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
-  --global-footer-bg-color: #{$grey-color-light};
-  --global-footer-text-color: #{$grey-color-dark};
-  --global-footer-link-color: #{$black-color};
-  --global-distill-app-color: #{$grey-color-light};
+  --global-bg-color: #{v.$grey-color-dark};
+  --global-code-bg-color: #{v.$code-bg-color-dark};
+  --global-text-color: #{v.$grey-color-light};
+  --global-text-color-light: #{v.$grey-color-light};
+  --global-theme-color: #{v.$cyan-color};
+  --global-hover-color: #{v.$cyan-color};
+  --global-footer-bg-color: #{v.$grey-color-light};
+  --global-footer-text-color: #{v.$grey-color-dark};
+  --global-footer-link-color: #{v.$black-color};
+  --global-distill-app-color: #{v.$grey-color-light};
   --global-divider-color: #424246;
-  --global-card-bg-color: #{$grey-900};
+  --global-card-bg-color: #{v.$grey-900};
 
   .fa-sun {
     padding-left: 10px;
