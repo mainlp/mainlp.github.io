@@ -3,16 +3,28 @@
 <a href="{{ entry.url }}" target="_blank" rel="noreferrer">
     <div class="container">
         <img src="/assets/img/publications/{{ entry.image }}" alt="Publication Image">
-        <p class="date">{{ entry.month }} {{ entry.year }}</p>
-        <h3 class="title">{{ entry.title }}</h3>
-        <div class="author-container">
-            <p class="authors">{{ entry.author }}</p>
-        </div>
+        {% if entry.url %}
+          <a href="{{ entry.url }}" class="title title-link" target="_blank" rel="noreferrer">{{ entry.title }}</a>
+        {% else %}
+          <p class="title">{{ entry.title }}</p>
+        {% endif %}
+        <p class="authors">
+          {%- for author in entry.author_array -%}
+            {%- if forloop.length == 1 -%}
+              <!-- non-breaking hyphen -->
+                <span>{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span> 
+            {%- else -%}
+              {%- unless forloop.last -%}
+                {%- unless forloop.first -%}
+                  <span>, </span>
+                {%- endunless -%}
+                <span>{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span>
+              {%- else -%}
+                <span> &amp;&nbsp;{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span>
+              {%- endunless -%}
+            {%- endif -%}
+          {%- endfor %}
+        </p>
+        <p class="details journal">{{entry.journal}}{{entry.booktitle}}</p>
     </div>
 </a>
-
-<!--
-    <div class="overflow-y-auto h-42">
-    
-    </div>
--->

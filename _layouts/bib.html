@@ -1,26 +1,29 @@
 ---
 ---
 <div class="item">
-  <div class="container">
-    <div class="date">{{ entry.month }} {{ entry.year }}</div>
-    <div class="content">
-      {% if entry.url %}
-        <a href="{{ entry.url }}" class="title-link" target="_blank" rel="noreferrer">{{ entry.title }}</a>
-      {% else %}
-        <p class="title">{{ entry.title }}</p>
-      {% endif %}
-      <p class="author">{{ entry.author | join: ', ' }}</p>
-      <div class="details">
-        <p class="journal">{{ entry.booktitle }}</p>
-        {% if entry.url %}
-          <a href="{{ entry.url }}" target="_blank" rel="noreferrer" class="chevron-container">
-            <svg class="chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
-              <path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/>
-            </svg>
-          </a>
-        {% endif %}
-      </div>
-    </div>
+  <div class="content">
+    {% if entry.url %}
+      <a href="{{ entry.url }}" class="title-link" target="_blank" rel="noreferrer">{{ entry.title }}</a>
+    {% else %}
+      <p class="title">{{ entry.title }}</p>
+    {% endif %}
+    <p class="author">
+      {%- for author in entry.author_array -%}
+        {%- if forloop.length == 1 -%}
+          <!-- non-breaking hyphen -->
+            <span>{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span> 
+        {%- else -%}
+          {%- unless forloop.last -%}
+            {%- unless forloop.first -%}
+              <span>, </span>
+            {%- endunless -%}
+            <span>{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span>
+          {%- else -%}
+            <span> &amp;&nbsp;{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span>
+          {%- endunless -%}
+        {%- endif -%}
+      {%- endfor %}
+    </p>
+    <p class="details journal">{{entry.journal}}{{entry.booktitle}}</p>
   </div>
-  <hr class="separator">
 </div>

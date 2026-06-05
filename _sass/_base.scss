@@ -450,7 +450,6 @@ footer.sticky-bottom {
 
 // Highlight Publications
 .highlight-publications {
-  padding-bottom: 48px;
 }
 
 .highlight-publications h2.category {
@@ -491,7 +490,7 @@ footer.sticky-bottom {
 .highlight-publications .container {
   display: flex; 
   padding: 1rem;
-  height: 26rem; 
+  height: 24rem; 
   flex-direction: column; 
   border-radius: 0.8rem;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -507,7 +506,7 @@ footer.sticky-bottom {
 }
 
 .highlight-publications img {
-  object-fit: cover; 
+  object-fit: contain;
   object-position: center; 
   padding-bottom: 1rem; 
   border-radius: 0.375rem; 
@@ -528,6 +527,7 @@ footer.sticky-bottom {
   font-size: 1rem;
   line-height: 1.25rem; 
   font-weight: 600; 
+  font-weight: bold;
 }
 
 .highlight-publications .author-container {
@@ -542,6 +542,15 @@ footer.sticky-bottom {
   font-style: italic;
   color: var(--global-text-color-light)
 }
+
+.highlight-publications .journal {
+  font-size: 0.95rem;
+  line-height: 1.2rem;
+  color: var(--global-text-color-light);
+  flex-grow: 1;
+  font-size: 0.875rem;
+}
+
 
 // Publications
 .publications h2.category {
@@ -560,7 +569,6 @@ footer.sticky-bottom {
 }
 
 .publications .item {
-  padding-top: 20px;
   display: none;
   animation: fadeInAnimation ease 0.5s;
   animation-iteration-count: 1;
@@ -604,7 +612,6 @@ footer.sticky-bottom {
   display: inline-block;
   font-weight: 500;
   font-size: 1.1rem;
-  margin-bottom: 0.3rem;
   line-height: 1.5rem;
   text-decoration: none;
   transition: color 0.3s ease;
@@ -614,7 +621,6 @@ footer.sticky-bottom {
   display: inline-block;
   font-weight: 400;
   font-size: 1.1rem;
-  margin-bottom: 0.3rem;
   line-height: 1.5rem;
   text-decoration: none;
   transition: color 0.3s ease;
@@ -625,7 +631,7 @@ footer.sticky-bottom {
   font-size: 0.95rem;
   font-style: italic;
   color: var(--global-text-color-light);
-  margin-bottom: 0.3rem;
+  margin-bottom: 0rem;
 }
 
 .publications .journal {
@@ -633,26 +639,6 @@ footer.sticky-bottom {
   line-height: 1.2rem;
   color: var(--global-text-color-light);
   flex-grow: 1;
-}
-
-.publications .chevron {
-  width: 15px;
-  height: 15px;
-  transition: transform 0.3s ease, fill 0.3s ease;
-  margin-left: 8px;
-  color: var(--global-text-color);
-}
-
-.publications .chevron:hover {
-  fill: var(--global-hover-color);
-  transform: scale(1.1);
-}
-
-.publications .separator {
-  padding-top: 0px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding-bottom: 0px;
 }
 
 .publications .show-more {
