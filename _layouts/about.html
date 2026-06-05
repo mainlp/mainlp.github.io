@@ -17,10 +17,7 @@ layout: default
                 {%- assign profile_image_class = "img-fluid rounded" -%}
               {% endif %}
 
-              {% include figure.html 
-              path=profile_image_path 
-              class=profile_image_class
-              alt=page.profile.image -%}
+              <img src={{profile_image_path}} alt="MaiNLP logo">
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
