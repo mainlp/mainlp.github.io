@@ -52,8 +52,6 @@ footer_fixed: false
 # Dimensions
 max_width: 800px
 
-# TODO: add layout settings (single page vs. multi-page)
-
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
@@ -152,8 +150,8 @@ defaults:
 
 jekyll-minifier:
   exclude: ["robots.txt"]
-  uglifier_args:
-    harmony: true
+  # uglifier_args:
+  #   harmony: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
