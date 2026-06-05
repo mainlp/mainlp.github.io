@@ -11,15 +11,15 @@
       {%- for author in entry.author_array -%}
         {%- if forloop.length == 1 -%}
           <!-- non-breaking hyphen -->
-            <span>{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span> 
+            <span>{{author.first | replace: "-", "‑" | replace: " ", "&nbsp;" }}&nbsp;{{author.last | replace: "-", "‑" | replace: " ", "&nbsp;" }}</span> 
         {%- else -%}
           {%- unless forloop.last -%}
             {%- unless forloop.first -%}
               <span>, </span>
             {%- endunless -%}
-            <span>{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span>
+            <span>{{author.first | replace: "-", "‑" | replace: " ", "&nbsp;" }}&nbsp;{{author.last | replace: "-", "‑" | replace: " ", "&nbsp;" }}</span>
           {%- else -%}
-            <span> &amp;&nbsp;{{author.first | replace: "-", "‑" }}&nbsp;{{author.last | replace: "-", "‑" }}</span>
+            <span> &amp;&nbsp;{{author.first | replace: "-", "‑" | replace: " ", "&nbsp;" }}&nbsp;{{author.last | replace: "-", "‑" | replace: " ", "&nbsp;" }}</span>
           {%- endunless -%}
         {%- endif -%}
       {%- endfor %}
