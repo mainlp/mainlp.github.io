@@ -63,39 +63,6 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-discord_id: # your discord id (18-digit unique numerical identifier)
-
-contact_note:
-  # You can even add a little note about which of these is the best way to reach you.
-
-# -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
@@ -184,7 +151,6 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
-  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
@@ -309,9 +275,6 @@ enable_tooltips:
   false # enables automatic tooltip links generated
   # for each section titles on pages and posts
 enable_darkmode: false # enables switching between light/dark modes
-enable_navbar_social:
-  false # enables displaying social links in the
-  # navbar on the about page
 enable_project_categories:
   true # enables categorization of projects into
   # multiple categories
