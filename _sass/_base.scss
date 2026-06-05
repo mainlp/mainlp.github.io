@@ -403,24 +403,6 @@ footer.sticky-bottom {
   }
 }
 
-.pagination {
-  .page-item {
-    .page-link {
-      color: var(--global-text-color);
-      &:hover {
-        color: v.$black-color;
-      }
-    }
-    &.active .page-link {
-      color: v.$white-color;
-      background-color: var(--global-theme-color);
-      &:hover {
-        background-color: var(--global-theme-color);
-      }
-    }
-  }
-}
-
 
 // Projects
 
