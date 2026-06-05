@@ -75,17 +75,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 pagination:
   enabled: true
 
-# Comments
-# disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other exteranl sources,
-# you can display them in your blog by adding a link to the RSS feed.
-# external_sources:
-# - name: medium.com
-#   rss_url: https://medium.com/@al-folio/feed
-
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -140,18 +129,15 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+  - jekyll-archives  # todo: remove or set up
   - jekyll-compress-images
-  - jekyll-diagrams
-  - jekyll-email-protect
   - jekyll-feed
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-sitemap
+  - jekyll-sitemap  # creates sitemap for search engines
   - jekyll-target-blank
-  - jemoji
 
 # Sitemap settings
 defaults:
@@ -256,14 +242,6 @@ imagemagick:
     - ".tiff"
   output_formats:
     webp: "-resize 800x"
-
-# -----------------------------------------------------------------------------
-# Jekyll Diagrams
-# -----------------------------------------------------------------------------
-
-jekyll-diagrams:
-  # configuration, see https://github.com/zhustec/jekyll-diagrams.
-  # feel free to comment out this section if not using jekyll diagrams.
 
 # -----------------------------------------------------------------------------
 # Optional Features
