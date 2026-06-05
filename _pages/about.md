@@ -238,9 +238,9 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
 {%- for group in page.groups -%}
 
-  <h2 class="category">{{page.[group].title}}</h2>
+  <h2 class="category">{{page[group].title}}</h2>
     <div class="grid">
-      {%- for person in page.[group].people -%}
+      {%- for person in page[group].people -%}
           <article class="grid-item card">
             {% if person.picture -%}
               <img class="avatar" src="/assets/img/{{person.picture}}" alt="Portrait ({{person.name}})" width="auto" height="auto">
