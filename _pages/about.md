@@ -296,7 +296,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
-    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; Meta &rarr; NYU Center for Data Science Faculty Fellow</li>
+    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; NYU Center for Data Science Faculty Fellow</li>
     <li><a href="https://logan-siyao-peng.github.io/">Siyao (Logan) Peng</a> (postdoc, 2023–2026)</li>
     <li>Shengqiang Zhang (external co-supervised PhD student LMU, 2023–2025)</li>
     <li>Oliver Kraus (scientific programmer, 2024–2025) &rarr; PhD student at Saarland University</li>
