@@ -22,7 +22,7 @@ nav_order: 2
 
 <!--<b>PhD position</b>, apply before February 6, 2026 (open until filled); see <a href="/assets/pdf/PhDposition-Bavarian.pdf" target="_blank">job description</a>.-->
 
-<b>Postdoctoral researcher position</b>, apply by May 14, 2026 (open until filled); see <a href="/assets/pdf/Postdoctoral-researcher-MaiNLP-2026.pdf" target="_blank">job description</a>.
+<b>Research and research support positions at MaiNLP</b>, apply by June 29, 2026 (open until filled); see <a href="/assets/pdf/Positions-at-MaiNLP2026.pdf" target="_blank">job descriptions</a>.
 
 <!--
 Currently we have no PhD/postdoc position openings. Inquiries are though always welcome, as the situation might change (for example, we do not have fixed yearly PhD intakes, but it is flexible depending on available funding). Therefore:
