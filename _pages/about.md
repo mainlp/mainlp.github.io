@@ -97,10 +97,6 @@ staff:
       description: PhD student (2023–)
       website: https://pmmon.github.io/
       picture: philipp.jpg
-    - name: Verena Blaschke
-      description: PhD student (2022–)
-      website: https://verenablaschke.github.io/
-      picture: verena.png
     - name: Joris Baan
       description: Affiliated ELLIS PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
@@ -296,6 +292,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li><a href="https://verenablaschke.github.io/">Verena Blaschke</a> (PhD student, 2022–2026) &rarr; postdoc University of Groningen</li>
     <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; NYU Center for Data Science Faculty Fellow</li>
     <li><a href="https://logan-siyao-peng.github.io/">Siyao (Logan) Peng</a> (postdoc, 2023–2026)</li>
     <li>Shengqiang Zhang (external co-supervised PhD student LMU, 2023–2025)</li>
