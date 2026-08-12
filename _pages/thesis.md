@@ -55,10 +55,17 @@ Deadlines for the winter semester 2025-2026:
 - BSc students apply before **September 14, 2025**
 -->
 
-Deadlines for the summer semester 2025-2026:
+<!-- Deadlines for the summer semester 2025-2026:
 
 - MSc students apply before **Monday February 9, 2026**
 - BSc students apply before **Monday February 16, 2026**
+-->
+
+Deadlines for the winter semester 2026-2027:
+
+- MSc students apply before **August 20, 2026**
+- BSc students apply before **August 20, 2026** (same deadline this year)
+
 
 To apply, please send your application material with subject "[BSc (or MSc) thesis project at MaiNLP - inquiry Name and which semester]" to: **thesisplank@cis.lmu.de**
 
