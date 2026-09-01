@@ -33,10 +33,6 @@ staff:
       description: Postdoc (2026–)
       website: https://scholar.google.com/citations?user=JifHTiwAAAAJ
       picture: mainlp-logo-500.png      
-    - name: Silvia Casola
-      description: Postdoc (2024–)
-      website: https://scholar.google.it/citations?user=h6Nw1QIAAAAJ
-      picture: silvia.jpeg
     - name: Robert Litschko
       description: Postdoc (2022–)
       website: https://rlitschk.github.io/
@@ -292,6 +288,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li><a href="https://scholar.google.it/citations?user=h6Nw1QIAAAAJ">Silvia Casola</a> (postdoc, 2024–2026) &rarr; postdoc Universitat Pompeu Fabra (UPF)</li>
     <li><a href="https://verenablaschke.github.io/">Verena Blaschke</a> (PhD student, 2022–2026) &rarr; postdoc University of Groningen</li>
     <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; NYU Center for Data Science Faculty Fellow</li>
     <li><a href="https://logan-siyao-peng.github.io/">Siyao (Logan) Peng</a> (postdoc, 2023–2026)</li>
