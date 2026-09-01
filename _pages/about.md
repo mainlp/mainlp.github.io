@@ -130,6 +130,13 @@ student assistants:
     - name: Siyuan Wang
       description: Student assistant for teaching (2026–)
       picture: mainlp-logo-500.png
+    - name: Jisoo Kim
+      description: Student assistant for research/teaching (2026–)
+      picture: mainlp-logo-500.png
+    - name: Indira Adinda
+      description: Student assistant for research/teaching (2026–)
+      picture: mainlp-logo-500.png
+    
     
 
 affiliated:
