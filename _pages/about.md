@@ -124,9 +124,6 @@ student assistants:
     - name: Katharina Halser
       description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
-    - name: Ziyun Zhang
-      description: Student assistant for teaching (2026–)
-      picture: mainlp-logo-500.png
     - name: Siyuan Wang
       description: Student assistant for teaching (2026–)
       picture: mainlp-logo-500.png
@@ -315,7 +312,8 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   </ul>
   
   <h2 class="category">MaiNLP alumni student assistants</h2>
-  <ul>      
+  <ul>
+    <li>Ziyun Zhang (student assistant, 2026)</li>
     <li>Emma Minh Nguyet Luong (student assistant, 2025)</li>
     <li>Longfei Zuo (student assistant, 2024–2025) &rarr; PhD student at TUM</li>
     <li>Miriam Winkler (student assistant, 2023–2025)  &rarr; masitcon GmbH</li>
