@@ -108,7 +108,7 @@ admin:
       description: IT technician, system administrator
       picture: karl.jpg
     - name: Xinyuan Cheng
-      description: Scientific programmer (2026–)
+      description: Scientific programmer (2026-)
       website: https://noah-13.github.io/xinyuan-cheng/
       picture: xinyuan.jpg
       
