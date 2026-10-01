@@ -95,6 +95,7 @@ staff:
       picture: joris.jpg
     - name: Darja Jepifanova
       description: NLP engineer (2026–)
+      website: #
       picture: darja.png
 
 admin:
