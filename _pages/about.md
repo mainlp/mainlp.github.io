@@ -33,10 +33,6 @@ staff:
       description: Postdoc (2026–)
       website: https://scholar.google.com/citations?user=JifHTiwAAAAJ
       picture: mainlp-logo-500.png      
-    - name: Robert Litschko
-      description: Postdoc (2022–)
-      website: https://rlitschk.github.io/
-      picture: robert.png
     - name: Martin Bär
       description: External researcher (2026–), Heimat Bayern
       website: #
@@ -289,6 +285,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
 
  <h2 class="category">MaiNLP alumni</h2>
   <ul>
+    <li><a href="https://rlitschk.github.io/">Robert Litschko</a> (postdoc, 2022–2026) &rarr; full professor at the University of Hildesheim</li>
     <li><a href="https://scholar.google.it/citations?user=h6Nw1QIAAAAJ">Silvia Casola</a> (postdoc, 2024–2026) &rarr; postdoc Universitat Pompeu Fabra (UPF)</li>
     <li><a href="https://verenablaschke.github.io/">Verena Blaschke</a> (PhD student, 2022–2026) &rarr; postdoc University of Groningen</li>
     <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; NYU Center for Data Science Faculty Fellow</li>
@@ -338,7 +335,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
   <h2 class="category">MaiNLP alumni visitors</h2>
   <ul>
-     <!-- visitors --> 
+     <!-- visitors -->
     <li><a href="https://kdd.isti.cnr.it/people/muscato-benedetta/">Benedetta Muscato</a> (Visiting PhD student, Scuola Normale Superiore Pisa, 2025)</li>
     <li>Walter Paci (visiting PhD student, Università degli Studi di Firenze, 2025)</li>
     <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
