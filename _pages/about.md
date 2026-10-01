@@ -93,6 +93,9 @@ staff:
       description: Affiliated ELLIS PhD student (2021–), University of Amsterdam
       website: https://jorisbaan.nl/
       picture: joris.jpg
+    - name: Darja Jepifanova
+      description: NLP engineer (2026–)
+      picture: darja.png
 
 admin:
   title: Administrative staff
@@ -113,9 +116,6 @@ student assistants:
   people:
     - name: Jasmin Orth
       description: Student assistant for research/teaching (2026–)
-      picture: mainlp-logo-500.png
-    - name: Darja Jepifanova
-      description: Student assistant for teaching (2025–)
       picture: mainlp-logo-500.png
     - name: Katharina Halser
       description: Student assistant for teaching (2025–)
