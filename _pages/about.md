@@ -169,10 +169,6 @@ affiliated:
       description: Professor, LMU Munich, co-supervisor
       website: https://www.sprachlit.lmu.de/de/die-fakultaet/personen/kontaktseite/lars-buelow-93ab2239.html
       picture: mainlp-logo-500.png
-    - name: Wessel Poelman
-      description: Visiting PhD student, KU Leuven, Belgium
-      website: https://wesselpoelman.nl/
-      picture: wessel.jpg
     - name: Sebastian Loftus
       description: External mentored PhD student, UCLouvain, Belgium
       picture: sebastian.jpg
@@ -289,7 +285,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
     <li><a href="https://rlitschk.github.io/">Robert Litschko</a> (postdoc, 2022–2026) &rarr; full professor at the University of Hildesheim</li>
     <li><a href="https://scholar.google.it/citations?user=h6Nw1QIAAAAJ">Silvia Casola</a> (postdoc, 2024–2026) &rarr; postdoc Universitat Pompeu Fabra (UPF)</li>
     <li><a href="https://verenablaschke.github.io/">Verena Blaschke</a> (PhD student, 2022–2026) &rarr; postdoc University of Groningen</li>
-    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; NYU Center for Data Science Faculty Fellow</li>
+    <li><a href="https://xinpeng-wang.github.io/">Xinpeng Wang</a> (PhD student, 2022–2026) &rarr; NYU Center for Data Science assistant professor/faculty fellow </li>
     <li><a href="https://logan-siyao-peng.github.io/">Siyao (Logan) Peng</a> (postdoc, 2023–2026)</li>
     <li>Shengqiang Zhang (external co-supervised PhD student LMU, 2023–2025)</li>
     <li>Oliver Kraus (scientific programmer, 2024–2025) &rarr; PhD student at Saarland University</li>
@@ -336,7 +332,7 @@ To <a href="/events-archive/">earlier events</a> at MaiNLP.
   
   <h2 class="category">MaiNLP alumni visitors</h2>
   <ul>
-     <!-- visitors -->
+    <li><a href="https://wesselpoelman.nl/">Wessel Poelman</a> (Visiting PhD student, KU Leuven, Belgium, 2026)</li>
     <li><a href="https://kdd.isti.cnr.it/people/muscato-benedetta/">Benedetta Muscato</a> (Visiting PhD student, Scuola Normale Superiore Pisa, 2025)</li>
     <li>Walter Paci (visiting PhD student, Università degli Studi di Firenze, 2025)</li>
     <li><a href="https://www.uni.lu/fhse-en/people/anne-marie-lutgen/">Anne-Marie Lutgen</a> (visiting PhD student, Luxembourg University, 2025)</li>
