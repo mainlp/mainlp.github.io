@@ -127,6 +127,18 @@ student assistants:
     - name: Indira Adinda
       description: Student assistant for research/teaching (2026–)
       picture: mainlp-logo-500.png
+    - name: Anastasiia Ivanova
+      description: Student assistant for research/teaching (2026–)
+      picture: mainlp-logo-500.png
+    - name: Jingyi Wang
+      description: Student assistant for research/teaching (2026–)
+      picture: mainlp-logo-500.png
+    - name: Sofiia Pyrkina
+      description: Student assistant for teaching (2026–)
+      picture: mainlp-logo-500.png
+    - name: Nizar Blass
+      description: Student assistant for research/teaching (2026–)
+      picture: mainlp-logo-500.png
     
     
 
