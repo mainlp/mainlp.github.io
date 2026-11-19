@@ -6,7 +6,7 @@ abstract: "<p>How can we reconstruct the evolutionary history of dialects from l
 speaker: Yugo Murawaki<br/>(Associate Professor, Graduate School of Informatics, Kyoto University, Japan)
 bio: "<p>Yugo Murawaki is an Associate Professor at the Graduate School of Informatics, Kyoto University, Japan. He is currently visiting the University of Passau, Germany. His research interests include natural language processing, computational historical linguistics, and the human-likeness of large language models.</p>"
 
-time: November 30, 2026; 11:00
+time: November 30, 2026; 16:00
 location: Akademiestr. 7, room 218A (meeting room)
 roomfinder: https://mainlp.github.io/contact/
 anchor: 2026-11-30-yugo-murawaki-2
