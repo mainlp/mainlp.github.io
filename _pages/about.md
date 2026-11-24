@@ -139,6 +139,9 @@ student assistants:
     - name: Nizar Blass
       description: Student assistant for research/teaching (2026–)
       picture: mainlp-logo-500.png
+    - name: Maxine Röhrich
+      description: Student assistant for research/teaching (2026–)
+      picture: mainlp-logo-500.png
     
     
 
