@@ -29,6 +29,10 @@ staff:
       description: Junior Research Group Leader
       website: https://www.michael-hedderich.de/
       picture: michael.jpg
+    - name: Esteban Garcés Arias
+      description: Postdoc (2026–)
+      website: https://scholar.google.com/citations?user=FK1UX0gAAAAJ&hl=en
+      picture: mainlp-logo-500.png
     - name: Mahdi Dhaini
       description: Postdoc (2026–)
       website: https://scholar.google.com/citations?user=JifHTiwAAAAJ
